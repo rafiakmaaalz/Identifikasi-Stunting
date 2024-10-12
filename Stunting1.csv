@@ -1,0 +1,2141 @@
+Usia,Berat,Tinggi,BBU,ZS BB/U,ZS TB/U,BBTB,ZS BB/TB,Gender,TB/U
+56,15,105,Berat Badan Normal,-1.3,-0.7,Gizi Baik,-1.39,0,Normal
+48,12.5,102.5,Berat Badan Normal,-1.89,-0.06,Gizi Kurang,-2.8,0,Normal
+54,18,103,Berat Badan Normal,0.28,-0.79,Risiko Gizi Lebih,1.17,1,Normal
+54,22.7,110,Risiko Lebih,1.93,0.63,Gizi Lebih,2.23,1,Normal
+38,14.7,96,Berat Badan Normal,-0.06,-0.49,Gizi Baik,0.34,0,Normal
+57,14.3,102,Berat Badan Normal,-1.57,-1.34,Gizi Baik,-1.12,1,Normal
+48,16.4,104,Berat Badan Normal,0.08,0.19,Gizi Baik,-0.03,1,Normal
+49,13,95,Berat Badan Normal,-1.66,-1.91,Gizi Baik,-0.75,0,Normal
+51,15.8,100,Berat Badan Normal,-0.89,-1.83,Gizi Baik,0.41,0,Normal
+58,17,103,Berat Badan Normal,-0.35,-1.16,Gizi Baik,0.57,0,Normal
+46,18,107,Berat Badan Normal,0.86,1.06,Gizi Baik,0.33,1,Normal
+39,13.2,94,Berat Badan Normal,-1.97,-2.64,Gizi Baik,-0.58,1,Pendek
+56,12.5,99,Kurang,-2.6,-2.01,Gizi Kurang,-2.04,1,Pendek
+58,14,104,Berat Badan Normal,-1.79,-1.03,Gizi Baik,-1.81,1,Normal
+55,21.9,101,ko Lebih,1.66,-1.42,Obesitas,3.93,1,Normal
+51,15,97.6,Berat Badan Normal,-0.75,-1.58,Gizi Baik,0.32,0,Normal
+58,19.2,102,Berat Badan Normal,0.48,-1.37,Gizi Lebih,2.04,0,Normal
+56,14.8,102,Berat Badan Normal,-1.37,-1.3,Gizi Baik,-0.9,1,Normal
+54,27.6,110,Risiko Lebih,3.22,0.41,Obesitas,4.43,0,Normal
+58,18.9,112.5,Berat Badan Normal,0.49,1.08,Gizi Baik,-0.39,0,Normal
+53,16.5,106,Berat Badan Normal,-0.35,-0.16,Gizi Baik,-0.4,1,Normal
+57,20.1,105,Berat Badan Normal,0.8,-0.69,Risiko Gizi Lebih,1.89,0,Normal
+57,17.9,111,Berat Badan Normal,-0.01,0.53,Gizi Baik,-0.6,1,Normal
+55,13,101,Kurang,-2.14,-1.33,Gizi Kurang,-2.01,0,Normal
+55,15,102,Berat Badan Normal,-1.22,-1.22,Gizi Baik,-0.73,0,Normal
+56,16.1,105,Berat Badan Normal,-0.77,-0.72,Gizi Baik,-0.54,1,Normal
+54,14,105,Berat Badan Normal,-1.67,-0.41,Gizi Kurang,-2.25,1,Normal
+56,19.4,107,Berat Badan Normal,0.68,-0.2,Risiko Gizi Lebih,1.18,0,Normal
+54,21.6,107,Risiko Lebih,1.64,0.07,Gizi Lebih,2.36,1,Normal
+58,17.6,106.5,Berat Badan Normal,-0.18,-0.54,Gizi Baik,0.18,1,Normal
+57,15.8,103.5,Berat Badan Normal,-0.82,-0.98,Gizi Baik,-0.33,1,Normal
+57,15.5,105,Berat Badan Normal,-1.09,-0.77,Gizi Baik,-0.99,0,Normal
+56,19.3,100.5,Berat Badan Normal,0.64,-1.65,Gizi Lebih,2.56,1,Normal
+59,15.5,107.5,Berat Badan Normal,-1.06,-0.3,Gizi Baik,-1.43,0,Normal
+58,19.1,114.2,Berat Badan Normal,0.39,1.15,Gizi Baik,-0.65,0,Normal
+48,18.9,101,Risiko Lebih,1.13,-0.55,Gizi Lebih,2.21,0,Normal
+55,16.5,104,Berat Badan Normal,-0.39,-0.66,Gizi Baik,0.03,0,Normal
+59,24,110,Risiko Lebih,2.02,0.12,Gizi Lebih,2.82,0,Normal
+58,17,101,Berat Badan Normal,-0.5,-1.83,Gizi Baik,0.99,1,Normal
+58,13.8,99.7,Berat Badan Normal,-1.88,-1.91,Gizi Baik,-1.04,1,Normal
+58,16.5,110,Berat Badan Normal,-0.55,0.34,Gizi Baik,-1.3,0,Normal
+57,20,112,Berat Badan Normal,0.78,0.7,Gizi Baik,0.43,1,Normal
+55,23,111.4,Risiko Lebih,1.84,0.97,Risiko Gizi Lebih,1.86,0,Normal
+55,14,99,Berat Badan Normal,-1.78,-1.94,Gizi Baik,-0.92,0,Normal
+58,17,110,Berat Badan Normal,-0.45,0.22,Gizi Baik,-0.99,1,Normal
+56,18.1,110,Berat Badan Normal,0.12,0.4,Gizi Baik,-0.26,0,Normal
+55,14.6,105,Berat Badan Normal,-1.44,-0.58,Gizi Baik,-1.73,0,Normal
+56,15.5,104.5,Berat Badan Normal,-1.02,-0.76,Gizi Baik,-0.88,0,Normal
+59,20.7,106.2,Berat Badan Normal,0.95,-0.72,Gizi Lebih,2.08,1,Normal
+56,16,106,Berat Badan Normal,-0.76,-0.4,Gizi Baik,-0.83,1,Normal
+53,13.5,100,Berat Badan Normal,-1.9,-1.44,Gizi Baik,-1.6,0,Normal
+58,15.3,105,Berat Badan Normal,-1.26,-0.91,Gizi Baik,-1.15,0,Normal
+58,20.4,110,Berat Badan Normal,0.91,0.22,Risiko Gizi Lebih,1.08,0,Normal
+57,16.8,106,Berat Badan Normal,-0.4,-0.46,Gizi Baik,-0.21,0,Normal
+55,14.4,103,Berat Badan Normal,-1.52,-0.98,Gizi Baik,-1.46,0,Normal
+58,19,108.8,Berat Badan Normal,0.36,-0.01,Gizi Baik,0.49,1,Normal
+55,13.6,103,Berat Badan Normal,-1.76,-0.83,Gizi Baik,-1.92,1,Normal
+58,15.1,101,Berat Badan Normal,-1.2,-1.59,Gizi Baik,-0.3,0,Normal
+57,13.35,101,Kurang,-2.03,-1.47,Gizi Baik,-1.7,1,Normal
+56,14.4,104.5,Berat Badan Normal,-1.42,-0.65,Gizi Baik,-1.59,1,Normal
+58,21.2,115.3,Risiko Lebih,1.16,1.33,Gizi Baik,0.36,1,Normal
+57,16.2,106.5,Berat Badan Normal,-0.76,-0.45,Gizi Baik,-0.79,1,Normal
+57,15.2,104,Berat Badan Normal,-1.11,-0.9,Gizi Baik,-0.87,0,Normal
+56,14.2,103,Berat Badan Normal,-1.51,-0.94,Gizi Baik,-1.42,1,Normal
+58,17.35,108.5,Berat Badan Normal,-0.27,-0.08,Gizi Baik,-0.41,0,Normal
+58,15.1,107,Berat Badan Normal,-1.39,-0.52,Gizi Baik,-1.75,0,Normal
+57,13.55,103.9,Berat Badan Normal,-1.97,-0.93,Gizi Kurang,-2.16,1,Normal
+57,27.15,111.5,Risiko Lebih,2.66,0.68,Obesitas,3.46,0,Normal
+52,12.75,97.9,Kurang,-2.32,-1.87,Gizi Baik,-1.87,0,Normal
+58,14.1,104,Berat Badan Normal,-1.87,-1.08,Gizi Baik,-1.94,1,Normal
+58,15.6,99.5,Berat Badan Normal,-0.98,-1.94,Gizi Baik,0.37,0,Normal
+57,16.8,103.5,Berat Badan Normal,-0.4,-1,Gizi Baik,0.34,1,Normal
+56,16.3,102.3,Berat Badan Normal,-0.66,-1.29,Gizi Baik,0.21,0,Normal
+56,17.67,107.3,Berat Badan Normal,-0.04,-0.17,Gizi Baik,0.05,1,Normal
+58,13.1,96.4,Kurang,-2.49,-2.82,Gizi Baik,-1.19,0,Pendek
+55,17.1,107,Berat Badan Normal,-0.25,-0.17,Gizi Baik,-0.26,0,Normal
+54,15.3,102.1,Berat Badan Normal,-0.88,-1.01,Gizi Baik,-0.39,0,Normal
+58,18.1,101.8,Berat Badan Normal,-0.03,-1.65,Risiko Gizi Lebih,1.54,0,Normal
+57,19.9,108.1,Berat Badan Normal,0.76,0.01,Risiko Gizi Lebih,1.12,1,Normal
+56,22.1,118,Risiko Lebih,1.61,2.19,Gizi Baik,0.26,1,Normal
+52,16.5,107,Berat Badan Normal,-0.45,-0.04,Gizi Baik,-0.68,1,Normal
+52,18.9,110.9,Berat Badan Normal,0.58,0.83,Gizi Baik,0.04,0,Normal
+57,21.1,116.7,Risiko Lebih,1.2,1.78,Gizi Baik,0.03,0,Normal
+46,13.8,100,Berat Badan Normal,-1.94,-1.81,Gizi Baik,-1.32,1,Normal
+55,14,101.7,Berat Badan Normal,-1.78,-1.34,Gizi Baik,-1.52,1,Normal
+56,13,98,Kurang,-2.42,-2.26,Gizi Baik,-1.64,0,Pendek
+57,15.5,103.4,Berat Badan Normal,-0.88,-0.87,Gizi Baik,-0.52,0,Normal
+55,13.6,99,Berat Badan Normal,-1.98,-1.89,Gizi Baik,-1.29,0,Normal
+49,13.2,93,Berat Badan Normal,-1.79,-2.6,Gizi Baik,-0.36,1,Pendek
+58,18.5,106,Berat Badan Normal,0.22,-0.53,Gizi Baik,0.82,0,Normal
+57,21.5,113,Risiko Lebih,1.26,1.06,Gizi Baik,0.84,0,Normal
+57,16.5,104,Berat Badan Normal,-0.65,-1.05,Gizi Baik,-0.02,1,Normal
+56,14.3,100,Berat Badan Normal,-1.68,-1.83,Gizi Baik,-0.88,1,Normal
+56,15,104,Berat Badan Normal,-1.11,-0.73,Gizi Baik,-1.02,1,Normal
+58,14.3,105,Berat Badan Normal,-1.77,-0.88,Gizi Baik,-1.99,1,Normal
+58,13.6,105,Berat Badan Normal,-2,-0.8,Gizi Kurang,-2.37,0,Normal
+58,15,108,Berat Badan Normal,-1.41,-0.24,Gizi Kurang,-2.05,0,Normal
+58,16.6,106,Berat Badan Normal,-0.62,-0.65,Gizi Baik,-0.39,1,Normal
+57,15.1,107,Berat Badan Normal,-1.27,-0.3,Gizi Baik,-1.75,1,Normal
+59,16.5,106,Berat Badan Normal,-0.74,-0.78,Gizi Baik,-0.46,1,Normal
+53,15.2,100.5,Berat Badan Normal,-0.95,-1.3,Gizi Baik,-0.24,0,Normal
+53,18.7,103,Berat Badan Normal,0.65,-0.61,Risiko Gizi Lebih,1.57,1,Normal
+56,12.89,98,Kurang,-2.49,-2.27,Gizi Baik,-1.75,0,Pendek
+57,17.6,106.2,Berat Badan Normal,-0.08,-0.42,Gizi Baik,0.25,1,Normal
+53,13.2,101,Kurang,-2.12,-1.28,Gizi Kurang,-2.11,1,Normal
+54,14.8,100,Berat Badan Normal,-1.05,-1.36,Gizi Baik,-0.31,1,Normal
+54,14.5,105,Berat Badan Normal,-1.38,-0.38,Gizi Baik,-1.81,0,Normal
+56,16.2,104.5,Berat Badan Normal,-0.57,-0.65,Gizi Baik,-0.27,1,Normal
+56,17.8,102.5,Berat Badan Normal,0,-1.26,Risiko Gizi Lebih,1.19,0,Normal
+52,14.6,105,Berat Badan Normal,-1.25,-0.24,Gizi Baik,-1.73,0,Normal
+59,18,105,Berat Badan Normal,-0.11,-1.02,Gizi Baik,0.77,1,Normal
+59,19,111,Berat Badan Normal,0.3,0.29,Gizi Baik,0.07,1,Normal
+58,16.6,105,Berat Badan Normal,-0.66,-0.92,Gizi Baik,-0.17,1,Normal
+58,16.5,105,Berat Badan Normal,-0.69,-0.91,Gizi Baik,-0.24,0,Normal
+58,17.5,104,Berat Badan Normal,-0.25,-1.12,Gizi Baik,0.67,1,Normal
+58,13.69,99,Berat Badan Normal,-1.93,-2.04,Gizi Baik,-0.98,1,Pendek
+54,18,108,Berat Badan Normal,0.25,0.25,Gizi Baik,0.11,0,Normal
+54,17.4,106,Berat Badan Normal,0.07,-0.09,Gizi Baik,0.17,1,Normal
+52,14.5,103,Berat Badan Normal,-1.09,-0.5,Gizi Baik,-1.18,0,Normal
+58,14.9,103.2,Berat Badan Normal,-1.48,-1.31,Gizi Baik,-1.08,0,Normal
+58,13.7,103,Berat Badan Normal,-1.9,-1.16,Gizi Baik,-1.83,1,Normal
+36,10.5,89,Kurang,-2.28,-1.65,Gizi Baik,-1.93,0,Normal
+52,19,103,Berat Badan Normal,0.79,-0.56,Risiko Gizi Lebih,1.73,0,Normal
+53,15.3,107,Berat Badan Normal,-0.75,0.29,Gizi Baik,-1.46,0,Normal
+54,16.25,101.5,Berat Badan Normal,-0.38,-1.03,Gizi Baik,0.4,0,Normal
+53,13.65,98.5,Berat Badan Normal,-1.84,-1.82,Gizi Baik,-1.13,1,Normal
+54,15.2,101,Berat Badan Normal,-0.91,-1.23,Gizi Baik,-0.23,1,Normal
+54,14.6,100,Berat Badan Normal,-1.18,-1.4,Gizi Baik,-0.46,0,Normal
+57,16.3,107,Berat Badan Normal,-0.71,-0.34,Gizi Baik,-0.83,1,Normal
+55,13.9,102.4,Berat Badan Normal,-1.81,-1.13,Gizi Baik,-1.77,1,Normal
+54,14.6,104,Berat Badan Normal,-1.39,-0.72,Gizi Baik,-1.51,0,Normal
+28,12.4,95.1,Berat Badan Normal,-0.37,1.39,Gizi Baik,-1.62,0,Normal
+52,20.9,108.6,Risiko Lebih,1.39,0.42,Risiko Gizi Lebih,1.65,0,Normal
+54,13.6,96.7,Berat Badan Normal,-1.59,-1.95,Gizi Baik,-0.58,1,Normal
+57,22.3,116,Risiko Lebih,1.58,1.58,Gizi Baik,0.76,0,Normal
+54,18.1,107.5,Berat Badan Normal,0.26,0.08,Gizi Baik,0.29,1,Normal
+53,14.8,103,Berat Badan Normal,-1.01,-0.62,Gizi Baik,-0.95,1,Normal
+59,18.7,105.1,Berat Badan Normal,0.23,-0.83,Risiko Gizi Lebih,1.13,0,Normal
+55,16.4,99.3,Berat Badan Normal,-0.54,-1.84,Gizi Baik,0.94,1,Normal
+48,17.3,102.4,Berat Badan Normal,-0.32,-1.45,Gizi Baik,0.89,0,Normal
+56,20.4,101.9,Risiko Lebih,1.01,-1.4,Gizi Lebih,2.87,1,Normal
+54,14,94,Berat Badan Normal,-1.47,-2.69,Gizi Baik,0.29,0,Pendek
+54,16.4,101.1,Berat Badan Normal,-0.26,-1.03,Gizi Baik,0.58,1,Normal
+56,14.8,101.7,Berat Badan Normal,-1.39,-1.41,Gizi Baik,-0.83,0,Normal
+51,17.4,104,Berat Badan Normal,0.28,-0.18,Gizi Baik,0.6,1,Normal
+54,16.1,102,Berat Badan Normal,-0.59,-1.09,Gizi Baik,0.13,1,Normal
+53,11.9,95,Kurang,-2.88,-2.54,Gizi Kurang,-2.13,0,Pendek
+59,20.3,113.3,Berat Badan Normal,0.76,0.9,Gizi Baik,0.18,1,Normal
+57,18.4,99,Berat Badan Normal,0.25,-1.92,Gizi Lebih,2.21,1,Normal
+57,16.4,102,Berat Badan Normal,-0.69,-1.49,Gizi Baik,0.35,0,Normal
+55,16,109,Berat Badan Normal,-0.61,0.42,Gizi Baik,-1.42,1,Normal
+56,17,104,Berat Badan Normal,-0.31,-0.86,Gizi Baik,0.33,1,Normal
+51,14,100,Berat Badan Normal,-1.52,-1.28,Gizi Baik,-1.14,1,Normal
+58,14.8,108.5,Berat Badan Normal,-1.36,-0.04,Gizi Kurang,-2.19,0,Normal
+58,17.5,106.5,Berat Badan Normal,-0.27,-0.62,Gizi Baik,0.12,0,Normal
+50,16.3,103.5,Berat Badan Normal,-0.12,-0.19,Gizi Baik,0.01,1,Normal
+58,16.7,105,Berat Badan Normal,-0.61,-0.92,Gizi Baik,-0.1,0,Normal
+54,13.7,101,Berat Badan Normal,-1.64,-1.16,Gizi Baik,-1.4,0,Normal
+53,15.5,101,Berat Badan Normal,-0.82,-1.22,Gizi Baik,-0.11,1,Normal
+52,16,104,Berat Badan Normal,-0.41,-0.35,Gizi Baik,-0.3,1,Normal
+55,18.2,103,Berat Badan Normal,0.28,-0.91,Risiko Gizi Lebih,1.29,1,Normal
+55,19.8,109,Berat Badan Normal,0.92,0.39,Gizi Baik,0.97,1,Normal
+57,14.2,107,Berat Badan Normal,-1.59,-0.22,Gizi Kurang,-2.32,0,Normal
+52,13.5,105,Berat Badan Normal,-1.63,-0.07,Gizi Kurang,-2.45,1,Normal
+59,15.6,107,Berat Badan Normal,-1.04,-0.45,Gizi Baik,-1.25,1,Normal
+52,15.8,106,Berat Badan Normal,-0.61,0.04,Gizi Baik,-0.98,0,Normal
+54,15.5,106.5,Berat Badan Normal,-0.75,0.03,Gizi Baik,-1.21,0,Normal
+54,17.1,102.5,Berat Badan Normal,-0.11,-0.95,Gizi Baik,0.73,1,Normal
+54,16.3,106,Berat Badan Normal,-0.53,-0.24,Gizi Baik,-0.61,0,Normal
+54,16.6,106,Berat Badan Normal,-0.39,-0.24,Gizi Baik,-0.39,0,Normal
+54,16,99,Berat Badan Normal,-0.67,-1.81,Gizi Baik,0.71,0,Normal
+53,15.3,106,Berat Badan Normal,-0.91,-0.05,Gizi Baik,-1.37,1,Normal
+54,16,104,Berat Badan Normal,-0.56,-0.59,Gizi Baik,-0.3,1,Normal
+56,16.3,111,Berat Badan Normal,-0.51,0.78,Gizi Baik,-1.67,1,Normal
+58,14.7,103,Berat Badan Normal,-1.56,-1.33,Gizi Baik,-1.2,1,Normal
+58,15,100.2,Berat Badan Normal,-1.28,-1.82,Gizi Baik,-0.21,0,Normal
+52,13.3,102.5,Berat Badan Normal,-1.76,-0.66,Gizi Kurang,-2.07,1,Normal
+59,16.2,110,Berat Badan Normal,-0.79,0.16,Gizi Baik,-1.51,0,Normal
+54,16.2,100,Berat Badan Normal,-0.41,-1.37,Gizi Baik,0.68,1,Normal
+54,11.3,89,Sangat Kurang,-3.34,-4.03,Gizi Baik,-1.43,1,Sangat Pendek
+55,15.4,103.7,Berat Badan Normal,-0.85,-0.68,Gizi Baik,-0.66,0,Normal
+59,29.4,115,Risiko Lebih,3.03,1.27,Obesitas,3.47,0,Normal
+51,16.5,103,Berat Badan Normal,-0.11,-0.44,Gizi Baik,0.25,0,Normal
+51,14.3,99,Berat Badan Normal,-1.06,-1.19,Gizi Baik,-0.49,0,Normal
+58,16.5,106,Berat Badan Normal,-0.58,-0.55,Gizi Baik,-0.4,0,Normal
+57,13.7,100,Kurang,-2.03,-1.86,Gizi Baik,-1.42,0,Normal
+55,12.7,98,Kurang,-2.5,-2.1,Gizi Baik,-1.94,1,Pendek
+53,17.4,110,Berat Badan Normal,0.18,0.99,Gizi Baik,-0.72,0,Normal
+52,17,106,Berat Badan Normal,-0.02,0.08,Gizi Baik,-0.11,1,Normal
+53,17,102,Berat Badan Normal,-0.02,-0.85,Gizi Baik,0.78,1,Normal
+54,18.3,106,Berat Badan Normal,0.4,-0.12,Gizi Baik,0.71,1,Normal
+54,16.4,100,Berat Badan Normal,-0.37,-1.44,Gizi Baik,0.81,1,Normal
+51,13.3,83.1,Berat Badan Normal,-1.65,-4.85,Gizi Lebih,2.12,1,Sangat Pendek
+55,15,102,Berat Badan Normal,-1.2,-1.19,Gizi Baik,-0.73,0,Normal
+53,16.5,105,Berat Badan Normal,-0.34,-0.3,Gizi Baik,-0.24,0,Normal
+54,15,103,Berat Badan Normal,-0.99,-0.76,Gizi Baik,-0.8,1,Normal
+51,12.4,96,Kurang,-2.23,-1.99,Gizi Baik,-1.5,0,Normal
+53,14.4,97.4,Berat Badan Normal,-1.19,-1.83,Gizi Baik,-0.09,0,Normal
+51,14.4,102.5,Berat Badan Normal,-1.24,-0.61,Gizi Baik,-1.35,1,Normal
+53,16.7,109,Berat Badan Normal,-0.28,0.54,Gizi Baik,-0.98,1,Normal
+53,18.4,106,Berat Badan Normal,0.54,0.06,Gizi Baik,0.77,0,Normal
+56,14.7,100.4,Berat Badan Normal,-1.41,-1.75,Gizi Baik,-0.47,0,Normal
+50,20,110,Risiko Lebih,1.27,1.25,Gizi Baik,0.76,1,Normal
+57,20.45,102,Berat Badan Normal,0.92,-1.32,Gizi Lebih,2.68,0,Normal
+54,13.5,100,Berat Badan Normal,-2,-1.61,Gizi Baik,-1.6,0,Normal
+49,13.2,97.5,Berat Badan Normal,-1.6,-1.43,Gizi Baik,-1.09,0,Normal
+50,13.9,98,Berat Badan Normal,-1.45,-1.53,Gizi Baik,-0.79,1,Normal
+52,15.9,103,Berat Badan Normal,-0.4,-0.48,Gizi Baik,-0.16,1,Normal
+53,15.3,104,Berat Badan Normal,-0.76,-0.39,Gizi Baik,-0.8,1,Normal
+53,18.9,105.5,Berat Badan Normal,0.65,-0.26,Risiko Gizi Lebih,1.22,1,Normal
+56,17,104.5,Berat Badan Normal,-0.25,-0.67,Gizi Baik,0.25,1,Normal
+58,15.3,99,Berat Badan Normal,-1.09,-2,Gizi Baik,0.26,0,Normal
+56,13.95,104,Berat Badan Normal,-1.69,-0.82,Gizi Baik,-1.85,0,Normal
+55,17.85,104,Berat Badan Normal,0.13,-0.71,Gizi Baik,0.87,0,Normal
+55,16.1,115,Berat Badan Normal,-0.7,1.63,Gizi Kurang,-2.7,0,Normal
+55,12.8,93,Kurang,-2.25,-3.06,Gizi Baik,-0.51,1,Sangat Pendek
+55,17.7,106.5,Berat Badan Normal,0.08,-0.17,Gizi Baik,0.25,0,Normal
+55,21,104.5,Risiko Lebih,1.33,-0.65,Gizi Lebih,2.61,0,Normal
+54,15.8,100,Berat Badan Normal,-0.73,-1.53,Gizi Baik,0.34,0,Normal
+54,14.9,99.5,Berat Badan Normal,-1.02,-1.49,Gizi Baik,-0.13,0,Normal
+54,15.5,102.7,Berat Badan Normal,-0.87,-0.92,Gizi Baik,-0.49,1,Normal
+54,18.7,110,Berat Badan Normal,0.59,0.84,Gizi Baik,0.05,1,Normal
+56,14,98.1,Berat Badan Normal,-1.8,-2.17,Gizi Baik,-0.72,0,Pendek
+52,16,106,Berat Badan Normal,-0.51,0.05,Gizi Baik,-0.83,0,Normal
+49,23,110,Risiko Lebih,2.45,1.31,Gizi Lebih,2.37,1,Normal
+50,12.6,96.5,Kurang,-2.03,-1.77,Gizi Baik,-1.42,0,Normal
+53,13.8,100,Berat Badan Normal,-1.74,-1.46,Gizi Baik,-1.32,1,Normal
+53,27,110,Risiko Lebih,3.31,0.77,Obesitas,4.16,1,Normal
+51,14.6,100,Berat Badan Normal,-0.97,-1.07,Gizi Baik,-0.46,0,Normal
+57,16.5,103.5,Berat Badan Normal,-0.51,-0.98,Gizi Baik,0.14,0,Normal
+59,13.7,103,Berat Badan Normal,-1.98,-1.27,Gizi Baik,-1.83,0,Normal
+50,20.3,103.5,Risiko Lebih,1.4,-0.18,Gizi Lebih,2.3,1,Normal
+59,23,103,Risiko Lebih,1.56,-1.27,Obesitas,3.69,0,Normal
+49,17,104.5,Berat Badan Normal,0.16,0.03,Gizi Baik,0.22,0,Normal
+55,15.5,102,Berat Badan Normal,-0.94,-1.18,Gizi Baik,-0.33,0,Normal
+49,13.4,98.5,Berat Badan Normal,-1.67,-1.31,Gizi Baik,-1.36,0,Normal
+59,16.5,107,Berat Badan Normal,-0.63,-0.43,Gizi Baik,-0.62,0,Normal
+50,19,109,Berat Badan Normal,1,1.06,Gizi Baik,0.51,0,Normal
+55,13.7,99,Berat Badan Normal,-1.94,-1.93,Gizi Baik,-1.19,1,Normal
+56,15.5,104,Berat Badan Normal,-1.02,-0.88,Gizi Baik,-0.77,0,Normal
+56,18.6,105.5,Berat Badan Normal,0.37,-0.53,Risiko Gizi Lebih,1.04,1,Normal
+54,14.4,101.5,Berat Badan Normal,-1.49,-1.26,Gizi Baik,-1.12,1,Normal
+55,12.4,96,Kurang,-2.47,-2.36,Gizi Baik,-1.5,0,Pendek
+54,13.8,99,Berat Badan Normal,-1.58,-1.59,Gizi Baik,-0.89,0,Normal
+54,13.9,102,Berat Badan Normal,-1.53,-0.93,Gizi Baik,-1.45,1,Normal
+51,17.1,106,Berat Badan Normal,0.07,0.15,Gizi Baik,-0.04,1,Normal
+50,17.5,103.2,Berat Badan Normal,0.39,-0.25,Gizi Baik,0.83,0,Normal
+57,14.8,101.5,Berat Badan Normal,-1.43,-1.52,Gizi Baik,-0.79,1,Normal
+57,25.3,112,Risiko Lebih,2.25,0.81,Gizi Lebih,2.65,1,Normal
+58,17.3,108,Berat Badan Normal,-0.37,-0.31,Gizi Baik,-0.34,1,Normal
+56,11.5,95,Sangat Kurang,-3.12,-2.69,Gizi Kurang,-2.18,0,Pendek
+54,17.2,107,Berat Badan Normal,-0.07,0.07,Gizi Baik,-0.19,1,Normal
+59,19.9,108,Berat Badan Normal,0.67,-0.31,Risiko Gizi Lebih,1.25,0,Normal
+54,11.7,97,Kurang,-2.87,-2.06,Gizi Kurang,-2.4,1,Pendek
+51,13.8,100,Berat Badan Normal,-1.62,-1.26,Gizi Baik,-1.32,0,Normal
+48,15,102.5,Berat Badan Normal,-0.44,0.06,Gizi Baik,-0.69,1,Normal
+57,17.7,108,Berat Badan Normal,-0.03,-0.02,Gizi Baik,-0.08,1,Normal
+57,12.6,98,Kurang,-2.5,-2.16,Gizi Baik,-1.73,0,Pendek
+56,14.3,101,Berat Badan Normal,-1.48,-1.41,Gizi Baik,-0.91,0,Normal
+53,15.6,100,Berat Badan Normal,-0.61,-1.26,Gizi Baik,0.27,0,Normal
+50,17.5,109,Berat Badan Normal,0.42,1.12,Gizi Baik,-0.43,1,Normal
+48,14.1,103.8,Berat Badan Normal,-1.19,0.08,Gizi Baik,-1.9,1,Normal
+49,13.1,99.4,Berat Badan Normal,-1.66,-1,Gizi Baik,-1.57,1,Normal
+53,25.2,107.5,Risiko Lebih,2.78,0.2,Obesitas,3.98,1,Normal
+52,14.6,100.5,Berat Badan Normal,-1.03,-1.06,Gizi Baik,-0.57,1,Normal
+49,16.2,100.6,Berat Badan Normal,-0.22,-0.89,Gizi Baik,0.51,1,Normal
+58,13.8,103,Kurang,-2.03,-1.3,Gizi Baik,-1.99,0,Normal
+52,24.4,107.5,Risiko Lebih,2.63,0.33,Obesitas,3.59,0,Normal
+55,17.5,106,Berat Badan Normal,-0.05,-0.35,Gizi Baik,0.23,0,Normal
+58,19.1,113.7,Berat Badan Normal,0.38,0.95,Gizi Baik,-0.45,1,Normal
+56,22.5,105,Risiko Lebih,1.78,-0.63,Obesitas,3.26,1,Normal
+56,14.5,100,Berat Badan Normal,-1.55,-1.78,Gizi Baik,-0.71,0,Normal
+52,17,104.5,Berat Badan Normal,0.03,-0.21,Gizi Baik,0.25,0,Normal
+56,15.4,101.4,Berat Badan Normal,-0.94,-1.32,Gizi Baik,-0.17,0,Normal
+54,13.3,101,Berat Badan Normal,-1.9,-1.22,Gizi Baik,-1.74,1,Normal
+58,15,100.7,Berat Badan Normal,-1.28,-1.72,Gizi Baik,-0.31,0,Normal
+50,17.9,100.5,Berat Badan Normal,0.53,-0.94,Risiko Gizi Lebih,1.7,1,Normal
+59,15.7,106,Berat Badan Normal,-1.1,-0.74,Gizi Baik,-1.06,1,Normal
+57,16.9,107.5,Berat Badan Normal,-0.45,-0.26,Gizi Baik,-0.51,0,Normal
+56,12.8,96,Kurang,-2.52,-2.68,Gizi Baik,-1.4,0,Pendek
+58,15,108,Berat Badan Normal,-1.25,-0.11,Gizi Baik,-1.92,0,Normal
+57,13.2,98.9,Kurang,-2.31,-2.08,Gizi Baik,-1.64,0,Pendek
+52,14.3,98.4,Berat Badan Normal,-1.41,-1.75,Gizi Baik,-0.52,1,Normal
+52,13.7,98.5,Berat Badan Normal,-1.73,-1.69,Gizi Baik,-1.08,1,Normal
+51,15.5,96.1,Berat Badan Normal,-0.69,-2.14,Gizi Baik,0.96,0,Pendek
+49,17.5,104,Berat Badan Normal,0.42,-0.02,Gizi Baik,0.67,1,Normal
+49,21,107,Risiko Lebih,1.85,0.73,Gizi Lebih,2.06,1,Normal
+57,16.2,103,Berat Badan Normal,-0.77,-1.24,Gizi Baik,-0.02,1,Normal
+49,14.6,101,Berat Badan Normal,-1.04,-0.8,Gizi Baik,-0.84,1,Normal
+51,17.9,105,Berat Badan Normal,0.49,0.06,Gizi Baik,0.69,0,Normal
+58,15.6,106,Berat Badan Normal,-0.97,-0.54,Gizi Baik,-1.02,0,Normal
+57,26.2,112,Risiko Lebih,2.45,0.79,Gizi Lebih,2.98,0,Normal
+59,14.9,107,Berat Badan Normal,-1.36,-0.43,Gizi Baik,-1.77,1,Normal
+54,18,110.4,Berat Badan Normal,0.27,0.83,Gizi Baik,-0.41,1,Normal
+52,14.9,100,Berat Badan Normal,-1.16,-1.49,Gizi Baik,-0.37,0,Normal
+56,20.3,109,Risiko Lebih,1.03,0.27,Risiko Gizi Lebih,1.25,0,Normal
+53,15.8,100,Berat Badan Normal,-0.71,-1.51,Gizi Baik,0.34,0,Normal
+51,11.9,93,Kurang,-2.56,-2.69,Gizi Baik,-1.35,0,Pendek
+51,14.9,100,Berat Badan Normal,-1.01,-1.24,Gizi Baik,-0.37,0,Normal
+54,15.5,99,Berat Badan Normal,-0.88,-1.77,Gizi Baik,0.33,1,Normal
+52,13,100,Berat Badan Normal,-1.94,-1.22,Gizi Baik,-1.79,1,Normal
+53,18.4,103,Berat Badan Normal,0.51,-0.65,Risiko Gizi Lebih,1.4,0,Normal
+49,13.8,98,Berat Badan Normal,-1.21,-1.24,Gizi Baik,-0.69,0,Normal
+49,17.1,106,Berat Badan Normal,0.23,0.42,Gizi Baik,-0.04,1,Normal
+52,13,98,Berat Badan Normal,-1.92,-1.64,Gizi Baik,-1.37,1,Normal
+53,15.6,103.6,Berat Badan Normal,-0.77,-0.62,Gizi Baik,-0.61,0,Normal
+58,15.6,103.6,Berat Badan Normal,-1.13,-1.23,Gizi Baik,-0.61,0,Normal
+48,12.9,96.3,Berat Badan Normal,-1.71,-1.6,Gizi Baik,-1.11,1,Normal
+58,15.7,100,Berat Badan Normal,-0.92,-1.81,Gizi Baik,0.34,1,Normal
+53,13.4,98,Berat Badan Normal,-1.91,-1.98,Gizi Baik,-1.02,0,Normal
+58,16,106.8,Berat Badan Normal,-0.79,-0.36,Gizi Baik,-0.92,0,Normal
+56,14,98.5,Berat Badan Normal,-1.66,-1.99,Gizi Baik,-0.63,1,Normal
+58,15,102.6,Berat Badan Normal,-1.25,-1.26,Gizi Baik,-0.71,1,Normal
+58,16.3,106.6,Berat Badan Normal,-0.79,-0.56,Gizi Baik,-0.74,0,Normal
+56,"19,805",108,Berat Badan Normal,0.84,0.04,Risiko Gizi Lebih,1.19,1,Normal
+53,22.6,107,Risiko Lebih,2.04,0.17,Gizi Lebih,2.85,0,Normal
+52,11.89,95,Kurang,-2.63,-2.32,Gizi Baik,-1.79,1,Pendek
+55,18.8,106.5,Berat Badan Normal,0.48,-0.25,Gizi Baik,0.94,1,Normal
+54,14.7,95.5,Berat Badan Normal,-1.14,-2.41,Gizi Baik,0.52,1,Pendek
+53,15.3,100,Berat Badan Normal,-0.92,-1.44,Gizi Baik,-0.05,1,Normal
+50,12.5,101.4,Kurang,-2.06,-0.6,Gizi Kurang,-2.56,0,Normal
+54,27.7,111,Risiko Lebih,3.5,0.96,Obesitas,4.2,0,Normal
+49,16.6,99.5,Berat Badan Normal,0.09,-0.98,Risiko Gizi Lebih,1.04,0,Normal
+52,13.5,96.8,Berat Badan Normal,-1.65,-1.93,Gizi Baik,-0.69,1,Normal
+51,12.8,97.6,Kurang,-2.2,-1.79,Gizi Baik,-1.75,0,Normal
+55,17.7,108,Berat Badan Normal,0.08,0.17,Gizi Baik,-0.08,0,Normal
+49,18,104,Berat Badan Normal,0.61,-0.07,Gizi Baik,0.99,1,Normal
+48,16.86,104,Berat Badan Normal,0.21,0.11,Gizi Baik,0.23,0,Normal
+52,15,95.7,Berat Badan Normal,-0.87,-2.18,Gizi Baik,0.7,1,Pendek
+53,13,100.8,Berat Badan Normal,-1.98,-1.11,Gizi Baik,-1.96,1,Normal
+50,15.7,105.5,Berat Badan Normal,-0.54,0.13,Gizi Baik,-0.95,0,Normal
+58,20.6,113,Berat Badan Normal,0.99,0.89,Gizi Baik,0.54,1,Normal
+59,15.6,100.5,Berat Badan Normal,-1.02,-1.78,Gizi Baik,0.16,0,Normal
+51,15.9,103,Berat Badan Normal,-0.37,-0.42,Gizi Baik,-0.16,1,Normal
+55,14.3,104,Berat Badan Normal,-1.42,-0.66,Gizi Baik,-1.56,0,Normal
+50,12.9,92,Berat Badan Normal,-1.81,-2.74,Gizi Baik,-0.21,0,Pendek
+58,18.4,105,Berat Badan Normal,0.11,-0.93,Risiko Gizi Lebih,1.02,0,Normal
+55,15.9,104,Berat Badan Normal,-0.63,-0.63,Gizi Baik,-0.37,0,Normal
+55,13.4,102,Berat Badan Normal,-1.88,-1.06,Gizi Baik,-1.87,0,Normal
+55,16.4,104,Berat Badan Normal,-0.4,-0.62,Gizi Baik,-0.03,1,Normal
+57,15.8,104,Berat Badan Normal,-0.8,-0.83,Gizi Baik,-0.44,1,Normal
+52,20.1,104,Risiko Lebih,1.24,-0.41,Gizi Lebih,2.24,0,Normal
+53,14.3,101,Berat Badan Normal,-1.31,-1.14,Gizi Baik,-0.91,0,Normal
+50,17.7,107,Berat Badan Normal,0.39,0.49,Gizi Baik,0.14,0,Normal
+59,33.5,118,Risiko Lebih,3.91,1.87,Obesitas,4.17,0,Normal
+49,14.2,100,Berat Badan Normal,-1.23,-0.99,Gizi Baik,-0.97,0,Normal
+53,13.2,102,Kurang,-2.08,-1,Gizi Kurang,-2.34,1,Normal
+52,15.3,100,Berat Badan Normal,-0.88,-1.38,Gizi Baik,-0.05,1,Normal
+50,15.2,100,Berat Badan Normal,-0.61,-0.96,Gizi Baik,-0.02,0,Normal
+57,20.5,104,Berat Badan Normal,0.92,-0.92,Gizi Lebih,2.29,1,Normal
+55,17.6,107.1,Berat Badan Normal,-0.01,-0.11,Gizi Baik,0.05,0,Normal
+54,15.3,100.2,Berat Badan Normal,-1.01,-1.55,Gizi Baik,-0.09,1,Normal
+51,14.8,96,Berat Badan Normal,-1.07,-2.18,Gizi Baik,0.42,1,Pendek
+59,16.4,104.1,Berat Badan Normal,-0.79,-1.19,Gizi Baik,-0.12,0,Normal
+55,16.3,105,Berat Badan Normal,-0.6,-0.6,Gizi Baik,-0.39,1,Normal
+51,16.8,103,Berat Badan Normal,0,-0.46,Gizi Baik,0.44,0,Normal
+53,15.6,103.6,Berat Badan Normal,-0.81,-0.69,Gizi Baik,-0.61,1,Normal
+54,14.1,102.4,Berat Badan Normal,-1.61,-0.99,Gizi Baik,-1.59,1,Normal
+49,19.9,110,Risiko Lebih,1.37,1.33,Gizi Baik,0.81,0,Normal
+59,24.6,109.5,Risiko Lebih,2.2,0.01,Obesitas,3.2,0,Normal
+48,12.7,95.5,Berat Badan Normal,-1.8,-1.74,Gizi Baik,-1.12,1,Normal
+56,12.85,98.3,Kurang,-2.25,-1.95,Gizi Baik,-1.57,0,Normal
+50,13.4,96.2,Berat Badan Normal,-1.76,-1.98,Gizi Baik,-0.86,1,Normal
+51,13.7,102.2,Berat Badan Normal,-1.43,-0.54,Gizi Baik,-1.66,0,Normal
+54,14.9,103,Berat Badan Normal,-1.17,-0.83,Gizi Baik,-1.04,1,Normal
+51,29.3,116,Risiko Lebih,3.71,2.51,Obesitas,3.21,1,Normal
+56,15.3,104,Berat Badan Normal,-0.96,-0.72,Gizi Baik,-0.8,1,Normal
+52,15.15,97,Berat Badan Normal,-0.81,-1.91,Gizi Baik,0.55,0,Normal
+51,15.2,100,Berat Badan Normal,-0.87,-1.27,Gizi Baik,-0.13,1,Normal
+53,15.8,102,Berat Badan Normal,-0.53,-0.84,Gizi Baik,-0.01,1,Normal
+53,14.9,100,Berat Badan Normal,-1.15,-1.49,Gizi Baik,-0.37,0,Normal
+48,18.5,96.5,Berat Badan Normal,0.92,-1.69,Gizi Lebih,2.94,0,Normal
+57,13,97,Kurang,-2.24,-2.35,Gizi Baik,-1.16,1,Pendek
+57,14,99.5,Berat Badan Normal,-1.87,-1.99,Gizi Baik,-1.03,0,Normal
+55,22.5,113,Risiko Lebih,1.87,1.29,Risiko Gizi Lebih,1.49,1,Normal
+54,14.8,106,Berat Badan Normal,-1.28,-0.26,Gizi Baik,-1.78,1,Normal
+52,21.5,105,Risiko Lebih,1.61,-0.1,Gizi Lebih,2.56,0,Normal
+53,15.1,105,Berat Badan Normal,-0.84,-0.14,Gizi Baik,-1.16,1,Normal
+56,12.5,96.4,Kurang,-2.48,-2.38,Gizi Baik,-1.49,0,Pendek
+56,16.1,105.1,Berat Badan Normal,-0.72,-0.62,Gizi Baik,-0.56,1,Normal
+57,13.8,98.7,Berat Badan Normal,-1.8,-1.99,Gizi Baik,-0.83,0,Normal
+49,13.8,96.7,Berat Badan Normal,-1.26,-1.61,Gizi Baik,-0.42,1,Normal
+57,21,110.1,Risiko Lebih,1.21,0.39,Risiko Gizi Lebih,1.38,1,Normal
+56,13.8,100.7,Berat Badan Normal,-1.75,-1.49,Gizi Baik,-1.25,1,Normal
+53,19.5,107,Berat Badan Normal,0.91,0.11,Risiko Gizi Lebih,1.24,0,Normal
+53,15.2,105.2,Berat Badan Normal,-0.95,-0.22,Gizi Baik,-1.28,1,Normal
+52,16.75,104.4,Berat Badan Normal,-0.19,-0.38,Gizi Baik,0.07,0,Normal
+49,16.7,107.5,Berat Badan Normal,0.06,0.81,Gizi Baik,-0.65,1,Normal
+53,17.9,107,Berat Badan Normal,0.29,0.17,Gizi Baik,0.27,0,Normal
+48,14,99,Berat Badan Normal,-1.3,-1.15,Gizi Baik,-0.92,1,Normal
+59,14,100,Berat Badan Normal,-1.21,-0.76,Gizi Baik,-1.14,0,Normal
+47,12.9,99,Berat Badan Normal,-1.86,-1,Gizi Baik,-1.96,0,Normal
+54,15,104,Berat Badan Normal,-1.14,-0.64,Gizi Baik,-1.17,0,Normal
+56,14.4,102,Berat Badan Normal,-1.58,-1.31,Gizi Baik,-1.24,1,Normal
+56,15,106,Berat Badan Normal,-1.3,-0.48,Gizi Baik,-1.61,1,Normal
+57,34,116,Risiko Lebih,4.26,1.76,Obesitas,4.83,0,Normal
+51,15.5,103,Berat Badan Normal,-0.69,-0.55,Gizi Baik,-0.55,1,Normal
+49,15.2,102,Berat Badan Normal,-0.71,-0.55,Gizi Baik,-0.57,1,Normal
+58,17.1,101,Berat Badan Normal,-0.44,-1.8,Risiko Gizi Lebih,1.06,1,Normal
+48,14.1,100,Berat Badan Normal,-1.24,-0.91,Gizi Baik,-1.05,1,Normal
+49,14,97,Berat Badan Normal,-1.14,-1.52,Gizi Baik,-0.32,0,Normal
+55,32.5,115,Risiko Lebih,4.09,1.76,Obesitas,4.57,0,Normal
+48,15,96,Berat Badan Normal,-0.73,-1.83,Gizi Baik,0.58,1,Normal
+49,15.1,101.3,Berat Badan Normal,-0.76,-0.7,Gizi Baik,-0.49,1,Normal
+56,16.9,104,Berat Badan Normal,-0.27,-0.74,Gizi Baik,0.29,1,Normal
+57,15.2,100,Berat Badan Normal,-1.11,-1.75,Gizi Baik,-0.02,1,Normal
+49,16.75,104.9,Berat Badan Normal,0.19,0.32,Gizi Baik,0,1,Normal
+49,13.1,93.3,Berat Badan Normal,-1.67,-2.41,Gizi Baik,-0.31,0,Pendek
+53,14.2,95.5,Berat Badan Normal,-1.33,-2.31,Gizi Baik,0.14,0,Pendek
+52,17.2,104.5,Berat Badan Normal,0.04,-0.32,Gizi Baik,0.35,1,Normal
+52,15.2,97,Berat Badan Normal,-0.74,-1.85,Gizi Baik,0.59,1,Normal
+52,11.6,96,Kurang,-2.78,-2.04,Gizi Kurang,-2.29,1,Pendek
+56,14.6,103,Berat Badan Normal,-1.51,-1.14,Gizi Baik,-1.29,1,Normal
+51,16.7,105.5,Berat Badan Normal,0,0.17,Gizi Baik,-0.16,1,Normal
+51,18.2,106,Berat Badan Normal,0.56,0.17,Gizi Baik,0.68,1,Normal
+51,14.5,98.4,Berat Badan Normal,-0.99,-1.39,Gizi Baik,-0.21,1,Normal
+52,13.2,97.5,Kurang,-2.05,-1.96,Gizi Baik,-1.33,1,Normal
+50,14.3,99,Berat Badan Normal,-1.26,-1.37,Gizi Baik,-0.66,1,Normal
+49,13.15,99,Berat Badan Normal,-1.82,-1.19,Gizi Baik,-1.72,0,Normal
+51,12.5,96.5,Kurang,-2.09,-1.77,Gizi Baik,-1.51,1,Normal
+49,15.2,103,Berat Badan Normal,-0.67,-0.24,Gizi Baik,-0.79,1,Normal
+48,16.9,105,Berat Badan Normal,0.24,0.37,Gizi Baik,0.04,1,Normal
+48,12,95.7,Kurang,-2.49,-1.85,Gizi Kurang,-2.18,1,Normal
+49,15.7,100.5,Berat Badan Normal,-0.44,-0.86,Gizi Baik,0.16,1,Normal
+51,14.6,100.5,Berat Badan Normal,-0.95,-0.92,Gizi Baik,-0.57,1,Normal
+47,13.2,97.5,Berat Badan Normal,-1.45,-1.19,Gizi Baik,-1.09,0,Normal
+53,13.6,94,Berat Badan Normal,-1.63,-2.61,Gizi Baik,-0.03,0,Pendek
+59,16.5,101,Berat Badan Normal,-0.64,-1.71,Gizi Baik,0.67,1,Normal
+57,16,104,Berat Badan Normal,-0.88,-1.04,Gizi Baik,-0.39,0,Normal
+56,13.2,99,Kurang,-2.25,-1.96,Gizi Baik,-1.67,0,Normal
+54,17.7,105,Berat Badan Normal,0.2,-0.29,Gizi Baik,0.57,0,Normal
+54,13.5,99,Berat Badan Normal,-1.94,-1.74,Gizi Baik,-1.38,0,Normal
+54,15,100,Berat Badan Normal,-1.12,-1.51,Gizi Baik,-0.29,0,Normal
+54,14,99,Berat Badan Normal,-1.67,-1.77,Gizi Baik,-0.92,1,Normal
+54,13.5,100.2,Berat Badan Normal,-1.75,-1.34,Gizi Baik,-1.4,1,Normal
+52,18.7,104,Berat Badan Normal,0.66,-0.47,Risiko Gizi Lebih,1.43,0,Normal
+50,14.6,100,Berat Badan Normal,-1.12,-1.16,Gizi Baik,-0.62,0,Normal
+55,16.2,110,Berat Badan Normal,-0.48,0.71,Gizi Baik,-1.51,1,Normal
+56,13.7,100,Berat Badan Normal,-1.8,-1.63,Gizi Baik,-1.18,0,Normal
+49,17.1,101,Berat Badan Normal,0.35,-0.54,Risiko Gizi Lebih,1.05,0,Normal
+54,20,107,Berat Badan Normal,1,-0.04,Risiko Gizi Lebih,1.52,1,Normal
+53,17.5,104.2,Berat Badan Normal,0.16,-0.41,Gizi Baik,0.62,0,Normal
+53,14.8,98.7,Berat Badan Normal,-1.18,-1.74,Gizi Baik,-0.17,0,Normal
+59,20.7,102,Risiko Lebih,1.85,-0.27,Gizi Lebih,3,0,Normal
+51,16,105.6,Berat Badan Normal,-0.46,0.03,Gizi Baik,-0.74,0,Normal
+57,15,105,Berat Badan Normal,-1.36,-0.81,Gizi Baik,-1.39,1,Normal
+57,14.7,98.5,Berat Badan Normal,-1.5,-2.22,Gizi Baik,-0.2,1,Pendek
+47,14.2,95.5,Berat Badan Normal,-0.87,-1.61,Gizi Baik,0.14,0,Normal
+48,17.5,108,Berat Badan Normal,0.52,1.08,Gizi Baik,-0.21,0,Normal
+55,12.25,97.9,Kurang,-2.59,-1.99,Gizi Kurang,-2.05,0,Normal
+54,13.7,103,Berat Badan Normal,-1.68,-0.79,Gizi Baik,-1.83,0,Normal
+54,12.7,96,Kurang,-2.22,-2.27,Gizi Baik,-1.22,0,Pendek
+54,15.6,103.6,Berat Badan Normal,-0.69,-0.6,Gizi Baik,-0.49,0,Normal
+53,14.58,98.2,Berat Badan Normal,-1.16,-1.76,Gizi Baik,-0.11,1,Normal
+53,23.4,105.5,Risiko Lebih,2.12,-0.04,Obesitas,3.3,1,Normal
+52,15.2,103,Berat Badan Normal,-0.94,-0.7,Gizi Baik,-0.79,0,Normal
+52,19,109,Berat Badan Normal,0.8,0.71,Gizi Baik,0.51,1,Normal
+50,15.2,98.4,Berat Badan Normal,-0.63,-1.37,Gizi Baik,0.31,1,Normal
+56,14.15,103,Berat Badan Normal,-1.75,-1.15,Gizi Baik,-1.68,1,Normal
+57,18.1,100,Berat Badan Normal,0.15,-1.69,Risiko Gizi Lebih,1.84,0,Normal
+56,16.25,106,Berat Badan Normal,-0.63,-0.39,Gizi Baik,-0.65,1,Normal
+56,18.5,108.5,Berat Badan Normal,0.31,0.1,Gizi Baik,0.32,0,Normal
+56,17.9,108,Berat Badan Normal,0.06,-0.01,Gizi Baik,0.05,1,Normal
+57,15.6,102,Berat Badan Normal,-0.93,-1.33,Gizi Baik,-0.15,0,Normal
+50,16.2,102,Berat Badan Normal,-0.26,-0.63,Gizi Baik,0.2,0,Normal
+56,15,103,Berat Badan Normal,-1.15,-1.01,Gizi Baik,-0.8,1,Normal
+52,21.1,112.5,Risiko Lebih,1.6,1.53,Gizi Baik,0.91,0,Normal
+50,14.8,100.5,Berat Badan Normal,-1,-1.03,Gizi Baik,-0.56,1,Normal
+48,33,115.5,Risiko Lebih,5.03,2.84,Obesitas,4.62,0,Normal
+47,13.5,98,Berat Badan Normal,-1.5,-1.25,Gizi Baik,-1.16,1,Normal
+47,14,97.5,Berat Badan Normal,-1.19,-1.34,Gizi Baik,-0.59,0,Normal
+47,12.9,96.7,Berat Badan Normal,-1.83,-1.5,Gizi Baik,-1.45,0,Normal
+48,16.8,102,Berat Badan Normal,0.27,-0.25,Gizi Baik,0.65,1,Normal
+57,14.8,105,Berat Badan Normal,-1.47,-0.81,Gizi Baik,-1.56,0,Normal
+54,16.9,105,Berat Badan Normal,-0.23,-0.43,Gizi Baik,0.04,0,Normal
+53,16.8,101,Berat Badan Normal,-0.1,-1.07,Gizi Baik,0.86,1,Normal
+58,14.4,100.2,Berat Badan Normal,-1.76,-2,Gizi Baik,-0.84,1,Normal
+58,25.3,113.5,Risiko Lebih,2.47,1,Gizi Lebih,2.6,1,Normal
+58,18.5,107,Berat Badan Normal,0.18,-0.44,Gizi Baik,0.65,0,Normal
+54,23.7,105,Risiko Lebih,2.13,-0.25,Obesitas,3.55,1,Normal
+57,20.3,110.5,Berat Badan Normal,0.89,0.52,Gizi Baik,0.8,1,Normal
+51,14.05,100,Berat Badan Normal,-1.27,-1.09,Gizi Baik,-0.9,0,Normal
+49,16.3,103,Berat Badan Normal,-0.14,-0.28,Gizi Baik,0.05,1,Normal
+49,15.8,105,Berat Badan Normal,-0.41,0.15,Gizi Baik,-0.76,1,Normal
+50,15.1,102,Berat Badan Normal,-0.66,-0.51,Gizi Baik,-0.51,0,Normal
+57,17.4,104.5,Berat Badan Normal,-0.12,-0.72,Gizi Baik,0.5,0,Normal
+55,21,110,Risiko Lebih,1.25,0.65,Risiko Gizi Lebih,1.26,0,Normal
+55,14,101,Berat Badan Normal,-1.54,-1.26,Gizi Baik,-1.15,1,Normal
+55,14.8,101.5,Berat Badan Normal,-1.13,-1.15,Gizi Baik,-0.63,0,Normal
+52,24,110,Risiko Lebih,2.52,0.91,Gizi Lebih,2.82,0,Normal
+49,21,106,Risiko Lebih,1.72,0.56,Gizi Lebih,2.12,0,Normal
+48,14.6,103,Berat Badan Normal,-1.44,-1.17,Gizi Baik,-1.11,1,Normal
+53,17.4,111,Berat Badan Normal,0.03,0.99,Gizi Baik,-0.93,0,Normal
+52,17.7,101.5,Berat Badan Normal,0.26,-1,Risiko Gizi Lebih,1.35,0,Normal
+54,14.3,104,Berat Badan Normal,-1.51,-0.64,Gizi Baik,-1.77,1,Normal
+52,14.7,103,Berat Badan Normal,-1.18,-0.66,Gizi Baik,-1.2,0,Normal
+50,13.8,97,Berat Badan Normal,-1.52,-1.8,Gizi Baik,-0.66,0,Normal
+59,19.5,103.5,Risiko Lebih,1.37,0.05,Gizi Lebih,2.01,1,Normal
+59,15.8,102,Berat Badan Normal,-0.07,-0.08,Gizi Baik,-0.01,0,Normal
+48,15,96,Berat Badan Normal,-0.51,-1.57,Gizi Baik,0.64,1,Normal
+47,16.3,103,Berat Badan Normal,0.16,0.17,Gizi Baik,0.12,0,Normal
+59,20.6,108,Berat Badan Normal,0.85,-0.23,Risiko Gizi Lebih,1.5,0,Normal
+57,13.9,99.2,Berat Badan Normal,-1.77,-1.93,Gizi Baik,-0.85,0,Normal
+58,14.3,100,Berat Badan Normal,-1.79,-2,Gizi Baik,-0.88,0,Normal
+50,13.3,96.6,Berat Badan Normal,-1.62,-1.76,Gizi Baik,-0.82,0,Normal
+56,18.5,100,Berat Badan Normal,0.31,-1.79,Gizi Lebih,2.19,0,Normal
+51,16.7,99.2,Berat Badan Normal,-0.08,-1.37,Risiko Gizi Lebih,1.18,0,Normal
+50,11.7,94.5,Kurang,-2.62,-2.23,Gizi Baik,-1.87,1,Pendek
+56,18,107,Berat Badan Normal,0.13,-0.15,Gizi Baik,0.32,1,Normal
+55,13.2,98,Berat Badan Normal,-1.99,-1.93,Gizi Baik,-1.19,0,Normal
+52,13.2,94.5,Berat Badan Normal,-1.87,-2.52,Gizi Baik,-0.47,0,Pendek
+59,15.8,103,Berat Badan Normal,-1.05,-1.4,Gizi Baik,-0.32,0,Normal
+58,15.9,103.5,Berat Badan Normal,-0.82,-1.05,Gizi Baik,-0.26,0,Normal
+56,14.9,104,Berat Badan Normal,-1.21,-0.82,Gizi Baik,-1.09,1,Normal
+54,23,110,Risiko Lebih,2.08,0.7,Gizi Lebih,2.37,1,Normal
+50,16.7,108,Berat Badan Normal,0,0.81,Gizi Baik,-0.76,1,Normal
+50,11,90,Sangat Kurang,-3.08,-3.21,Gizi Baik,-1.61,1,Sangat Pendek
+56,17.3,105.1,Berat Badan Normal,-0.25,-0.74,Gizi Baik,0.31,1,Normal
+55,14.5,103.3,Berat Badan Normal,-1.33,-0.84,Gizi Baik,-1.25,0,Normal
+57,17.3,112,Berat Badan Normal,-0.27,0.74,Gizi Baik,-1.22,1,Normal
+55,13.5,98.7,Berat Badan Normal,-1.85,-1.82,Gizi Baik,-1.08,0,Normal
+54,15.1,103.5,Berat Badan Normal,-1.11,-0.79,Gizi Baik,-0.98,0,Normal
+53,17.1,104.5,Berat Badan Normal,-0.08,-0.44,Gizi Baik,0.29,0,Normal
+51,16.2,107.8,Berat Badan Normal,-0.34,0.59,Gizi Baik,-1.08,0,Normal
+59,18.2,103,Berat Badan Normal,0.89,0.01,Risiko Gizi Lebih,1.34,0,Normal
+57,20.9,111,Risiko Lebih,1.04,0.57,Gizi Baik,0.99,1,Normal
+54,15.9,105,Berat Badan Normal,-0.6,-0.37,Gizi Baik,-0.59,1,Normal
+52,12.9,97.3,Kurang,-2.2,-1.95,Gizi Baik,-1.59,1,Normal
+52,15.5,104.5,Berat Badan Normal,-0.58,-0.14,Gizi Baik,-0.76,1,Normal
+51,13.8,101,Berat Badan Normal,-1.62,-1.02,Gizi Baik,-1.55,0,Normal
+50,15.3,101,Berat Badan Normal,-0.57,-0.75,Gizi Baik,-0.15,0,Normal
+50,13.7,101.5,Berat Badan Normal,-1.58,-0.76,Gizi Baik,-1.75,1,Normal
+51,15.3,102.6,Berat Badan Normal,-0.59,-0.43,Gizi Baik,-0.49,0,Normal
+50,14.2,97.5,Berat Badan Normal,-1.11,-1.53,Gizi Baik,-0.26,1,Normal
+49,14.2,98,Berat Badan Normal,-1.05,-1.33,Gizi Baik,-0.36,0,Normal
+48,12.6,96.5,Berat Badan Normal,-1.87,-1.52,Gizi Baik,-1.42,1,Normal
+59,"13,695",99.5,Berat Badan Normal,-1.97,-2,Gizi Baik,-1.08,1,Normal
+52,15.6,105,Berat Badan Normal,-0.72,-0.21,Gizi Baik,-0.92,0,Normal
+53,15.85,101,Berat Badan Normal,-0.53,-1.1,Gizi Baik,0.23,1,Normal
+54,20,108,Risiko Lebih,1.06,0.28,Risiko Gizi Lebih,1.3,1,Normal
+55,16.8,106.1,Berat Badan Normal,-0.37,-0.34,Gizi Baik,-0.27,0,Normal
+55,15.9,105.8,Berat Badan Normal,-0.74,-0.33,Gizi Baik,-0.86,1,Normal
+54,14.7,100.4,Berat Badan Normal,-1.28,-1.43,Gizi Baik,-0.62,1,Normal
+54,13.6,99.6,Berat Badan Normal,-1.89,-1.61,Gizi Baik,-1.42,1,Normal
+51,15.3,101.8,Berat Badan Normal,-0.75,-0.75,Gizi Baik,-0.45,0,Normal
+50,17.1,103.7,Berat Badan Normal,0.13,-0.28,Gizi Baik,0.46,0,Normal
+48,11.4,95,Kurang,-2.64,-1.83,Gizi Kurang,-2.29,1,Normal
+59,17.3,105,Berat Badan Normal,-0.37,-0.97,Gizi Baik,0.31,0,Normal
+49,11.8,95,Kurang,-2.42,-1.92,Gizi Baik,-1.88,0,Normal
+51,14.45,101,Berat Badan Normal,-1.04,-0.83,Gizi Baik,-0.79,1,Normal
+57,16.1,102,Berat Badan Normal,-0.78,-1.4,Gizi Baik,0.13,1,Normal
+59,13.8,95,Berat Badan Normal,-1.09,-1.75,Gizi Baik,-0.07,0,Normal
+59,19.5,110,Berat Badan Normal,0.51,0.22,Gizi Baik,0.49,0,Normal
+58,24.7,115,Risiko Lebih,2.07,1.39,Risiko Gizi Lebih,1.79,0,Normal
+58,20.5,102.5,Berat Badan Normal,0.9,-1.27,Gizi Lebih,2.6,1,Normal
+48,11.6,90,Kurang,-2.81,-3.27,Gizi Baik,-1.33,0,Sangat Pendek
+51,19.3,104.5,Berat Badan Normal,0.99,-0.2,Risiko Gizi Lebih,1.67,1,Normal
+54,15.7,103,Berat Badan Normal,-0.63,-0.7,Gizi Baik,-0.29,0,Normal
+53,16.5,104,Berat Badan Normal,-0.34,-0.53,Gizi Baik,-0.02,1,Normal
+48,16,102,Berat Badan Normal,-0.08,-0.25,Gizi Baik,0.13,0,Normal
+48,14.5,101,Berat Badan Normal,-0.77,-0.43,Gizi Baik,-0.75,0,Normal
+46,14.5,97,Berat Badan Normal,-0.65,-1.17,Gizi Baik,0.07,0,Normal
+45,15,98.6,Berat Badan Normal,-0.5,-0.84,Gizi Baik,0.02,0,Normal
+51,20.3,108.3,Risiko Lebih,1.33,0.79,Risiko Gizi Lebih,1.28,0,Normal
+46,11.6,99,Kurang,-2.36,-0.66,Gizi Kurang,-2.93,1,Normal
+47,16.5,105,Berat Badan Normal,0.27,0.66,Gizi Baik,-0.18,1,Normal
+52,16.6,106.5,Berat Badan Normal,-0.15,0.2,Gizi Baik,-0.45,1,Normal
+46,13.9,100,Berat Badan Normal,-1.14,-0.55,Gizi Baik,-1.23,0,Normal
+47,12.55,93,Berat Badan Normal,-1.83,-2.21,Gizi Baik,-0.73,1,Pendek
+51,13.3,97,Berat Badan Normal,-1.86,-1.87,Gizi Baik,-1.13,1,Normal
+51,14.6,97.4,Berat Badan Normal,-0.95,-1.62,Gizi Baik,0.07,0,Normal
+51,14,97.6,Berat Badan Normal,-1.48,-1.77,Gizi Baik,-0.61,0,Normal
+47,15,103,Berat Badan Normal,-0.64,-0.02,Gizi Baik,-0.95,0,Normal
+47,17,100,Berat Badan Normal,0.48,-0.51,Risiko Gizi Lebih,1.19,1,Normal
+51,13.4,96.1,Berat Badan Normal,-1.64,-1.99,Gizi Baik,-0.63,1,Normal
+53,15.6,107,Berat Badan Normal,-0.81,0.09,Gizi Baik,-1.35,1,Normal
+50,13.9,99.5,Berat Badan Normal,-1.49,-1.26,Gizi Baik,-1.12,1,Normal
+48,14.6,96.6,Berat Badan Normal,-0.57,-1.21,Gizi Baik,0.23,0,Normal
+49,18.4,108,Berat Badan Normal,0.09,-0.31,Gizi Baik,0.37,1,Normal
+47,17.1,106.6,Berat Badan Normal,-0.37,-0.46,Gizi Baik,-0.18,0,Normal
+56,13.5,95.1,Berat Badan Normal,-1.89,-2.67,Gizi Baik,-0.34,0,Pendek
+54,17.3,104.8,Berat Badan Normal,-0.09,-0.54,Gizi Baik,0.36,0,Normal
+51,17.9,106.6,Berat Badan Normal,0.5,0.44,Gizi Baik,0.34,1,Normal
+47,14.3,98.5,Berat Badan Normal,-1.01,-1.08,Gizi Baik,-0.55,1,Normal
+50,14.97,106.1,Berat Badan Normal,-0.7,0.45,Gizi Baik,-1.51,0,Normal
+48,14.6,99.3,Berat Badan Normal,-0.93,-1.03,Gizi Baik,-0.47,0,Normal
+48,17.5,99,Berat Badan Normal,0.56,-0.93,Risiko Gizi Lebih,1.69,1,Normal
+48,15.2,99.2,Berat Badan Normal,-0.59,-1.01,Gizi Baik,0.05,1,Normal
+48,16.6,104,Berat Badan Normal,0.22,0.28,Gizi Baik,0.1,0,Normal
+47,14.5,98.3,Berat Badan Normal,-0.69,-0.92,Gizi Baik,-0.19,0,Normal
+45,13.1,97.2,Berat Badan Normal,-1.33,-0.96,Gizi Baik,-1.11,0,Normal
+45,14.8,99,Berat Badan Normal,-0.57,-0.68,Gizi Baik,-0.23,1,Normal
+51,16.8,106,Berat Badan Normal,-0.06,0.16,Gizi Baik,-0.25,1,Normal
+52,12.6,90.5,Kurang,-2.35,-3.47,Gizi Baik,-0.4,1,Sangat Pendek
+52,14.4,99,Berat Badan Normal,-1.03,-1.23,Gizi Baik,-0.41,0,Normal
+53,16.9,100,Berat Badan Normal,-0.18,-1.48,Risiko Gizi Lebih,1.14,1,Normal
+48,15,95,Berat Badan Normal,-0.57,-1.9,Gizi Baik,0.84,0,Normal
+46,15,98.3,Berat Badan Normal,-0.41,-0.88,Gizi Baik,0.18,0,Normal
+48,14.5,98,Berat Badan Normal,-0.8,-1.17,Gizi Baik,-0.13,0,Normal
+48,14.8,99.5,Berat Badan Normal,-0.79,-0.93,Gizi Baik,-0.34,0,Normal
+48,13.2,99,Berat Badan Normal,-1.49,-0.9,Gizi Baik,-1.4,0,Normal
+53,18,106,Berat Badan Normal,0.34,-0.03,Gizi Baik,0.53,0,Normal
+55,13.6,98,Berat Badan Normal,-1.78,-1.96,Gizi Baik,-0.85,0,Normal
+48,13.6,98,Berat Badan Normal,-1.24,-1.1,Gizi Baik,-0.85,0,Normal
+48,13.18,97.7,Berat Badan Normal,-1.72,-1.37,Gizi Baik,-1.4,0,Normal
+50,13.95,95.7,Berat Badan Normal,-1.24,-1.94,Gizi Baik,-0.1,0,Normal
+49,22.6,106,Risiko Lebih,2.35,0.41,Obesitas,3.07,1,Normal
+47,11.1,94.2,Kurang,-2.83,-1.96,Gizi Kurang,-2.44,1,Normal
+49,21.2,104,Risiko Lebih,1.74,0.03,Gizi Lebih,2.63,0,Normal
+46,11.3,92.8,Kurang,-2.59,-2.15,Gizi Baik,-1.92,0,Pendek
+55,14.65,98.7,Berat Badan Normal,-1.42,-2,Gizi Baik,-0.29,1,Normal
+51,13.2,99,Berat Badan Normal,-1.71,-1.27,Gizi Baik,-1.4,1,Normal
+54,17,104,Berat Badan Normal,-0.16,-0.61,Gizi Baik,0.33,1,Normal
+54,15.5,102,Berat Badan Normal,-0.89,-1.1,Gizi Baik,-0.33,1,Normal
+46,15,97,Berat Badan Normal,-0.38,-1.14,Gizi Baik,0.44,0,Normal
+46,14.5,100.4,Berat Badan Normal,-0.84,-0.51,Gizi Baik,-0.79,1,Normal
+46,26.3,114.5,Risiko Lebih,2.68,1.12,Gizi Lebih,2.78,1,Normal
+48,18.5,100,Berat Badan Normal,0.9,-0.88,Gizi Lebih,2.19,1,Normal
+56,15.7,108,Berat Badan Normal,-0.91,0.04,Gizi Baik,-1.5,1,Normal
+50,18.6,102,Berat Badan Normal,0.84,-0.46,Risiko Gizi Lebih,1.72,0,Normal
+58,20.3,111,Berat Badan Normal,0.84,0.55,Gizi Baik,0.69,0,Normal
+49,19.9,107,Risiko Lebih,1.36,0.61,Risiko Gizi Lebih,1.47,0,Normal
+56,16.2,106,Berat Badan Normal,-0.61,-0.38,Gizi Baik,-0.6,1,Normal
+56,14,101,Berat Badan Normal,-1.65,-1.44,Gizi Baik,-1.15,0,Normal
+53,15.1,99,Berat Badan Normal,-0.89,-1.55,Gizi Baik,0.11,1,Normal
+48,14.3,100,Berat Badan Normal,-1.07,-0.81,Gizi Baik,-0.88,1,Normal
+56,15.6,103,Berat Badan Normal,-0.93,-1.03,Gizi Baik,-0.48,1,Normal
+53,17.8,101,Berat Badan Normal,0.28,-1.15,Risiko Gizi Lebih,1.53,0,Normal
+59,17.3,109,Berat Badan Normal,-0.28,0.04,Gizi Baik,-0.56,0,Normal
+52,21.5,107.8,Risiko Lebih,1.63,0.56,Risiko Gizi Lebih,1.97,1,Normal
+48,16,102,Berat Badan Normal,-0.17,-0.32,Gizi Baik,0.05,0,Normal
+48,14.6,102,Berat Badan Normal,-0.71,-0.19,Gizi Baik,-0.89,1,Normal
+58,15.4,103,Berat Badan Normal,-1.09,-1.22,Gizi Baik,-0.51,1,Normal
+58,15,104,Berat Badan Normal,-1.27,-1,Gizi Baik,-1.02,0,Normal
+49,16.4,100.5,Berat Badan Normal,-0.09,-0.86,Gizi Baik,0.68,1,Normal
+54,13.7,102,Berat Badan Normal,-1.89,-1.17,Gizi Baik,-1.86,1,Normal
+51,13.1,97.5,Berat Badan Normal,-1.76,-1.6,Gizi Baik,-1.18,1,Normal
+48,14.3,103.5,Berat Badan Normal,-0.9,0.11,Gizi Baik,-1.45,0,Normal
+44,17.6,105,Berat Badan Normal,0.88,0.93,Gizi Baik,0.51,1,Normal
+51,14.9,107,Berat Badan Normal,-0.8,0.54,Gizi Baik,-1.77,0,Normal
+48,16,102,Berat Badan Normal,-0.21,-0.39,Gizi Baik,0.05,0,Normal
+45,13.8,102,Berat Badan Normal,-1.17,-0.01,Gizi Baik,-1.77,0,Normal
+44,14.1,99.5,Berat Badan Normal,-0.69,-0.3,Gizi Baik,-0.75,0,Normal
+52,18.1,108,Berat Badan Normal,0.44,0.5,Gizi Baik,0.18,0,Normal
+40,12.3,90.5,Berat Badan Normal,-1.39,-1.91,Gizi Baik,-0.42,0,Normal
+45,16.5,101,Berat Badan Normal,0.28,-0.21,Gizi Baik,0.64,1,Normal
+52,16.8,103.5,Berat Badan Normal,-0.12,-0.52,Gizi Baik,0.3,1,Normal
+55,12.8,100.3,Kurang,-2.21,-1.41,Gizi Kurang,-2.04,0,Normal
+45,14.3,99.3,Berat Badan Normal,-0.89,-0.68,Gizi Baik,-0.72,0,Normal
+58,15.3,104.3,Berat Badan Normal,-1.27,-1.06,Gizi Baik,-1,1,Normal
+39,14.4,93,Berat Badan Normal,-0.33,-1.44,Gizi Baik,0.72,0,Normal
+39,12.3,92,Berat Badan Normal,-1.33,-1.43,Gizi Baik,-0.75,1,Normal
+54,13.3,103,Kurang,-2.08,-0.86,Gizi Kurang,-2.46,1,Normal
+54,17.45,108,Berat Badan Normal,0.01,0.24,Gizi Baik,-0.24,0,Normal
+49,13.05,96.7,Berat Badan Normal,-1.89,-1.74,Gizi Baik,-1.31,0,Normal
+54,18.1,111,Berat Badan Normal,0.31,0.96,Gizi Baik,-0.48,1,Normal
+57,16.9,106,Berat Badan Normal,-0.32,-0.4,Gizi Baik,-0.14,1,Normal
+56,15.75,105.1,Berat Badan Normal,-0.72,-0.43,Gizi Baik,-0.72,0,Normal
+55,11.2,90.9,Sangat Kurang,-3.44,-3.66,Gizi Baik,-2,1,Sangat Pendek
+55,15.8,102.3,Berat Badan Normal,-0.61,-0.91,Gizi Baik,-0.07,0,Normal
+53,18.1,105.5,Berat Badan Normal,0.36,-0.21,Gizi Baik,0.73,1,Normal
+52,13.3,96.2,Berat Badan Normal,-1.94,-2.18,Gizi Baik,-0.95,1,Pendek
+51,15.3,105,Berat Badan Normal,-0.77,-0.05,Gizi Baik,-1.15,1,Normal
+56,14.3,103.3,Berat Badan Normal,-1.62,-1,Gizi Baik,-1.61,0,Normal
+45,13.5,100,Berat Badan Normal,-1.31,-0.43,Gizi Baik,-1.6,1,Normal
+39,12.1,89.6,Berat Badan Normal,-1.69,-2.21,Gizi Baik,-0.7,1,Pendek
+45,12.95,97,Berat Badan Normal,-1.7,-1.26,Gizi Baik,-1.47,1,Normal
+40,12.3,90.5,Berat Badan Normal,-1.68,-2.17,Gizi Baik,-0.7,0,Pendek
+40,13.4,97.3,Berat Badan Normal,-0.68,-0.15,Gizi Baik,-0.88,1,Normal
+41,15.55,96.5,Berat Badan Normal,0.11,-0.84,Gizi Baik,0.91,0,Normal
+42,15.9,101,Berat Badan Normal,0.22,0.18,Gizi Baik,0.2,1,Normal
+39,12.4,90,Berat Badan Normal,-1.49,-2.11,Gizi Baik,-0.48,1,Pendek
+38,10.25,88.8,Kurang,-2.68,-2,Gizi Kurang,-2.17,0,Normal
+57,15,102.3,Berat Badan Normal,-1.21,-1.27,Gizi Baik,-0.65,1,Normal
+38,11.3,88,Berat Badan Normal,-1.85,-2.2,Gizi Baik,-0.82,1,Pendek
+47,13.3,97,Berat Badan Normal,-1.6,-1.45,Gizi Baik,-1.13,0,Normal
+39,14.7,101.4,Berat Badan Normal,0.13,1.07,Gizi Baik,-0.68,1,Normal
+41,15.6,100,Berat Badan Normal,0.15,0.07,Gizi Baik,0.19,0,Normal
+46,17.5,102.5,Berat Badan Normal,0.68,0.05,Gizi Baik,1,0,Normal
+46,14.6,102.6,Berat Badan Normal,-0.78,0.02,Gizi Baik,-1.2,1,Normal
+37,15.9,100,Berat Badan Normal,0.75,0.87,Gizi Baik,0.42,1,Normal
+46,12.45,94.5,Kurang,-2.08,-1.96,Gizi Baik,-1.43,0,Normal
+42,13.8,95,Berat Badan Normal,-0.92,-1.33,Gizi Baik,-0.23,0,Normal
+42,12.4,95,Berat Badan Normal,-1.81,-1.34,Gizi Baik,-1.59,1,Normal
+55,18.4,102.5,Berat Badan Normal,0.36,-1.07,Risiko Gizi Lebih,1.58,1,Normal
+40,11.4,92,Kurang,-2.03,-1.57,Gizi Baik,-1.64,1,Normal
+44,13.3,95,Berat Badan Normal,-1.13,-1.37,Gizi Baik,-0.49,1,Normal
+47,12.9,95,Berat Badan Normal,-1.85,-1.93,Gizi Baik,-1.08,1,Normal
+49,20.3,105,Risiko Lebih,1.53,0.16,Gizi Lebih,2.13,0,Normal
+52,12.9,100,Kurang,-2.22,-1.37,Gizi Kurang,-2.19,0,Normal
+35,10.6,87,Kurang,-2.08,-1.98,Gizi Baik,-1.33,0,Normal
+40,23.2,97.5,Risiko Lebih,3.26,-0.09,Obesitas,5.12,0,Normal
+40,12.8,95,Berat Badan Normal,-1.1,-0.82,Gizi Baik,-0.93,0,Normal
+41,13.3,95.4,Berat Badan Normal,-1.12,-1.05,Gizi Baik,-0.78,1,Normal
+41,12.6,99,Berat Badan Normal,-1.59,-0.2,Gizi Kurang,-2.27,0,Normal
+43,16.05,97,Berat Badan Normal,0.2,-0.97,Risiko Gizi Lebih,1.19,1,Normal
+45,15.6,101.5,Berat Badan Normal,-0.15,-0.08,Gizi Baik,-0.14,0,Normal
+41,13.4,95,Berat Badan Normal,-0.8,-0.93,Gizi Baik,-0.4,0,Normal
+41,16.7,95,Berat Badan Normal,0.74,-1.12,Gizi Lebih,2.07,0,Normal
+43,11.6,91,Kurang,-2.39,-2.4,Gizi Baik,-1.57,1,Pendek
+42,16,101,Berat Badan Normal,0.31,0.26,Gizi Baik,0.27,1,Normal
+40,15,98,Berat Badan Normal,-0.03,-0.21,Gizi Baik,0.15,1,Normal
+41,16.1,99,Berat Badan Normal,0.63,0.14,Gizi Baik,0.81,1,Normal
+37,10.2,83,Kurang,-2.95,-3.68,Gizi Baik,-1.15,0,Sangat Pendek
+39,15.2,95.1,Berat Badan Normal,0.32,-0.64,Gizi Baik,0.97,1,Normal
+39,13.8,92.1,Berat Badan Normal,-0.42,-1.24,Gizi Baik,0.39,0,Normal
+37,13.2,94,Berat Badan Normal,-0.99,-1.08,Gizi Baik,-0.58,0,Normal
+37,12.1,94,Berat Badan Normal,-1.73,-1.13,Gizi Baik,-1.69,1,Normal
+42,14.2,95,Berat Badan Normal,-0.47,-1.11,Gizi Baik,0.24,0,Normal
+44,14.1,97.7,Berat Badan Normal,-0.87,-0.85,Gizi Baik,-0.55,0,Normal
+51,14.1,99.5,Berat Badan Normal,-1.24,-1.2,Gizi Baik,-0.75,1,Normal
+48,17.1,104,Berat Badan Normal,0.28,0.04,Gizi Baik,0.4,1,Normal
+45,13.6,100.8,Berat Badan Normal,-1.27,-0.27,Gizi Baik,-1.69,1,Normal
+44,16.8,103,Berat Badan Normal,0.61,0.55,Gizi Baik,0.44,0,Normal
+46,16.5,102,Berat Badan Normal,0.21,-0.1,Gizi Baik,0.42,1,Normal
+43,16.8,103,Berat Badan Normal,0.55,0.49,Gizi Baik,0.41,1,Normal
+44,16,102,Berat Badan Normal,0.28,0.35,Gizi Baik,0.13,1,Normal
+39,14.2,97.5,Berat Badan Normal,-1.38,-1.81,Gizi Baik,-0.41,0,Normal
+42,14.4,100,Berat Badan Normal,-0.34,0.15,Gizi Baik,-0.62,0,Normal
+41,13.4,94,Berat Badan Normal,-1.09,-1.46,Gizi Baik,-0.39,1,Normal
+37,11.2,90,Berat Badan Normal,-1.81,-1.5,Gizi Baik,-1.39,1,Normal
+41,16.5,98,Berat Badan Normal,0.6,-0.43,Risiko Gizi Lebih,1.3,1,Normal
+41,13,95,Berat Badan Normal,-1.29,-1.13,Gizi Baik,-0.99,1,Normal
+42,12.7,92,Berat Badan Normal,-1.34,-1.84,Gizi Baik,-0.39,1,Normal
+37,14.4,96,Berat Badan Normal,-0.12,-0.3,Gizi Baik,0.08,0,Normal
+38,17.6,103,Berat Badan Normal,0.38,-0.4,Gizi Baik,0.95,1,Normal
+45,12.1,95,Berat Badan Normal,-1.93,-1.45,Gizi Baik,-1.58,1,Normal
+44,13.2,99,Berat Badan Normal,-1.14,-0.32,Gizi Baik,-1.4,1,Normal
+51,17.65,107,Berat Badan Normal,0.42,0.56,Gizi Baik,0.11,0,Normal
+50,13,98,Berat Badan Normal,-1.78,-1.42,Gizi Baik,-1.37,0,Normal
+49,12.8,99,Berat Badan Normal,-1.79,-1.01,Gizi Baik,-1.76,0,Normal
+47,11.95,95.5,Kurang,-2.23,-1.66,Gizi Baik,-1.83,1,Normal
+39,14.3,96,Berat Badan Normal,-0.34,-0.57,Gizi Baik,0,1,Normal
+36,12.2,91.3,Berat Badan Normal,-1.61,-1.75,Gizi Baik,-0.99,1,Normal
+48,15.6,100,Berat Badan Normal,-0.38,-0.81,Gizi Baik,0.19,1,Normal
+46,15.9,102,Berat Badan Normal,-0.07,-0.07,Gizi Baik,-0.02,1,Normal
+38,11.6,91,Kurang,-2.02,-1.8,Gizi Baik,-1.57,0,Normal
+42,13.7,101,Berat Badan Normal,-0.99,0.17,Gizi Baik,-1.64,0,Normal
+37,13,95,Berat Badan Normal,-0.64,-0.25,Gizi Baik,-0.75,1,Normal
+48,15,103,Berat Badan Normal,-0.71,-0.13,Gizi Baik,-0.95,1,Normal
+38,12.2,90.5,Berat Badan Normal,-1.56,-1.87,Gizi Baik,-0.8,1,Normal
+52,17.7,108,Berat Badan Normal,0.08,0.18,Gizi Baik,-0.08,0,Normal
+56,18.2,107,Berat Badan Normal,0.17,-0.26,Gizi Baik,0.46,1,Normal
+58,14.3,98,Berat Badan Normal,-0.89,-1.15,Gizi Baik,-0.28,0,Normal
+48,23.9,102,Risiko Lebih,2.83,0.07,Obesitas,4.37,0,Normal
+45,13.3,94.4,Berat Badan Normal,-1.42,-1.79,Gizi Baik,-0.57,1,Normal
+52,12.7,96,Kurang,-2.1,-2.09,Gizi Baik,-1.22,1,Pendek
+41,12.8,100,Berat Badan Normal,-1.15,0.32,Gizi Baik,-1.97,0,Normal
+36,12.3,92,Berat Badan Normal,-0.99,-0.88,Gizi Baik,-0.75,0,Normal
+38,14.7,98,Berat Badan Normal,-0.06,0.04,Gizi Baik,-0.09,1,Normal
+47,14.5,98,Berat Badan Normal,-0.71,-1.04,Gizi Baik,-0.13,1,Normal
+47,14.5,99,Berat Badan Normal,-0.7,-0.78,Gizi Baik,-0.33,1,Normal
+50,14.2,98.6,Berat Badan Normal,-1.26,-1.37,Gizi Baik,-0.66,1,Normal
+34,10.9,88,Kurang,-2.16,-1.96,Gizi Baik,-1.65,0,Normal
+36,12.8,88,Berat Badan Normal,-0.7,-1.98,Gizi Baik,0.58,0,Normal
+40,11.2,89,Kurang,-2.45,-2.54,Gizi Baik,-1.55,1,Pendek
+41,13.2,97,Berat Badan Normal,-1.14,-0.58,Gizi Baik,-1.23,0,Normal
+59,15.3,101,Berat Badan Normal,-1.17,-1.71,Gizi Baik,-0.15,0,Normal
+57,14.6,100,Berat Badan Normal,-1.58,-1.93,Gizi Baik,-0.62,1,Normal
+57,17.6,106,Berat Badan Normal,-0.06,-0.44,Gizi Baik,0.3,0,Normal
+56,15.9,103.7,Berat Badan Normal,-0.69,-0.8,Gizi Baik,-0.31,1,Normal
+53,16.5,107.2,Berat Badan Normal,-0.37,0.14,Gizi Baik,-0.73,1,Normal
+52,11,92.9,Sangat Kurang,-3.46,-3.02,Gizi Kurang,-2.71,1,Sangat Pendek
+46,13.9,103.3,Berat Badan Normal,-1.19,0.15,Gizi Baik,-1.97,1,Normal
+45,17.2,100.5,Berat Badan Normal,0.72,-0.13,Risiko Gizi Lebih,1.21,1,Normal
+45,14.6,100.9,Berat Badan Normal,-0.46,-0.02,Gizi Baik,-0.65,1,Normal
+44,13.5,96.5,Berat Badan Normal,-1.26,-1.22,Gizi Baik,-0.83,1,Normal
+47,22,108.6,Risiko Lebih,2.35,1.36,Gizi Lebih,2.21,1,Normal
+37,13,92.4,Berat Badan Normal,-0.99,-1.3,Gizi Baik,-0.42,0,Normal
+45,16.9,98.5,Berat Badan Normal,0.47,-0.83,Risiko Gizi Lebih,1.47,1,Normal
+46,13.3,101,Berat Badan Normal,-1.29,-0.2,Gizi Baik,-1.74,1,Normal
+37,15,92,Berat Badan Normal,0.41,-1.12,Risiko Gizi Lebih,1.44,1,Normal
+58,13.2,105,Kurang,-2.22,-0.79,Gizi Kurang,-2.72,1,Normal
+36,11,94,Kurang,-2.28,-0.89,Gizi Kurang,-2.8,0,Normal
+38,13.2,95,Berat Badan Normal,-0.96,-0.78,Gizi Baik,-0.79,1,Normal
+37,12.5,90,Berat Badan Normal,-1.25,-1.82,Gizi Baik,-0.38,0,Normal
+43,14.5,104,Berat Badan Normal,-0.41,0.9,Gizi Baik,-1.4,0,Normal
+39,12.4,92.5,Berat Badan Normal,-1.55,-1.56,Gizi Baik,-1.05,1,Normal
+40,16.3,101.5,Berat Badan Normal,0.65,0.71,Gizi Baik,0.38,0,Normal
+59,14.6,105,Berat Badan Normal,-1.5,-0.84,Gizi Baik,-1.55,1,Normal
+44,12.3,95.5,Berat Badan Normal,-2,-1.42,Gizi Baik,-1.81,1,Normal
+53,13.4,97,Berat Badan Normal,-1.98,-2.16,Gizi Baik,-1.03,1,Pendek
+50,12.4,98,Kurang,-2.35,-1.53,Gizi Kurang,-2.25,1,Normal
+46,19,106,Risiko Lebih,1.34,0.92,Risiko Gizi Lebih,1.17,1,Normal
+52,14.2,102,Berat Badan Normal,-1.25,-0.74,Gizi Baik,-1.2,1,Normal
+51,13.4,100,Berat Badan Normal,-1.81,-1.19,Gizi Baik,-1.7,1,Normal
+50,13.7,99,Berat Badan Normal,-1.58,-1.33,Gizi Baik,-1.19,1,Normal
+49,14.1,97,Berat Badan Normal,-1.05,-1.46,Gizi Baik,-0.24,1,Normal
+47,17.4,103,Berat Badan Normal,0.64,0.19,Gizi Baik,0.82,0,Normal
+46,19.7,97,Risiko Lebih,1.55,-1.14,Obesitas,3.3,1,Normal
+45,15.5,100,Berat Badan Normal,-0.19,-0.41,Gizi Baik,0.11,0,Normal
+37,13.3,95.5,Berat Badan Normal,-0.8,-0.47,Gizi Baik,-0.8,1,Normal
+47,17.9,99.3,Berat Badan Normal,0.84,-0.67,Risiko Gizi Lebih,1.87,0,Normal
+45,14.2,97,Berat Badan Normal,-0.73,-1.05,Gizi Baik,-0.16,0,Normal
+45,13.2,92.5,Berat Badan Normal,-1.5,-2.28,Gizi Baik,-0.25,0,Pendek
+45,14.7,98,Berat Badan Normal,-0.42,-0.73,Gizi Baik,0.02,1,Normal
+45,19.2,99.2,Risiko Lebih,1.5,-0.6,Gizi Lebih,2.78,1,Normal
+38,12,93,Berat Badan Normal,-1.67,-1.17,Gizi Baik,-1.58,1,Normal
+39,12.9,92,Berat Badan Normal,-1.15,-1.56,Gizi Baik,-0.43,1,Normal
+41,15.3,96,Berat Badan Normal,0.2,-0.69,Gizi Baik,0.86,1,Normal
+43,12.4,91,Berat Badan Normal,-1.61,-2.21,Gizi Baik,-0.44,1,Pendek
+43,13.1,94.5,Berat Badan Normal,-1.41,-1.56,Gizi Baik,-0.78,0,Normal
+42,17.4,97,Berat Badan Normal,1,-0.65,Gizi Lebih,2.02,1,Normal
+42,12,94.5,Kurang,-2.05,-1.43,Gizi Baik,-1.91,1,Normal
+41,16.1,98,Berat Badan Normal,0.56,-0.22,Risiko Gizi Lebih,1.01,0,Normal
+41,12,92,Berat Badan Normal,-1.69,-1.69,Gizi Baik,-1.04,1,Normal
+39,12.4,87,Berat Badan Normal,-1.18,-2.57,Gizi Baik,0.46,1,Pendek
+44,20,105,Risiko Lebih,1.84,0.86,Risiko Gizi Lebih,1.96,1,Normal
+45,15.3,96,Berat Badan Normal,-0.36,-1.5,Gizi Baik,0.82,0,Normal
+41,14.6,98.5,Berat Badan Normal,-0.35,-0.24,Gizi Baik,-0.29,1,Normal
+44,14.7,101,Berat Badan Normal,-0.59,-0.13,Gizi Baik,-0.76,1,Normal
+34,14.9,92.4,Berat Badan Normal,0.71,-0.45,Risiko Gizi Lebih,1.29,0,Normal
+34,11.3,90,Berat Badan Normal,-1.82,-1.36,Gizi Baik,-1.67,0,Normal
+37,12.4,92,Berat Badan Normal,-1.36,-1.37,Gizi Baik,-0.94,0,Normal
+33,12.1,87,Berat Badan Normal,-0.85,-1.78,Gizi Baik,0.19,1,Normal
+58,14.8,105,Berat Badan Normal,-1.49,-0.86,Gizi Baik,-1.56,1,Normal
+34,11.4,87,Berat Badan Normal,-1.37,-1.84,Gizi Baik,-0.48,0,Normal
+42,14.2,104,Berat Badan Normal,-0.66,0.98,Gizi Baik,-1.85,1,Normal
+40,16,105,Berat Badan Normal,0.43,1.48,Gizi Baik,-0.61,1,Normal
+41,21,105.5,Risiko Lebih,2.52,1.48,Gizi Lebih,2.39,0,Normal
+47,14.75,105,Berat Badan Normal,-0.74,0.53,Gizi Baik,-1.6,1,Normal
+48,13.5,103,Berat Badan Normal,-1.56,-0.15,Gizi Kurang,-2.27,1,Normal
+58,15,107,Berat Badan Normal,-1.44,-0.51,Gizi Baik,-1.83,1,Normal
+39,15.7,94,Berat Badan Normal,0.6,-0.86,Risiko Gizi Lebih,1.53,0,Normal
+39,11.2,89,Kurang,-2.02,-2.08,Gizi Baik,-1.16,0,Pendek
+46,22.9,100,Risiko Lebih,2.76,-0.55,Obesitas,4.79,1,Normal
+41,12.8,91,Berat Badan Normal,-1.15,-1.89,Gizi Baik,-0.08,0,Normal
+47,15.1,97.5,Berat Badan Normal,-0.44,-1.2,Gizi Baik,0.42,0,Normal
+45,15.65,105,Berat Badan Normal,-0.88,-0.64,Gizi Baik,-0.76,1,Normal
+54,12.6,100,Kurang,-2.33,-1.46,Gizi Kurang,-2.16,1,Normal
+55,17.5,104,Berat Badan Normal,0.04,-0.65,Gizi Baik,0.66,0,Normal
+54,14.5,104,Berat Badan Normal,-1.39,-0.62,Gizi Baik,-1.59,1,Normal
+53,15.2,98.3,Berat Badan Normal,-0.83,-1.68,Gizi Baik,0.33,1,Normal
+53,17.3,103.5,Berat Badan Normal,0.24,-0.29,Gizi Baik,0.65,1,Normal
+50,12.9,98.3,Berat Badan Normal,-1.83,-1.33,Gizi Baik,-1.52,0,Normal
+47,15.1,101.2,Berat Badan Normal,-0.44,-0.33,Gizi Baik,-0.34,1,Normal
+41,14.4,95.1,Berat Badan Normal,-0.46,-1.1,Gizi Baik,0.27,1,Normal
+44,12.1,90,Kurang,-2.17,-2.84,Gizi Baik,-0.79,1,Pendek
+50,16.4,101,Berat Badan Normal,-0.2,-0.92,Gizi Baik,0.57,0,Normal
+52,19.7,107.5,Risiko Lebih,1.06,0.36,Risiko Gizi Lebih,1.24,0,Normal
+50,15.8,98,Berat Badan Normal,-0.48,-1.6,Gizi Baik,0.78,0,Normal
+57,19,110.4,Berat Badan Normal,0.47,0.46,Gizi Baik,0.2,0,Normal
+57,12.8,99.5,Kurang,-2.57,-1.98,Gizi Kurang,-2.17,0,Normal
+38,12.75,91.6,Berat Badan Normal,-1.17,-1.54,Gizi Baik,-0.49,1,Normal
+50,13.6,97.5,Berat Badan Normal,-1.4,-1.48,Gizi Baik,-0.75,0,Normal
+37,18,94,Risiko Lebih,1.78,-0.55,Gizi Lebih,2.94,1,Normal
+58,15.25,107,Berat Badan Normal,-1.28,-0.45,Gizi Baik,-1.63,0,Normal
+50,22.45,106,Risiko Lebih,2.25,0.34,Gizi Lebih,3,1,Normal
+42,13,96.5,Berat Badan Normal,-1.09,-0.64,Gizi Baik,-1.06,0,Normal
+48,20.95,106.3,Risiko Lebih,1.89,0.67,Gizi Lebih,2.19,1,Normal
+53,14.3,99,Berat Badan Normal,-1.29,-1.56,Gizi Baik,-0.49,1,Normal
+54,15.2,103,Berat Badan Normal,-0.88,-0.74,Gizi Baik,-0.65,0,Normal
+55,15.8,107,Berat Badan Normal,-0.8,-0.07,Gizi Baik,-1.2,1,Normal
+58,15.1,104.3,Berat Badan Normal,-1.19,-0.89,Gizi Baik,-1.01,0,Normal
+54,18.1,108,Berat Badan Normal,0.35,0.38,Gizi Baik,0.15,1,Normal
+51,15.6,105,Berat Badan Normal,-0.48,0.07,Gizi Baik,-0.8,1,Normal
+51,12.6,98,Kurang,-2.07,-1.49,Gizi Baik,-1.73,0,Normal
+50,18.9,109,Berat Badan Normal,0.96,1.07,Gizi Baik,0.45,1,Normal
+48,13,98,Berat Badan Normal,-1.64,-1.19,Gizi Baik,-1.37,0,Normal
+47,15.5,94,Berat Badan Normal,-0.21,-1.95,Risiko Gizi Lebih,1.39,1,Normal
+44,11.9,89,Kurang,-2.27,-3.03,Gizi Baik,-0.77,1,Sangat Pendek
+44,12.6,97.6,Berat Badan Normal,-1.77,-0.85,Gizi Baik,-1.96,1,Normal
+42,15.1,99.5,Berat Badan Normal,-0.16,-0.14,Gizi Baik,-0.1,1,Normal
+42,13.4,94.2,Berat Badan Normal,-0.91,-1.29,Gizi Baik,-0.24,1,Normal
+41,12.6,95.4,Berat Badan Normal,-1.56,-1.05,Gizi Baik,-1.47,0,Normal
+41,14.8,99.6,Berat Badan Normal,-0.22,0.07,Gizi Baik,-0.36,0,Normal
+40,15,100.2,Berat Badan Normal,0.11,0.46,Gizi Baik,-0.21,0,Normal
+37,14.5,99.5,Berat Badan Normal,-0.01,0.73,Gizi Baik,-0.59,1,Normal
+38,14.5,96,Berat Badan Normal,-0.15,-0.44,Gizi Baik,0.17,0,Normal
+58,15.7,107,Berat Badan Normal,-0.93,-0.33,Gizi Baik,-1.17,1,Normal
+53,14.7,102,Berat Badan Normal,-1.04,-0.82,Gizi Baik,-0.81,0,Normal
+41,12.9,93.7,Berat Badan Normal,-1.09,-1.23,Gizi Baik,-0.57,1,Normal
+42,14.5,98.3,Berat Badan Normal,-0.53,-0.51,Gizi Baik,-0.33,1,Normal
+55,18.4,109,Berat Badan Normal,0.34,0.34,Gizi Baik,0.15,0,Normal
+45,14.3,94.9,Berat Badan Normal,-0.88,-1.73,Gizi Baik,0.23,0,Normal
+41,12.8,93.7,Berat Badan Normal,-1.45,-1.51,Gizi Baik,-0.9,1,Normal
+43,16.5,104,Berat Badan Normal,-0.47,-0.75,Gizi Baik,-0.02,0,Normal
+44,18.9,105,Berat Badan Normal,0.46,-0.69,Risiko Gizi Lebih,1.33,0,Normal
+36,11.7,88,Berat Badan Normal,-1.37,-1.9,Gizi Baik,-0.43,1,Normal
+48,12.4,97.3,Berat Badan Normal,-1.99,-1.32,Gizi Baik,-1.78,1,Normal
+43,12.5,93.3,Berat Badan Normal,-1.56,-1.68,Gizi Baik,-0.84,1,Normal
+59,24,110,Risiko Lebih,2.02,0.11,Gizi Lebih,2.82,0,Normal
+51,14.8,97,Berat Badan Normal,-1.01,-1.87,Gizi Baik,0.21,0,Normal
+42,12.7,94.5,Berat Badan Normal,-1.33,-1.22,Gizi Baik,-0.91,0,Normal
+52,15,97.5,Berat Badan Normal,-0.83,-1.72,Gizi Baik,0.34,1,Normal
+38,15.1,96.7,Berat Badan Normal,0.44,0.05,Gizi Baik,0.58,1,Normal
+55,20.8,109.5,Risiko Lebih,1.19,0.55,Risiko Gizi Lebih,1.27,0,Normal
+57,15.6,106,Berat Badan Normal,-1.03,-0.54,Gizi Baik,-1.14,1,Normal
+52,14,101,Berat Badan Normal,-1.35,-0.95,Gizi Baik,-1.15,1,Normal
+56,14.5,95,Berat Badan Normal,-1.37,-2.71,Gizi Baik,0.47,1,Pendek
+36,11.3,90.5,Kurang,-2.02,-1.57,Gizi Baik,-1.79,0,Normal
+55,26,109,Risiko Lebih,2.59,0.45,Obesitas,3.6,1,Normal
+39,14.3,101,Berat Badan Normal,-0.36,0.67,Gizi Baik,-1.1,0,Normal
+44,14.7,93,Berat Badan Normal,-0.38,-1.86,Risiko Gizi Lebih,1.03,1,Normal
+49,14.5,98,Berat Badan Normal,-0.84,-1.23,Gizi Baik,-0.13,1,Normal
+49,15,101,Berat Badan Normal,-0.62,-0.6,Gizi Baik,-0.37,1,Normal
+57,14.2,100.5,Berat Badan Normal,-1.76,-1.76,Gizi Baik,-1.08,1,Normal
+50,15.7,98,Berat Badan Normal,-0.34,-1.37,Gizi Baik,0.74,0,Normal
+55,14.9,103.3,Berat Badan Normal,-1.25,-0.91,Gizi Baik,-1.1,0,Normal
+42,17.6,106,Risiko Lebih,1.05,1.48,Gizi Baik,0.29,1,Normal
+40,13.7,96,Berat Badan Normal,-0.75,-0.69,Gizi Baik,-0.54,0,Normal
+39,13.2,91.5,Berat Badan Normal,-0.56,-1.22,Gizi Baik,0.16,1,Normal
+50,13.2,97.5,Berat Badan Normal,-1.68,-1.55,Gizi Baik,-1.09,0,Normal
+39,14.4,97,Berat Badan Normal,-0.34,-0.41,Gizi Baik,-0.13,1,Normal
+57,17.8,103,Berat Badan Normal,0.02,-1.07,Risiko Gizi Lebih,1.06,1,Normal
+55,17.1,105.5,Berat Badan Normal,-0.12,-0.3,Gizi Baik,0.1,0,Normal
+49,20.5,106,Risiko Lebih,1.6,0.61,Risiko Gizi Lebih,1.88,0,Normal
+46,21.1,106.5,Risiko Lebih,2.09,0.95,Gizi Lebih,2.22,0,Normal
+46,12,95.5,Kurang,-2.13,-1.55,Gizi Baik,-1.78,1,Normal
+43,14.7,99.5,Berat Badan Normal,-0.31,-0.19,Gizi Baik,-0.28,0,Normal
+39,12.2,90,Berat Badan Normal,-1.14,-1.55,Gizi Baik,-0.41,1,Normal
+36,10,87.7,Kurang,-2.7,-1.99,Gizi Kurang,-2.19,0,Normal
+52,13.2,97.5,Kurang,-2.05,-1.96,Gizi Baik,-1.33,1,Normal
+37,13.3,93,Berat Badan Normal,-0.5,-0.85,Gizi Baik,-0.08,1,Normal
+44,15.9,101,Berat Badan Normal,0.08,-0.06,Gizi Baik,0.2,1,Normal
+38,12.3,95,Berat Badan Normal,-1.24,-0.52,Gizi Baik,-1.39,1,Normal
+52,17.3,102.7,Berat Badan Normal,0.09,-0.72,Gizi Baik,0.82,1,Normal
+48,20.6,104,Risiko Lebih,1.65,0.19,Gizi Lebih,2.34,0,Normal
+44,19,106,Risiko Lebih,1.48,1.17,Risiko Gizi Lebih,1.17,1,Normal
+43,15.9,99,Berat Badan Normal,0.16,-0.42,Gizi Baik,0.64,1,Normal
+36,13.2,91,Berat Badan Normal,-0.39,-1.08,Gizi Baik,0.26,1,Normal
+48,13,98,Berat Badan Normal,-1.84,-1.31,Gizi Baik,-1.64,0,Normal
+56,14.3,99.5,Berat Badan Normal,-1.68,-1.93,Gizi Baik,-0.77,1,Normal
+49,15.7,103,Berat Badan Normal,-0.27,-0.12,Gizi Baik,-0.29,0,Normal
+57,13.4,99,Kurang,-2.05,-1.97,Gizi Baik,-1.23,0,Normal
+53,25.5,104,Risiko Lebih,2.87,-0.6,Obesitas,5.1,1,Normal
+54,13.6,101,Berat Badan Normal,-1.74,-1.24,Gizi Baik,-1.48,1,Normal
+47,14.3,99,Berat Badan Normal,-0.81,-0.78,Gizi Baik,-0.49,0,Normal
+44,14.5,98,Berat Badan Normal,-0.67,-0.81,Gizi Baik,-0.26,1,Normal
+43,12.85,95,Berat Badan Normal,-1.55,-1.4,Gizi Baik,-1.13,0,Normal
+40,11,96,Kurang,-2.26,-0.47,Gizi Kurang,-2.94,0,Normal
+38,16.9,96.5,Risiko Lebih,1.23,-0.07,Risiko Gizi Lebih,1.81,1,Normal
+37,11.9,93,Berat Badan Normal,-1.34,-0.76,Gizi Baik,-1.35,0,Normal
+54,14.7,101,Berat Badan Normal,-1.33,-1.37,Gizi Baik,-0.76,0,Normal
+48,18.6,106,Berat Badan Normal,0.94,0.54,Gizi Baik,0.93,1,Normal
+46,12.92,94.7,Berat Badan Normal,-1.54,-1.73,Gizi Baik,-0.76,1,Normal
+34,11.85,90,Berat Badan Normal,-1.4,-1.33,Gizi Baik,-1.06,0,Normal
+33,11.55,89,Berat Badan Normal,-1.17,-1.14,Gizi Baik,-0.81,1,Normal
+44,11.6,93.5,Kurang,-2.2,-1.7,Gizi Baik,-1.76,0,Normal
+42,15,95,Berat Badan Normal,-0.2,-1.24,Gizi Baik,0.79,0,Normal
+38,13.9,95,Berat Badan Normal,-0.49,-0.7,Gizi Baik,-0.14,1,Normal
+37,12.6,90.2,Berat Badan Normal,-1.24,-1.86,Gizi Baik,-0.33,1,Normal
+35,11.1,86.5,Berat Badan Normal,-1.77,-2.24,Gizi Baik,-0.67,1,Pendek
+34,11.9,91.5,Berat Badan Normal,-1.4,-0.98,Gizi Baik,-1.35,1,Normal
+54,15.9,101.5,Berat Badan Normal,-0.71,-1.24,Gizi Baik,0.09,0,Normal
+50,15.7,96.1,Berat Badan Normal,-0.48,-1.96,Risiko Gizi Lebih,1.11,1,Normal
+44,12.22,93.5,Berat Badan Normal,-1.8,-1.74,Gizi Baik,-1.15,0,Normal
+42,13.5,105,Berat Badan Normal,-0.85,1.34,Gizi Kurang,-2.45,0,Normal
+42,19.9,102,Risiko Lebih,2.01,0.45,Gizi Lebih,2.57,1,Normal
+39,15.2,99,Berat Badan Normal,0.31,0.33,Gizi Baik,0.19,0,Normal
+46,12.2,92,Kurang,-2.25,-2.57,Gizi Baik,-1.14,0,Pendek
+46,15.71,97.8,Berat Badan Normal,-0.07,-1,Gizi Baik,0.79,0,Normal
+46,13.3,95,Berat Badan Normal,-1.28,-1.6,Gizi Baik,-0.49,0,Normal
+44,13.3,96,Berat Badan Normal,-1.12,-1.11,Gizi Baik,-0.69,1,Normal
+41,15.2,95.5,Berat Badan Normal,0.01,-0.95,Gizi Baik,0.85,0,Normal
+53,15.7,102.3,Berat Badan Normal,-0.58,-0.77,Gizi Baik,-0.14,0,Normal
+58,13.4,102.4,Kurang,-2.11,-1.35,Gizi Baik,-1.96,1,Normal
+53,13.2,98.6,Kurang,-2.11,-1.81,Gizi Baik,-1.58,1,Normal
+44,12.8,96,Berat Badan Normal,-1.39,-1.06,Gizi Baik,-1.13,0,Normal
+43,15,100,Berat Badan Normal,-0.15,-0.05,Gizi Baik,-0.16,0,Normal
+43,14.3,101,Berat Badan Normal,-0.47,0.26,Gizi Baik,-0.91,0,Normal
+43,16,109,Berat Badan Normal,0.22,2.09,Gizi Baik,-1.49,1,Normal
+40,14.2,94,Berat Badan Normal,-0.52,-1.31,Gizi Baik,0.33,0,Normal
+41,11.3,89,Kurang,-2.18,-2.43,Gizi Baik,-1.06,0,Pendek
+59,14.7,107,Berat Badan Normal,-1.44,-0.41,Gizi Baik,-1.92,1,Normal
+56,15,103,Berat Badan Normal,-1.15,-1.01,Gizi Baik,-0.8,0,Normal
+51,13.7,103,Berat Badan Normal,-1.46,-0.42,Gizi Baik,-1.83,0,Normal
+44,11.7,93.5,Kurang,-2.44,-1.97,Gizi Kurang,-2.02,1,Normal
+37,13.9,101,Berat Badan Normal,-0.17,1.19,Gizi Baik,-1.23,1,Normal
+55,16.5,110.2,Berat Badan Normal,-0.52,0.55,Gizi Baik,-1.38,0,Normal
+41,15.1,103,Berat Badan Normal,-0.14,0.78,Gizi Baik,-0.87,1,Normal
+34,10.1,88.5,Kurang,-2.43,-1.5,Gizi Kurang,-2.27,1,Normal
+37,12.2,88.2,Berat Badan Normal,-1.14,-2,Gizi Baik,0,0,Normal
+37,10.1,88,Kurang,-2.74,-2.1,Gizi Kurang,-2.15,0,Pendek
+56,15.2,101,Berat Badan Normal,-1.06,-1.46,Gizi Baik,-0.23,1,Normal
+56,12.9,97,Kurang,-2.47,-2.47,Gizi Baik,-1.52,0,Pendek
+53,13,97,Berat Badan Normal,-1.99,-1.97,Gizi Baik,-1.16,0,Normal
+50,13,93,Berat Badan Normal,-1.78,-2.56,Gizi Baik,-0.33,0,Pendek
+48,17,102,Berat Badan Normal,0.29,-0.33,Gizi Baik,0.77,1,Normal
+47,15.3,100,Berat Badan Normal,-0.33,-0.59,Gizi Baik,0.05,1,Normal
+45,11.2,93,Kurang,-2.55,-1.92,Gizi Kurang,-2.07,0,Normal
+41,12.4,92,Berat Badan Normal,-1.69,-1.91,Gizi Baik,-0.94,0,Normal
+47,10.7,86.8,Kurang,-2.62,-2.78,Gizi Baik,-1.57,1,Pendek
+38,11.3,89.9,Berat Badan Normal,-1.84,-1.69,Gizi Baik,-1.27,1,Normal
+44,13.6,94.4,Berat Badan Normal,-0.96,-1.51,Gizi Baik,-0.11,0,Normal
+38,12.3,88.7,Berat Badan Normal,-1.15,-1.99,Gizi Baik,-0.02,0,Normal
+48,15.75,101.5,Berat Badan Normal,-0.16,-0.31,Gizi Baik,0.06,1,Normal
+43,13.5,90.5,Berat Badan Normal,-0.89,-2.26,Gizi Baik,0.62,0,Pendek
+36,11.8,88,Berat Badan Normal,-1.44,-1.88,Gizi Baik,-0.63,0,Normal
+33,13.4,87,Berat Badan Normal,0.04,-1.66,Risiko Gizi Lebih,1.31,1,Normal
+43,12.5,91.6,Berat Badan Normal,-1.48,-1.97,Gizi Baik,-0.48,0,Normal
+42,14.7,95,Berat Badan Normal,-0.15,-1.01,Gizi Baik,0.62,1,Normal
+41,12.2,92.5,Berat Badan Normal,-1.87,-1.85,Gizi Baik,-1.26,0,Normal
+41,14.7,95,Berat Badan Normal,-0.31,-1.17,Gizi Baik,0.55,1,Normal
+40,16.8,100.5,Risiko Lebih,1.01,0.64,Gizi Baik,0.96,0,Normal
+37,11.4,88.2,Kurang,-2.08,-2.41,Gizi Baik,-1.12,1,Pendek
+37,13,97,Berat Badan Normal,-0.92,0.04,Gizi Baik,-1.42,1,Normal
+36,14.4,91,Berat Badan Normal,0.23,-1.18,Risiko Gizi Lebih,1.21,1,Normal
+36,14,96,Berat Badan Normal,-0.21,-0.04,Gizi Baik,-0.27,1,Normal
+37,13.6,97,Berat Badan Normal,-0.54,0.06,Gizi Baik,-0.85,1,Normal
+34,15.9,89.5,Risiko Lebih,1.19,-1.23,Gizi Lebih,2.56,0,Normal
+45,15.7,97.5,Berat Badan Normal,0.04,-0.88,Gizi Baik,0.84,0,Normal
+41,14.4,93,Berat Badan Normal,-0.22,-1.38,Gizi Baik,0.8,1,Normal
+37,12.6,89,Berat Badan Normal,-0.86,-1.76,Gizi Baik,0.18,1,Normal
+58,17.1,108,Berat Badan Normal,-0.33,-0.12,Gizi Baik,-0.46,0,Normal
+54,15.5,105,Berat Badan Normal,-0.91,-0.45,Gizi Baik,-0.99,1,Normal
+42,14.8,95,Berat Badan Normal,-0.36,-1.33,Gizi Baik,0.63,1,Normal
+42,15.8,97,Berat Badan Normal,0.15,-0.86,Gizi Baik,1,0,Normal
+43,13.8,96,Berat Badan Normal,-1,-1.21,Gizi Baik,-0.45,0,Normal
+41,13,91,Berat Badan Normal,-1.07,-1.95,Gizi Baik,0.09,0,Normal
+34,12.4,90,Berat Badan Normal,-1.02,-1.32,Gizi Baik,-0.48,1,Normal
+57,21,111,Risiko Lebih,1.14,0.48,Risiko Gizi Lebih,1.18,1,Normal
+38,14.2,95,Berat Badan Normal,-0.29,-0.65,Gizi Baik,0.12,1,Normal
+41,12.6,92.5,Berat Badan Normal,-1.25,-1.49,Gizi Baik,-0.58,1,Normal
+42,12,96,Berat Badan Normal,-1.72,-0.76,Gizi Baik,-1.89,1,Normal
+41,14.3,103.5,Berat Badan Normal,-0.53,1,Gizi Baik,-1.66,0,Normal
+49,16,96,Berat Badan Normal,-0.15,-1.74,Risiko Gizi Lebih,1.34,0,Normal
+36,12.5,92,Berat Badan Normal,-1.18,-1.18,Gizi Baik,-0.83,1,Normal
+55,12.2,98,Kurang,-2.62,-1.96,Gizi Kurang,-2.11,0,Normal
+48,13.5,96,Berat Badan Normal,-1.55,-1.79,Gizi Baik,-0.72,0,Normal
+42,12,92,Berat Badan Normal,-1.76,-1.8,Gizi Baik,-1.04,1,Normal
+36,15,100,Berat Badan Normal,0.53,1.15,Gizi Baik,-0.16,0,Normal
+41,16,100,Berat Badan Normal,0.58,0.39,Gizi Baik,0.54,1,Normal
+41,14.5,103,Berat Badan Normal,-0.39,0.92,Gizi Baik,-1.37,0,Normal
+39,12.2,92,Berat Badan Normal,-1.38,-1.41,Gizi Baik,-0.84,0,Normal
+34,14.2,93,Berat Badan Normal,0.35,-0.28,Gizi Baik,0.65,1,Normal
+50,16.1,109,Berat Badan Normal,-0.33,0.96,Gizi Baik,-1.41,1,Normal
+33,15.7,102,Berat Badan Normal,0.07,0.24,Gizi Baik,-0.08,0,Normal
+47,15.9,103,Berat Badan Normal,-0.14,0.05,Gizi Baik,-0.25,1,Normal
+39,11.8,97,Berat Badan Normal,-1.66,-0.17,Gizi Kurang,-2.3,1,Normal
+51,15,105,Berat Badan Normal,-0.96,-0.1,Gizi Baik,-1.39,1,Normal
+39,12.1,99,Berat Badan Normal,-1.46,0.32,Gizi Kurang,-2.43,0,Normal
+48,16.1,101,Berat Badan Normal,-0.17,-0.64,Gizi Baik,0.35,1,Normal
+58,18.2,108,Berat Badan Normal,0.08,-0.15,Gizi Baik,0.21,0,Normal
+50,13.4,95.3,Berat Badan Normal,-1.53,-2,Gizi Baik,-0.47,0,Normal
+55,17,106,Berat Badan Normal,-0.26,-0.34,Gizi Baik,-0.11,0,Normal
+41,11,94.5,Kurang,-2.38,-1.05,Gizi Kurang,-2.61,0,Normal
+37,13.2,95,Berat Badan Normal,-0.79,-0.48,Gizi Baik,-0.79,0,Normal
+57,21.9,118.7,Risiko Lebih,1.38,2.28,Gizi Baik,-0.17,1,Normal
+41,19,105,Berat Badan Normal,0.72,-0.33,Risiko Gizi Lebih,1.39,1,Normal
+47,14,95.5,Berat Badan Normal,-1.16,-1.76,Gizi Baik,-0.16,0,Normal
+49,21,110,Risiko Lebih,1.79,1.35,Risiko Gizi Lebih,1.4,1,Normal
+49,21,107,Risiko Lebih,1.72,0.77,Risiko Gizi Lebih,1.9,0,Normal
+48,12.3,96,Kurang,-2.32,-1.84,Gizi Baik,-1.92,0,Normal
+50,16.9,103.5,Berat Badan Normal,0.17,-0.14,Gizi Baik,0.4,1,Normal
+51,14.7,97.1,Berat Badan Normal,-0.93,-1.73,Gizi Baik,0.2,0,Normal
+55,14.2,104,Berat Badan Normal,-1.43,-0.6,Gizi Baik,-1.64,0,Normal
+55,16.4,106,Berat Badan Normal,-0.41,-0.19,Gizi Baik,-0.47,0,Normal
+48,31.8,116,Risiko Lebih,5.4,2.86,Obesitas,4.54,1,Normal
+41,13.2,100,Berat Badan Normal,-1.16,0.15,Gizi Baik,-1.89,1,Normal
+43,14,98,Berat Badan Normal,-0.87,-0.68,Gizi Baik,-0.7,0,Normal
+53,22.5,111,Risiko Lebih,1.98,1.04,Risiko Gizi Lebih,1.92,0,Normal
+45,11.25,93.5,Kurang,-2.57,-1.89,Gizi Kurang,-2.12,0,Normal
+44,12.8,91,Berat Badan Normal,-1.39,-2.26,Gizi Baik,-0.08,0,Pendek
+55,12,98,Kurang,-2.75,-1.96,Gizi Kurang,-2.31,0,Normal
+49,15,100,Berat Badan Normal,-0.6,-0.8,Gizi Baik,-0.16,1,Normal
+49,10.7,91,Sangat Kurang,-3.43,-3.05,Gizi Kurang,-2.64,1,Sangat Pendek
+49,12.5,95,Berat Badan Normal,-1.99,-1.95,Gizi Baik,-1.2,0,Normal
+47,13.6,95,Berat Badan Normal,-1.17,-1.69,Gizi Baik,-0.24,1,Normal
+46,13.1,98.5,Berat Badan Normal,-1.65,-0.97,Gizi Baik,-1.65,1,Normal
+44,14.9,95.5,Berat Badan Normal,-0.45,-1.43,Gizi Baik,0.61,1,Normal
+42,18.3,101,Risiko Lebih,1.4,0.4,Risiko Gizi Lebih,1.75,1,Normal
+41,13.6,95,Berat Badan Normal,-0.71,-0.96,Gizi Baik,-0.24,0,Normal
+40,13.4,95,Berat Badan Normal,-0.68,-0.72,Gizi Baik,-0.4,1,Normal
+37,14.9,93,Berat Badan Normal,0.35,-0.87,Risiko Gizi Lebih,1.17,0,Normal
+38,14.8,98,Berat Badan Normal,0.03,0.09,Gizi Baik,-0.01,0,Normal
+38,13,92,Berat Badan Normal,-0.73,-1.18,Gizi Baik,-0.12,1,Normal
+35,11.4,88,Berat Badan Normal,-1.51,-1.78,Gizi Baik,-0.72,0,Normal
+35,13.6,95.6,Berat Badan Normal,-0.1,0.22,Gizi Baik,-0.36,0,Normal
+57,14.3,102,Berat Badan Normal,-1.55,-1.31,Gizi Baik,-1.12,1,Normal
+45,14,97,Berat Badan Normal,-1.03,-1.2,Gizi Baik,-0.48,0,Normal
+39,13.5,93,Berat Badan Normal,-0.87,-1.45,Gizi Baik,-0.08,1,Normal
+44,13.8,96.5,Berat Badan Normal,-1.05,-1.16,Gizi Baik,-0.55,0,Normal
+46,21.6,101,Risiko Lebih,2.16,-0.2,Obesitas,3.45,1,Normal
+53,13.7,98,Berat Badan Normal,-1.62,-1.79,Gizi Baik,-0.77,0,Normal
+44,16,101,Berat Badan Normal,0.12,-0.08,Gizi Baik,0.27,0,Normal
+49,15.15,104.5,Berat Badan Normal,-0.73,0.05,Gizi Baik,-1.16,0,Normal
+54,16.15,100.2,Berat Badan Normal,-0.56,-1.49,Gizi Baik,0.56,0,Normal
+52,18.6,107.5,Berat Badan Normal,0.63,0.36,Gizi Baik,0.6,1,Normal
+52,13.4,100,Berat Badan Normal,-1.7,-1.21,Gizi Baik,-1.44,1,Normal
+54,13.75,98.5,Berat Badan Normal,-1.83,-1.91,Gizi Baik,-1.04,1,Normal
+44,15.55,100.4,Berat Badan Normal,-0.15,-0.29,Gizi Baik,0.06,0,Normal
+38,13.7,97.5,Berat Badan Normal,-0.65,-0.11,Gizi Baik,-0.86,0,Normal
+34,12.4,92,Berat Badan Normal,-0.69,-0.5,Gizi Baik,-0.66,1,Normal
+55,12.15,93,Kurang,-2.64,-3.04,Gizi Baik,-1.11,1,Sangat Pendek
+38,12.4,92.5,Berat Badan Normal,-1.12,-1.08,Gizi Baik,-0.76,0,Normal
+51,14.45,98.9,Berat Badan Normal,-1.05,-1.32,Gizi Baik,-0.35,0,Normal
+46,13.6,97,Berat Badan Normal,-1.32,-1.29,Gizi Baik,-0.85,0,Normal
+45,16.5,103,Berat Badan Normal,0.24,0.2,Gizi Baik,0.2,1,Normal
+43,14.5,97,Berat Badan Normal,-0.57,-0.9,Gizi Baik,-0.05,0,Normal
+42,12.2,93,Berat Badan Normal,-1.93,-1.83,Gizi Baik,-1.37,0,Normal
+42,12.3,91,Berat Badan Normal,-1.53,-1.99,Gizi Baik,-0.53,1,Normal
+41,11.7,86,Berat Badan Normal,-1.83,-3.08,Gizi Baik,0.05,1,Sangat Pendek
+39,10.5,90.5,Kurang,-2.56,-1.7,Gizi Kurang,-2.28,1,Normal
+38,21.4,101,Risiko Lebih,3,0.89,Obesitas,3.65,1,Normal
+37,15,92,Berat Badan Normal,0.22,-1.35,Risiko Gizi Lebih,1.42,0,Normal
+36,14.1,95,Berat Badan Normal,-0.23,-0.45,Gizi Baik,0.04,0,Normal
+36,14.8,98,Berat Badan Normal,0.42,0.61,Gizi Baik,0.1,1,Normal
+35,14.7,94,Berat Badan Normal,0.29,-0.41,Gizi Baik,0.76,1,Normal
+33,14,95,Berat Badan Normal,0.02,0.11,Gizi Baik,-0.05,1,Normal
+58,13.4,101,Kurang,-2.11,-1.64,Gizi Baik,-1.65,0,Normal
+58,16.6,106.6,Berat Badan Normal,-0.64,-0.55,Gizi Baik,-0.52,1,Normal
+58,20,109,Berat Badan Normal,0.72,0.08,Gizi Baik,0.98,0,Normal
+58,14,100,Berat Badan Normal,-1.94,-1.98,Gizi Baik,-1.14,1,Normal
+58,17.8,104.5,Berat Badan Normal,-0.03,-0.83,Gizi Baik,0.74,1,Normal
+55,21,107,Risiko Lebih,1.33,-0.1,Gizi Lebih,2.06,1,Normal
+54,13.5,100,Berat Badan Normal,-1.99,-1.6,Gizi Baik,-1.6,0,Normal
+52,13.7,99,Berat Badan Normal,-1.52,-1.42,Gizi Baik,-0.97,1,Normal
+51,14.3,96,Berat Badan Normal,-1.09,-1.92,Gizi Baik,0.12,0,Normal
+51,14.7,97.5,Berat Badan Normal,-0.89,-1.58,Gizi Baik,0.12,0,Normal
+48,16.4,102,Berat Badan Normal,-0.04,-0.41,Gizi Baik,0.35,1,Normal
+47,11.3,95,Kurang,-2.64,-1.71,Gizi Kurang,-2.39,1,Normal
+47,16.9,103.3,Berat Badan Normal,0.32,0.09,Gizi Baik,0.41,1,Normal
+44,13.3,93,Berat Badan Normal,-1.15,-1.87,Gizi Baik,-0.08,0,Normal
+44,16.8,99,Berat Badan Normal,0.5,-0.58,Risiko Gizi Lebih,1.29,1,Normal
+41,12.9,92,Berat Badan Normal,-1.4,-1.96,Gizi Baik,-0.43,1,Normal
+40,13.6,91,Berat Badan Normal,-0.61,-1.8,Gizi Baik,0.59,0,Normal
+39,16.5,100,Berat Badan Normal,0.76,0.36,Gizi Baik,0.86,1,Normal
+39,16,101,Berat Badan Normal,0.57,0.72,Gizi Baik,0.27,0,Normal
+38,12.9,93,Berat Badan Normal,-0.82,-0.98,Gizi Baik,-0.42,0,Normal
+36,11.9,90,Berat Badan Normal,-1.27,-1.44,Gizi Baik,-0.69,1,Normal
+35,12.5,89,Berat Badan Normal,-1.13,-1.89,Gizi Baik,-0.15,0,Normal
+34,9,77.5,Sangat Kurang,-3.38,-4.42,Gizi Baik,-0.89,0,Sangat Pendek
+34,10.7,85,Berat Badan Normal,-1.89,-2.36,Gizi Baik,-0.71,0,Pendek
+34,12.2,88,Berat Badan Normal,-1.17,-1.9,Gizi Baik,-0.21,0,Normal
+49,15.7,105,Berat Badan Normal,-1.12,-1.01,Gizi Baik,-0.84,1,Normal
+52,12.5,98,Kurang,-2.42,-1.74,Gizi Kurang,-2.15,1,Normal
+51,14.8,98.2,Berat Badan Normal,-1.02,-1.6,Gizi Baik,-0.06,0,Normal
+50,15.6,99.3,Berat Badan Normal,-0.55,-1.25,Gizi Baik,0.34,1,Normal
+48,12.1,88,Kurang,-2.17,-3.46,Gizi Baik,-0.04,1,Sangat Pendek
+45,13.6,96.8,Berat Badan Normal,-1.3,-1.3,Gizi Baik,-0.8,0,Normal
+46,15.4,102,Berat Badan Normal,-0.33,-0.07,Gizi Baik,-0.41,0,Normal
+48,11,87.5,Kurang,-2.1,-2.35,Gizi Baik,-1.02,0,Pendek
+48,13,90,Berat Badan Normal,-1.01,-1.95,Gizi Baik,0.11,1,Normal
+34,13.1,93.1,Berat Badan Normal,-0.56,-0.47,Gizi Baik,-0.48,0,Normal
+41,14.1,100,Berat Badan Normal,-0.66,0.08,Gizi Baik,-1.05,1,Normal
+49,13.2,98.5,Berat Badan Normal,-1.59,-1.19,Gizi Baik,-1.3,1,Normal
+43,12.1,98,Berat Badan Normal,-1.8,-0.52,Gizi Kurang,-2.21,0,Normal
+41,13,97.5,Berat Badan Normal,-1.28,-0.47,Gizi Baik,-1.53,1,Normal
+56,15.1,107,Berat Badan Normal,-1.35,-0.44,Gizi Baik,-1.75,0,Normal
+53,17.6,111,Berat Badan Normal,0.16,1.07,Gizi Baik,-0.8,1,Normal
+52,15.3,107,Berat Badan Normal,-0.73,0.33,Gizi Baik,-1.46,0,Normal
+52,14.7,104,Berat Badan Normal,-0.91,-0.15,Gizi Baik,-1.25,1,Normal
+48,16.7,102.5,Berat Badan Normal,0.27,-0.06,Gizi Baik,0.48,0,Normal
+46,15,99,Berat Badan Normal,-0.58,-0.87,Gizi Baik,-0.07,1,Normal
+44,11.2,93.5,Kurang,-2.75,-1.89,Gizi Kurang,-2.6,1,Normal
+43,12.5,95.5,Berat Badan Normal,-1.76,-1.25,Gizi Baik,-1.6,0,Normal
+42,13.3,97,Berat Badan Normal,-1.23,-0.84,Gizi Baik,-1.13,1,Normal
+39,13,94,Berat Badan Normal,-1.11,-1.08,Gizi Baik,-0.77,1,Normal
+36,12,90,Berat Badan Normal,-1.52,-1.71,Gizi Baik,-0.9,0,Normal
+36,13.4,94,Berat Badan Normal,-0.26,-0.28,Gizi Baik,-0.2,1,Normal
+34,10.2,87,Kurang,-2.37,-1.94,Gizi Baik,-1.78,1,Normal
+35,11.8,90,Berat Badan Normal,-1.03,-0.93,Gizi Baik,-0.79,1,Normal
+57,17.5,105,Berat Badan Normal,-0.1,-0.64,Gizi Baik,0.45,0,Normal
+52,12.8,98,Kurang,-2.02,-1.61,Gizi Baik,-1.55,0,Normal
+50,22.3,107,Risiko Lebih,2,0.6,Gizi Lebih,2.5,1,Normal
+43,13.8,97.5,Berat Badan Normal,-0.99,-0.82,Gizi Baik,-0.77,0,Normal
+40,15.3,96,Berat Badan Normal,0.09,-0.78,Gizi Baik,0.82,0,Normal
+39,11.9,91,Berat Badan Normal,-1.68,-1.6,Gizi Baik,-1.24,1,Normal
+40,18.5,103.5,Risiko Lebih,1.66,1.22,Risiko Gizi Lebih,1.42,1,Normal
+34,16.2,94.2,Risiko Lebih,1.13,-0.28,Risiko Gizi Lebih,1.88,1,Normal
+50,14.2,96,Berat Badan Normal,-1.12,-1.89,Gizi Baik,0.04,1,Normal
+50,15.7,100,Berat Badan Normal,-0.5,-1.08,Gizi Baik,0.27,0,Normal
+59,18,111,Berat Badan Normal,-0.09,0.32,Gizi Baik,-0.54,1,Normal
+40,13.1,97,Berat Badan Normal,-1.16,-0.5,Gizi Baik,-1.32,1,Normal
+51,29.2,110,Risiko Lebih,3.65,1.11,Obesitas,4.66,0,Normal
+56,18.3,105.5,Berat Badan Normal,0.2,-0.61,Gizi Baik,0.85,0,Normal
+57,11.9,99,Kurang,-2.93,-1.92,Gizi Kurang,-2.63,1,Normal
+48,14.8,100,Berat Badan Normal,-0.79,-0.8,Gizi Baik,-0.45,0,Normal
+53,15.8,104,Berat Badan Normal,-0.67,-0.52,Gizi Baik,-0.54,0,Normal
+56,16,105,Berat Badan Normal,-0.66,-0.45,Gizi Baik,-0.61,0,Normal
+55,16,104,Berat Badan Normal,-0.59,-0.64,Gizi Baik,-0.3,1,Normal
+48,12.5,94.5,Berat Badan Normal,-1.75,-1.69,Gizi Baik,-1.1,1,Normal
+56,14.9,98.5,Berat Badan Normal,-1.2,-1.99,Gizi Baik,0.07,1,Normal
+56,14.5,100,Berat Badan Normal,-1.4,-1.67,Gizi Baik,-0.54,1,Normal
+59,21.3,110,Risiko Lebih,1.14,0.08,Risiko Gizi Lebih,1.55,0,Normal
+40,13.9,95,Berat Badan Normal,-0.39,-0.72,Gizi Baik,0.01,1,Normal
+56,13.5,99,Berat Badan Normal,-1.9,-1.83,Gizi Baik,-1.14,0,Normal
+53,14.8,99.5,Berat Badan Normal,-1.22,-1.61,Gizi Baik,-0.34,1,Normal
+53,14.7,99,Berat Badan Normal,-1.23,-1.67,Gizi Baik,-0.31,1,Normal
+54,14.6,100,Berat Badan Normal,-1.19,-1.42,Gizi Baik,-0.46,0,Normal
+52,13.1,98,Berat Badan Normal,-1.82,-1.58,Gizi Baik,-1.28,0,Normal
+51,15.3,104,Berat Badan Normal,-0.77,-0.27,Gizi Baik,-0.93,0,Normal
+50,15.7,100,Berat Badan Normal,-0.5,-1.08,Gizi Baik,0.27,0,Normal
+48,15.3,96.5,Berat Badan Normal,-0.53,-1.65,Gizi Baik,0.72,0,Normal
+49,20.5,106,Risiko Lebih,1.65,0.48,Gizi Lebih,2.01,0,Normal
+45,18.1,98,Risiko Lebih,1.09,-0.71,Gizi Lebih,2.23,1,Normal
+45,12.3,94.5,Kurang,-2.05,-1.75,Gizi Baik,-1.59,0,Normal
+41,11.5,92,Kurang,-2.3,-1.89,Gizi Baik,-1.91,1,Normal
+40,12.4,94,Berat Badan Normal,-1.6,-1.25,Gizi Baik,-1.38,1,Normal
+39,12.8,92,Berat Badan Normal,-1,-1.42,Gizi Baik,-0.3,1,Normal
+39,12.3,92,Berat Badan Normal,-1.28,-1.36,Gizi Baik,-0.75,1,Normal
+39,10.8,91,Kurang,-2.32,-1.58,Gizi Kurang,-2.06,1,Normal
+39,12.8,96,Berat Badan Normal,-0.97,-0.35,Gizi Baik,-1.13,0,Normal
+38,15.3,94,Berat Badan Normal,0.51,-0.69,Risiko Gizi Lebih,1.25,0,Normal
+37,13.8,93,Berat Badan Normal,-0.44,-1.05,Gizi Baik,0.19,1,Normal
+33,11,89,Berat Badan Normal,-1.99,-1.53,Gizi Baik,-1.78,0,Normal
+32,10.5,86,Berat Badan Normal,-1.87,-1.82,Gizi Baik,-1.19,0,Normal
+32,12.5,91,Berat Badan Normal,-0.81,-0.8,Gizi Baik,-0.61,1,Normal
+54,15.6,105,Berat Badan Normal,-0.82,-0.38,Gizi Baik,-0.92,1,Normal
+53,13.9,98,Berat Badan Normal,-1.49,-1.76,Gizi Baik,-0.6,0,Normal
+53,13.9,98,Berat Badan Normal,-1.68,-1.91,Gizi Baik,-0.79,0,Normal
+53,14.1,98.5,Berat Badan Normal,-1.21,-1.37,Gizi Baik,-0.55,1,Normal
+46,12.5,98,Berat Badan Normal,-1.75,-0.86,Gizi Baik,-1.83,0,Normal
+39,12.7,91,Berat Badan Normal,-1.34,-1.92,Gizi Baik,-0.41,0,Normal
+37,14.2,96,Berat Badan Normal,-0.26,-0.34,Gizi Baik,-0.09,0,Normal
+35,14.7,95,Berat Badan Normal,0.52,0.09,Gizi Baik,0.62,1,Normal
+34,13.4,90,Berat Badan Normal,-0.14,-1.14,Gizi Baik,0.64,1,Normal
+40,11.6,91.5,Berat Badan Normal,-1.86,-1.64,Gizi Baik,-1.32,1,Normal
+41,13.6,97,Berat Badan Normal,-0.9,-0.58,Gizi Baik,-0.85,1,Normal
+55,15.4,104,Berat Badan Normal,-0.85,-0.61,Gizi Baik,-0.72,1,Normal
+34,12,87,Berat Badan Normal,-0.9,-1.76,Gizi Baik,0.1,0,Normal
+46,13.5,95,Berat Badan Normal,-1.18,-1.62,Gizi Baik,-0.32,0,Normal
+47,17.5,105,Berat Badan Normal,0.61,0.53,Gizi Baik,0.45,0,Normal
+44,14.2,99,Berat Badan Normal,-0.85,-0.59,Gizi Baik,-0.74,0,Normal
+53,16.5,102,Berat Badan Normal,-0.21,-0.82,Gizi Baik,0.46,1,Normal
+35,14.2,89,Berat Badan Normal,0,-1.77,Risiko Gizi Lebih,1.41,0,Normal
+23,8.7,80,Kurang,-2.32,-1.98,Gizi Baik,-1.7,0,Normal
+50,18.4,111.5,Berat Badan Normal,0.68,1.52,Gizi Baik,-0.4,0,Normal
+50,12.9,97.5,Berat Badan Normal,-1.84,-1.53,Gizi Baik,-1.35,0,Normal
+49,13,102.5,Berat Badan Normal,-1.94,-0.41,Gizi Kurang,-2.64,1,Normal
+49,17.6,109.5,Berat Badan Normal,0.44,1.23,Gizi Baik,-0.47,1,Normal
+44,13.7,98.5,Berat Badan Normal,-0.87,-0.46,Gizi Baik,-0.87,0,Normal
+52,14.9,98,Berat Badan Normal,-1.08,-1.82,Gizi Baik,0.07,0,Normal
+50,15.3,100.1,Berat Badan Normal,-0.72,-1.09,Gizi Baik,-0.07,1,Normal
+49,16.8,104.2,Berat Badan Normal,0.12,0.06,Gizi Baik,0.14,0,Normal
+45,13.6,94,Berat Badan Normal,-1.26,-1.92,Gizi Baik,-0.2,1,Normal
+42,17.7,99.5,Risiko Lebih,1.2,0.08,Risiko Gizi Lebih,1.71,1,Normal
+40,11.8,92,Kurang,-2.04,-1.82,Gizi Baik,-1.58,0,Normal
+37,12.5,90,Berat Badan Normal,-0.99,-1.61,Gizi Baik,-0.13,0,Normal
+36,11.5,89.5,Berat Badan Normal,-1.9,-1.89,Gizi Baik,-1.33,0,Normal
+54,16,105,Berat Badan Normal,-0.64,-0.42,Gizi Baik,-0.61,1,Normal
+47,11.7,96,Kurang,-2.65,-1.71,Gizi Kurang,-2.58,0,Normal
+40,16,93,Berat Badan Normal,0.65,-1.24,Risiko Gizi Lebih,1.92,0,Normal
+35,12.5,89.5,Berat Badan Normal,-1.05,-1.63,Gizi Baik,-0.27,0,Normal
+45,12.6,95.1,Berat Badan Normal,-1.87,-1.64,Gizi Baik,-1.41,0,Normal
+48,13.6,99.4,Berat Badan Normal,-1.24,-0.78,Gizi Baik,-1.14,0,Normal
+34,11.4,91.9,Berat Badan Normal,-1.75,-0.83,Gizi Baik,-2,0,Normal
+33,14.07,88,Berat Badan Normal,0.06,-1.84,Risiko Gizi Lebih,1.52,1,Normal
+50,13,97,Berat Badan Normal,-1.75,-1.59,Gizi Baik,-1.16,0,Normal
+47,15.6,105,Berat Badan Normal,-0.19,0.57,Gizi Baik,-0.8,1,Normal
+56,21,108,Risiko Lebih,1.21,-0.07,Risiko Gizi Lebih,1.84,1,Normal
+45,12.8,95,Berat Badan Normal,-1.47,-1.43,Gizi Baik,-0.93,0,Normal
+44,13.5,97,Berat Badan Normal,-1.22,-1.02,Gizi Baik,-0.94,0,Normal
+42,12.7,97,Berat Badan Normal,-1.57,-0.77,Gizi Baik,-1.72,1,Normal
+41,12,93,Berat Badan Normal,-1.93,-1.61,Gizi Baik,-1.58,1,Normal
+40,14.2,99,Berat Badan Normal,-0.52,-0.03,Gizi Baik,-0.74,0,Normal
+39,12.8,93,Berat Badan Normal,-1.23,-1.33,Gizi Baik,-0.75,1,Normal
+37,13.5,94,Berat Badan Normal,-0.6,-0.74,Gizi Baik,-0.29,1,Normal
+32,12.6,89.5,Berat Badan Normal,-0.69,-1.12,Gizi Baik,-0.17,1,Normal
+41,16.1,100,Berat Badan Normal,0.42,0.1,Gizi Baik,0.57,0,Normal
+37,12.4,94,Berat Badan Normal,-1.35,-0.81,Gizi Baik,-1.38,1,Normal
+37,11.4,90,Berat Badan Normal,-1.69,-1.54,Gizi Baik,-1.19,0,Normal
+37,12.3,93,Berat Badan Normal,-1.04,-0.72,Gizi Baik,-0.96,1,Normal
+39,18.5,100,Risiko Lebih,1.73,0.43,Gizi Lebih,2.19,0,Normal
+52,13.1,99.5,Kurang,-2.1,-1.49,Gizi Baik,-1.88,1,Normal
+43,11.9,94.6,Berat Badan Normal,-1.96,-1.37,Gizi Baik,-1.69,1,Normal
+43,15.3,97,Berat Badan Normal,0.01,-0.75,Gizi Baik,0.66,0,Normal
+39,15.5,96.5,Berat Badan Normal,0.27,-0.52,Gizi Baik,0.87,0,Normal
+37,13.7,99.1,Berat Badan Normal,-0.49,0.6,Gizi Baik,-1.22,0,Normal
+47,15.7,102,Berat Badan Normal,-0.13,-0.1,Gizi Baik,-0.08,1,Normal
+45,11.5,94,Kurang,-2.33,-1.68,Gizi Baik,-1.97,1,Normal
+41,12.4,94,Berat Badan Normal,-1.43,-1.21,Gizi Baik,-1.08,1,Normal
+37,16.8,99,Risiko Lebih,1.25,0.68,Risiko Gizi Lebih,1.26,1,Normal
+35,11.6,89,Berat Badan Normal,-1.71,-1.82,Gizi Baik,-1.09,1,Normal
+49,15.8,100,Berat Badan Normal,-0.38,-0.97,Gizi Baik,0.34,1,Normal
+47,14.4,105,Berat Badan Normal,-0.77,0.6,Gizi Baik,-1.7,0,Normal
+49,15.3,104,Berat Badan Normal,-0.61,0.01,Gizi Baik,-0.93,0,Normal
+45,10.5,89.5,Sangat Kurang,-3.37,-3.07,Gizi Kurang,-2.52,0,Sangat Pendek
+45,14.5,94,Berat Badan Normal,-0.74,-1.91,Gizi Baik,0.59,1,Normal
+45,13.3,102,Berat Badan Normal,-1.43,0.05,Gizi Kurang,-2.24,1,Normal
+43,14,92.5,Berat Badan Normal,-0.63,-1.8,Gizi Baik,0.6,0,Normal
+42,11.4,95,Kurang,-2.18,-1.07,Gizi Kurang,-2.29,0,Normal
+34,13.3,93,Berat Badan Normal,-0.52,-0.65,Gizi Baik,-0.27,0,Normal
+54,12.5,98.5,Kurang,-2.38,-1.77,Gizi Baik,-1.93,1,Normal
+51,14.3,103,Berat Badan Normal,-1.16,-0.45,Gizi Baik,-1.34,0,Normal
+50,12.6,96,Kurang,-2.26,-2.05,Gizi Baik,-1.6,1,Pendek
+50,13.9,99.5,Berat Badan Normal,-1.23,-1.01,Gizi Baik,-0.91,1,Normal
+49,13.7,101,Berat Badan Normal,-1.52,-0.77,Gizi Baik,-1.64,0,Normal
+49,14,104,Berat Badan Normal,-1.35,-0.05,Gizi Kurang,-2.03,0,Normal
+42,13,100,Berat Badan Normal,-1.15,0.12,Gizi Baik,-1.79,0,Normal
+41,14,97,Berat Badan Normal,-0.68,-0.62,Gizi Baik,-0.48,0,Normal
+38,12.1,95,Berat Badan Normal,-1.37,-0.53,Gizi Baik,-1.58,1,Normal
+38,13.6,97,Berat Badan Normal,-0.42,0.02,Gizi Baik,-0.65,1,Normal
+35,13.2,90,Berat Badan Normal,-0.36,-1.3,Gizi Baik,0.48,0,Normal
+35,13.2,91,Berat Badan Normal,-0.36,-1.04,Gizi Baik,0.26,1,Normal
+58,15.95,107,Berat Badan Normal,-0.93,-0.43,Gizi Baik,-1.09,1,Normal
+49,17.6,98,Berat Badan Normal,0.5,-1.31,Risiko Gizi Lebih,1.95,1,Normal
+45,13.7,98.5,Berat Badan Normal,-1.2,-0.81,Gizi Baik,-1.08,1,Normal
+37,14.1,91,Berat Badan Normal,-0.06,-1.37,Gizi Baik,0.99,0,Normal
+35,14,92,Berat Badan Normal,0.1,-0.77,Gizi Baik,0.7,0,Normal
+34,13.4,92,Berat Badan Normal,-0.46,-0.92,Gizi Baik,0.04,0,Normal
+57,15,103,Berat Badan Normal,-1.21,-1.1,Gizi Baik,-0.8,1,Normal
+40,11.6,92,Berat Badan Normal,-1.84,-1.5,Gizi Baik,-1.43,1,Normal
+43,14,99,Berat Badan Normal,-0.66,-0.28,Gizi Baik,-0.73,0,Normal
+57,16.7,104,Berat Badan Normal,-0.54,-1.02,Gizi Baik,0.12,0,Normal
+43,13.7,97,Berat Badan Normal,-1.02,-0.89,Gizi Baik,-0.75,0,Normal
+54,28.1,113.5,Risiko Lebih,3.55,1.44,Obesitas,3.72,0,Normal
+54,32.9,115,Risiko Lebih,4.28,1.87,Obesitas,4.71,0,Normal
+45,11.5,91,Kurang,-2.37,-2.45,Gizi Baik,-1.31,1,Pendek
+49,14,96,Berat Badan Normal,-1.35,-1.95,Gizi Baik,-0.27,1,Normal
+34,15.2,100,Berat Badan Normal,0.64,1.37,Gizi Baik,-0.13,0,Normal
+49,12.8,95.5,Berat Badan Normal,-1.85,-1.9,Gizi Baik,-1.03,0,Normal
+54,20.5,108,Risiko Lebih,1.21,0.22,Risiko Gizi Lebih,1.57,1,Normal
+40,14.9,92,Berat Badan Normal,-0.07,-1.72,Risiko Gizi Lebih,1.34,1,Normal
+57,12.4,98,Kurang,-2.86,-2.37,Gizi Kurang,-2.25,0,Pendek
+47,14.5,95,Berat Badan Normal,-0.71,-1.73,Gizi Baik,0.47,0,Normal
+39,13.7,99,Berat Badan Normal,-0.64,0.3,Gizi Baik,-1.19,1,Normal
+55,17.5,102,Berat Badan Normal,0.05,-1.06,Risiko Gizi Lebih,1.08,1,Normal
+32,12.4,92.5,Berat Badan Normal,-0.9,-0.41,Gizi Baik,-1.05,0,Normal
+41,12.8,90.9,Berat Badan Normal,-1.2,-2,Gizi Baik,-0.06,0,Normal
+35,12,90.5,Berat Badan Normal,-1.08,-1.11,Gizi Baik,-0.71,1,Normal
+52,13.8,97.3,Berat Badan Normal,-1.66,-1.95,Gizi Baik,-0.73,1,Normal
+47,13.8,95,Berat Badan Normal,-1.06,-1.69,Gizi Baik,-0.07,0,Normal
+40,12.6,92.3,Berat Badan Normal,-1.17,-1.41,Gizi Baik,-0.54,1,Normal
+43,12.3,93,Berat Badan Normal,-1.68,-1.75,Gizi Baik,-0.96,0,Normal
+41,12.9,98,Berat Badan Normal,-1.13,-0.24,Gizi Baik,-1.46,1,Normal
+55,12.5,91,Berat Badan Normal,-1.5,-1.9,Gizi Baik,-1.88,1,Pendek
+54,11.8,89,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.9,0,Pendek
+56,13,95,Sangat Kurang,-3.1,-2.5,Gizi Kurang,-2,1,Sangat Pendek
+52,12.1,93,Gizi Baik,-1.8,-1.9,Gizi Baik,-1.91,0,Pendek
+50,11,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+51,12.6,92,Risiko Lebih,-2.3,-1.9,Gizi Baik,-1.88,0,Pendek
+53,11.9,94,Gizi Kurang,-2.2,-2.1,Gizi Kurang,-2.05,0,Pendek
+54,12.3,91,Sangat Kurang,-3,-2.4,Gizi Kurang,-2.1,1,Sangat Pendek
+55,12,93,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.87,1,Pendek
+50,10.5,92,Risiko Lebih,-1.9,-1.85,Gizi Baik,-1.9,0,Pendek
+52,12.8,94,Gizi Baik,-1.6,-1.9,Gizi Baik,-1.88,0,Pendek
+53,11.5,90,Sangat Kurang,-2.9,-2.05,Gizi Kurang,-2,1,Pendek
+54,11,89,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.85,0,Pendek
+56,12.9,93,Risiko Lebih,-2,-1.9,Gizi Baik,-1.92,1,Pendek
+50,10.9,95,Gizi Kurang,-2.5,-2.1,Gizi Kurang,-2.05,0,Pendek
+51,11.3,92,Berat Badan Normal,-1.4,-1.85,Gizi Baik,-1.9,1,Pendek
+55,12.1,94,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.91,0,Pendek
+52,12.7,90,Gizi Baik,-1.8,-1.8,Gizi Baik,-1.89,1,Pendek
+53,11.2,91,Sangat Kurang,-3.2,-2.25,Gizi Kurang,-2.1,0,Sangat Pendek
+54,12.5,92,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.88,0,Pendek
+55,12,93,Risiko Lebih,-2.1,-1.9,Gizi Baik,-1.9,1,Pendek
+56,12.8,94,Gizi Kurang,-2.4,-1.85,Gizi Kurang,-1.92,0,Pendek
+50,10.4,90,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.89,1,Pendek
+51,11.6,91,Risiko Lebih,-2,-1.85,Gizi Baik,-1.9,0,Pendek
+52,12.2,93,Gizi Baik,-1.8,-1.9,Gizi Baik,-1.88,0,Pendek
+53,11.7,92,Sangat Kurang,-3.1,-2.5,Gizi Kurang,-2.1,1,Sangat Pendek
+54,12.3,94,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.9,1,Pendek
+55,12.6,95,Risiko Lebih,-2.2,-1.85,Gizi Baik,-1.91,0,Pendek
+56,13.1,89,Gizi Kurang,-3.3,-2.25,Gizi Kurang,-2.12,1,Sangat Pendek
+50,10.8,90,Berat Badan Normal,-1.5,-1.8,Gizi Baik,-1.85,1,Pendek
+51,12,91,Risiko Lebih,-2.1,-1.9,Gizi Baik,-1.88,0,Pendek
+52,12.6,92,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.9,1,Pendek
+53,11.8,93,Sangat Kurang,-3,-2.4,Gizi Kurang,-2.05,0,Sangat Pendek
+54,12.2,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,0,Pendek
+56,12.5,99,Kurang,-2.6,-2.01,Gizi Kurang,-2.04,1,Pendek
+54,11.3,89,Sangat Kurang,-3.34,-4.03,Gizi Baik,-1.43,1,Sangat Pendek
+55,12,90,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.85,0,Pendek
+56,12.8,95,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+53,12.5,90,Gizi Baik,-1.7,-1.95,Gizi Baik,-1.91,0,Pendek
+54,12,92,Sangat Kurang,-2.9,-2,Gizi Kurang,-2.05,0,Pendek
+51,11.3,89,Berat Badan Normal,-1.8,-1.9,Gizi Baik,-1.89,0,Pendek
+56,12.2,91,Risiko Lebih,-2.3,-1.95,Gizi Baik,-1.9,0,Pendek
+50,10.8,92,Gizi Kurang,-2.6,-2.1,Gizi Kurang,-2.05,0,Pendek
+55,12.7,93,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.87,0,Pendek
+54,11.5,90,Sangat Kurang,-3.2,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+51,11.6,95,Risiko Lebih,-2,-1.85,Gizi Baik,-1.92,0,Pendek
+56,12.8,94,Gizi Baik,-1.8,-1.95,Gizi Baik,-1.9,0,Pendek
+50,10.2,89,Sangat Kurang,-3.3,-2.25,Gizi Kurang,-2.12,0,Sangat Pendek
+55,12.3,91,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.87,0,Pendek
+54,11.9,92,Risiko Lebih,-2,-1.85,Gizi Baik,-1.95,0,Pendek
+53,12.1,93,Gizi Kurang,-2.2,-2.05,Gizi Kurang,-1.91,0,Pendek
+56,13.3,94,Sangat Kurang,-3.4,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+50,10.4,90,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.85,0,Pendek
+51,11.2,91,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.9,0,Pendek
+52,11.8,92,Risiko Lebih,-1.8,-1.9,Gizi Baik,-1.88,0,Pendek
+53,12.4,93,Gizi Kurang,-2.5,-1.95,Gizi Kurang,-2,0,Pendek
+56,12.9,94,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.9,0,Pendek
+55,12.6,90,Risiko Lebih,-2,-1.9,Gizi Baik,-1.91,0,Pendek
+54,11.3,92,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.95,0,Pendek
+50,10.5,91,Gizi Kurang,-2.5,-2.1,Gizi Kurang,-2.05,0,Pendek
+51,11.6,93,Sangat Kurang,-2.4,-2,Gizi Kurang,-1.95,0,Pendek
+52,11.8,94,Risiko Lebih,-1.9,-1.85,Gizi Baik,-1.9,0,Pendek
+53,12.2,92,Gizi Baik,-1.7,-1.9,Gizi Baik,-1.89,0,Pendek
+56,13.1,95,Sangat Kurang,-2.3,-2.05,Gizi Kurang,-1.95,0,Pendek
+55,12.4,90,Gizi Kurang,-1.8,-1.85,Gizi Kurang,-1.9,0,Pendek
+54,11.9,91,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.88,0,Pendek
+53,12.8,92,Risiko Lebih,-2.1,-1.9,Gizi Baik,-1.92,0,Pendek
+50,10.1,93,Sangat Kurang,-3.2,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+51,11.4,90,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,0,Pendek
+52,12,92,Gizi Baik,-1.6,-1.9,Gizi Baik,-1.9,0,Pendek
+56,12.9,93,Risiko Lebih,-2.4,-1.85,Gizi Baik,-1.88,0,Pendek
+55,12.5,94,Gizi Kurang,-2.1,-1.8,Gizi Kurang,-1.95,0,Pendek
+54,11.2,89,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.9,0,Pendek
+53,12.6,90,Sangat Kurang,-2.5,-2,Gizi Kurang,-1.95,0,Pendek
+50,10.5,91,Risiko Lebih,-2,-1.85,Gizi Baik,-1.9,0,Pendek
+51,11.4,92,Gizi Baik,-1.6,-1.9,Gizi Baik,-1.89,0,Pendek
+52,12,93,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.88,0,Pendek
+56,12.8,94,Gizi Kurang,-2.3,-1.85,Gizi Kurang,-1.9,0,Pendek
+55,12.4,90,Risiko Lebih,-1.7,-1.8,Gizi Baik,-1.9,0,Pendek
+54,11.3,89,Sangat Kurang,-3.34,-4.03,Gizi Baik,-1.43,0,Sangat Pendek
+55,12.5,90,Sangat Kurang,-2.8,-2.2,Gizi Kurang,-1.99,0,Pendek
+54,11.7,91,Gizi Kurang,-2.6,-2.15,Gizi Kurang,-1.95,0,Pendek
+53,12,92,Risiko Lebih,-2.2,-2.05,Gizi Baik,-1.98,0,Pendek
+52,11.5,93,Berat Badan Normal,-1.8,-1.9,Gizi Baik,-1.95,0,Pendek
+56,13,95,Kurang,-2.7,-1.85,Gizi Kurang,-1.9,0,Pendek
+50,10,94,Sangat Kurang,-3,-2.25,Gizi Kurang,-2.1,0,Pendek
+51,11.2,95,Berat Badan Normal,-2,-1.88,Gizi Baik,-1.91,0,Pendek
+49,10.3,92,Sangat Kurang,-2.5,-2.3,Gizi Kurang,-2.15,0,Pendek
+48,9.8,90,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.12,0,Sangat Pendek
+55,13.1,93,Risiko Lebih,-2.2,-2.1,Gizi Baik,-1.85,0,Pendek
+54,11.9,89,Berat Badan Normal,-1.9,-1.75,Gizi Baik,-1.91,0,Pendek
+56,12,94,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.87,0,Pendek
+52,11.1,92,Risiko Lebih,-1.8,-1.9,Gizi Baik,-1.96,0,Pendek
+51,11.5,90,Berat Badan Normal,-2.5,-2.5,Gizi Kurang,-2.05,0,Sangat Pendek
+55,12.8,95,Kurang,-2.4,-2.15,Gizi Kurang,-1.99,0,Pendek
+53,12.3,91,Berat Badan Normal,-2,-2.02,Gizi Baik,-1.89,0,Pendek
+54,12.5,93,Gizi Kurang,-1.9,-1.85,Gizi Kurang,-1.91,0,Pendek
+52,11,90,Sangat Kurang,-3,-2.45,Gizi Kurang,-2.1,0,Sangat Pendek
+55,12.4,92,Risiko Lebih,-2.2,-2.05,Gizi Baik,-1.9,0,Pendek
+56,13.2,95,Gizi Baik,-1.7,-1.8,Gizi Baik,-1.88,0,Pendek
+50,10.4,91,Sangat Kurang,-2.9,-2.2,Gizi Kurang,-2.08,0,Pendek
+54,12.1,93,Gizi Baik,-1.9,-1.92,Gizi Baik,-1.91,0,Pendek
+55,12.8,95,Risiko Lebih,-2.4,-2.05,Gizi Baik,-1.97,0,Pendek
+53,11.2,90,Gizi Kurang,-2.7,-1.85,Gizi Kurang,-2,0,Pendek
+51,11.4,91,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.88,0,Pendek
+56,12.3,92,Risiko Lebih,-2.2,-1.9,Gizi Baik,-1.89,0,Pendek
+52,11.1,90,Gizi Kurang,-2.6,-2.05,Gizi Kurang,-1.95,0,Pendek
+55,12.6,93,Sangat Kurang,-3,-2.4,Gizi Kurang,-2.05,0,Sangat Pendek
+49,10.9,94,Berat Badan Normal,-1.6,-1.9,Gizi Baik,-1.97,0,Pendek
+56,12.8,95,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.9,0,Pendek
+51,11.7,91,Risiko Lebih,-2.3,-1.95,Gizi Baik,-1.92,0,Pendek
+55,13,92,Gizi Kurang,-2.5,-2.05,Gizi Kurang,-1.98,0,Pendek
+54,12.2,93,Sangat Kurang,-3.2,-2.4,Gizi Kurang,-2.07,0,Sangat Pendek
+52,11.4,90,Gizi Baik,-1.8,-1.9,Gizi Baik,-1.9,0,Pendek
+56,12.7,94,Risiko Lebih,-2.4,-2,Gizi Baik,-1.95,0,Pendek
+50,10.5,89,Sangat Kurang,-3.5,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+55,12.6,93,Gizi Kurang,-2,-2,Gizi Kurang,-1.9,0,Pendek
+52,11.8,91,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.85,0,Pendek
+56,13.1,95,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+53,12.5,90,Gizi Baik,-1.7,-1.95,Gizi Baik,-1.91,0,Pendek
+54,12,92,Sangat Kurang,-2.9,-2,Gizi Kurang,-2.05,0,Pendek
+51,11.3,89,Berat Badan Normal,-1.8,-1.9,Gizi Baik,-1.89,0,Pendek
+56,12.2,91,Risiko Lebih,-2.3,-1.95,Gizi Baik,-1.9,0,Pendek
+50,10.8,92,Gizi Kurang,-2.6,-2.1,Gizi Kurang,-2.05,0,Pendek
+55,12.7,93,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.87,0,Pendek
+54,11.5,90,Sangat Kurang,-3.2,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+51,11.6,95,Risiko Lebih,-2,-1.85,Gizi Baik,-1.92,0,Pendek
+56,12.8,94,Gizi Baik,-1.8,-1.95,Gizi Baik,-1.9,0,Pendek
+50,10.2,89,Sangat Kurang,-3.3,-2.25,Gizi Kurang,-2.12,0,Sangat Pendek
+55,12.3,91,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.9,0,Pendek
+54,11.9,92,Risiko Lebih,-2,-1.85,Gizi Baik,-1.95,0,Pendek
+53,12.1,93,Gizi Kurang,-2.2,-2.05,Gizi Kurang,-1.91,0,Pendek
+56,13.3,94,Sangat Kurang,-3.4,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+50,10.4,90,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.85,0,Pendek
+51,11.2,91,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.9,0,Pendek
+52,11.8,92,Risiko Lebih,-1.8,-1.9,Gizi Baik,-1.88,0,Pendek
+53,12.4,93,Gizi Kurang,-2.5,-1.95,Gizi Kurang,-2,0,Pendek
+56,12.9,94,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.9,0,Pendek
+55,12.6,90,Risiko Lebih,-2,-1.9,Gizi Baik,-1.91,0,Pendek
+55,12.4,99,Kurang,-2.5,-1.94,Gizi Kurang,-2.01,1,Pendek
+54,12.9,100,Kurang,-2.3,-1.92,Gizi Kurang,-1.98,1,Pendek
+50,11.4,96,Kurang,-2.7,-2.09,Gizi Kurang,-2.08,1,Pendek
+51,12.2,97,Risiko Lebih,-2.5,-2,Gizi Baik,-2.02,1,Pendek
+58,14.5,101,Gizi Baik,-2.1,-1.85,Gizi Baik,-1.92,1,Pendek
+49,10.9,95,Sangat Kurang,-2.8,-2.12,Gizi Kurang,-2.09,1,Pendek
+50,11.7,96,Risiko Lebih,-2.6,-1.99,Gizi Baik,-1.97,1,Pendek
+54,12.8,100,Kurang,-2.3,-2.01,Gizi Kurang,-1.96,1,Pendek
+56,12.6,99,Kurang,-2.5,-2,Gizi Kurang,-2.04,1,Pendek
+52,11.3,98,Sangat Kurang,-2.7,-2.05,Gizi Kurang,-2.06,1,Pendek
+57,14.1,100,Gizi Baik,-2.2,-1.91,Gizi Baik,-1.93,1,Pendek
+51,11.9,97,Risiko Lebih,-2.6,-2.02,Gizi Baik,-2.01,1,Pendek
+53,12.4,98,Kurang,-2.5,-2.01,Gizi Kurang,-1.95,1,Pendek
+56,12.3,99,Kurang,-2.6,-2,Gizi Kurang,-1.98,1,Pendek
+55,12.5,100,Gizi Baik,-2.4,-1.95,Gizi Baik,-1.98,1,Pendek
+52,11.6,97,Sangat Kurang,-2.7,-2.1,Gizi Kurang,-2.06,1,Pendek
+49,10.7,95,Sangat Kurang,-2.8,-2.15,Gizi Kurang,-2.09,1,Pendek
+58,14.3,101,Gizi Baik,-2.1,-1.86,Gizi Baik,-1.94,1,Pendek
+51,12,98,Risiko Lebih,-2.5,-2.01,Gizi Baik,-1.97,1,Pendek
+50,11.5,96,Gizi Baik,-2.6,-1.92,Gizi Baik,-2.03,1,Pendek
+56,12.4,99,Kurang,-2.4,-2,Gizi Kurang,-2.04,1,Pendek
+53,12.2,98,Risiko Lebih,-2.5,-1.97,Gizi Baik,-1.99,1,Pendek
+55,12.8,100,Gizi Baik,-2.3,-1.95,Gizi Baik,-1.98,1,Pendek
+33,12.5,90,Berat Badan Normal,-1.2,-1.6,Gizi Baik,-1.7,1,Pendek
+46,11.1,92,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.75,0,Pendek
+53,13.2,93,Sangat Kurang,-3.1,-2.6,Gizi Kurang,-2.15,1,Sangat Pendek
+37,12.8,91,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.8,0,Pendek
+55,10.9,90,Berat Badan Normal,-1.4,-1.8,Gizi Baik,-1.85,1,Pendek
+34,11.3,88,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.88,0,Pendek
+40,12.1,89,Sangat Kurang,-3,-2.3,Gizi Kurang,-2.1,1,Sangat Pendek
+35,13,92,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.8,0,Pendek
+41,11.5,91,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.88,1,Pendek
+45,12.4,90,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.9,0,Pendek
+39,12.3,94,Gizi Kurang,-2.6,-2.1,Gizi Kurang,-2.05,1,Pendek
+52,11.8,93,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.89,0,Pendek
+36,12.6,92,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.87,1,Pendek
+55,10.4,90,Gizi Baik,-1.9,-1.8,Gizi Baik,-1.85,0,Pendek
+30,12.8,91,Sangat Kurang,-3.1,-2.5,Gizi Kurang,-2.1,1,Sangat Pendek
+49,11.9,89,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.87,0,Pendek
+54,12.2,93,Risiko Lebih,-2.3,-1.9,Gizi Baik,-1.89,1,Pendek
+38,11.4,88,Gizi Kurang,-2.5,-2.1,Gizi Kurang,-2.05,0,Pendek
+44,12.3,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+33,10.8,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.87,0,Pendek
+50,12.7,91,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+35,12.1,94,Sangat Kurang,-3.2,-2.4,Gizi Kurang,-2.05,0,Sangat Pendek
+48,11.5,90,Berat Badan Normal,-1.4,-1.8,Gizi Baik,-1.89,1,Pendek
+42,12.4,92,Risiko Lebih,-2.2,-1.9,Gizi Baik,-1.88,0,Pendek
+52,11.2,89,Gizi Kurang,-2.3,-2.05,Gizi Kurang,-2.1,1,Pendek
+34,12.8,93,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.9,0,Pendek
+41,11.7,88,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.87,1,Pendek
+39,10.6,90,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.89,0,Pendek
+53,12.5,91,Sangat Kurang,-3.1,-2.6,Gizi Kurang,-2.15,1,Sangat Pendek
+47,11.1,92,Berat Badan Normal,-1.4,-1.8,Gizi Baik,-1.85,0,Pendek
+31,12.9,94,Risiko Lebih,-2,-1.9,Gizi Baik,-1.88,1,Pendek
+30,11,89,Gizi Kurang,-2.5,-2.1,Gizi Kurang,-2.05,0,Pendek
+58,12.1,92,Berat Badan Normal,-1.5,-1.8,Gizi Baik,-1.89,1,Pendek
+50,10.4,90,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+54,12.7,91,Gizi Baik,-1.6,-1.8,Gizi Baik,-1.87,1,Pendek
+41,11.5,94,Sangat Kurang,-3.1,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.4,90,Berat Badan Normal,-1.3,-1.8,Gizi Baik,-1.88,1,Pendek
+56,11.6,89,Risiko Lebih,-2.5,-1.85,Gizi Baik,-1.89,0,Pendek
+39,12.2,92,Gizi Kurang,-2.1,-2.05,Gizi Kurang,-2,1,Pendek
+34,11,91,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.88,0,Pendek
+45,12.8,90,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.89,1,Pendek
+36,10.9,89,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.9,0,Pendek
+33,12.1,90,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.05,1,Sangat Pendek
+50,11.4,92,Berat Badan Normal,-1.5,-1.8,Gizi Baik,-1.88,0,Pendek
+32,12.5,93,Risiko Lebih,-2,-1.85,Gizi Baik,-1.87,1,Pendek
+57,10.6,88,Gizi Kurang,-2.5,-2,Gizi Kurang,-2.1,0,Pendek
+36,12.2,94,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.9,1,Pendek
+45,11.2,91,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.88,0,Pendek
+39,12.7,90,Gizi Baik,-1.6,-1.8,Gizi Baik,-1.87,1,Pendek
+54,10.3,92,Sangat Kurang,-3,-2.6,Gizi Kurang,-2.05,0,Sangat Pendek
+51,12.5,91,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.88,1,Pendek
+37,11.4,90,Risiko Lebih,-2,-1.85,Gizi Baik,-1.89,0,Pendek
+48,10.8,89,Gizi Kurang,-2.3,-2.1,Gizi Kurang,-2,1,Pendek
+35,12.1,92,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.9,0,Pendek
+50,11.9,90,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.87,1,Pendek
+30,12.4,93,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.88,0,Pendek
+40,11.1,89,Sangat Kurang,-3.2,-2.5,Gizi Kurang,-2.1,1,Sangat Pendek
+46,12,90,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.88,0,Pendek
+38,10.7,91,Risiko Lebih,-2.2,-1.9,Gizi Baik,-1.89,1,Pendek
+42,11.6,92,Gizi Baik,-1.4,-1.8,Gizi Baik,-1.87,0,Pendek
+33,12.5,90,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2.05,1,Sangat Pendek
+55,10.2,89,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.88,0,Pendek
+31,12.6,91,Risiko Lebih,-2.3,-1.9,Gizi Baik,-1.89,1,Pendek
+37,11.3,92,Gizi Kurang,-2.5,-2,Gizi Kurang,-2.1,0,Pendek
+56,12.8,90,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.88,1,Pendek
+32,10.4,91,Risiko Lebih,-2,-1.85,Gizi Baik,-1.87,0,Pendek
+48,12.2,89,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.88,1,Pendek
+34,11.5,92,Sangat Kurang,-3.3,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+45,12.4,90,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.89,1,Pendek
+30,10.9,91,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.87,0,Pendek
+40,12,92,Gizi Kurang,-2.2,-2.1,Gizi Kurang,-2.05,1,Pendek
+52,11.6,89,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.88,0,Pendek
+56,12.1,91,Risiko Lebih,-2.3,-1.85,Gizi Baik,-1.87,1,Pendek
+39,10.7,92,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.9,0,Pendek
+38,12.9,90,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2.15,1,Sangat Pendek
+33,11.2,89,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.87,0,Pendek
+31,12.8,92,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,1,Pendek
+54,10.6,90,Gizi Kurang,-2.5,-2.05,Gizi Kurang,-2.1,0,Pendek
+43,12.5,91,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.88,1,Pendek
+47,11.3,94,Risiko Lebih,-2,-1.9,Gizi Baik,-1.89,0,Pendek
+36,12.2,92,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.9,1,Pendek
+40,10.4,89,Sangat Kurang,-3,-2.5,Gizi Kurang,-2.05,0,Sangat Pendek
+52,12.8,90,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.88,1,Pendek
+39,11,91,Risiko Lebih,-2.3,-1.9,Gizi Baik,-1.89,0,Pendek
+35,12.6,93,Gizi Kurang,-2,-2.05,Gizi Kurang,-2.1,1,Pendek
+48,10.5,92,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.88,0,Pendek
+45,12.9,94,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.87,1,Pendek
+50,11.4,90,Gizi Baik,-1.8,-1.8,Gizi Baik,-1.89,0,Pendek
+31,10.5,90,Berat Badan Normal,-1.4,-1.8,Gizi Baik,-1.75,0,Pendek
+42,12.4,93,Risiko Lebih,-2.6,-1.9,Gizi Baik,-1.8,1,Pendek
+38,11.8,88,Sangat Kurang,-3.2,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+45,10.9,89,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+36,12.1,94,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.87,0,Pendek
+33,11.2,91,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.88,1,Pendek
+50,12.9,95,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.05,0,Sangat Pendek
+54,11.5,92,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.89,1,Pendek
+48,12.6,93,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.87,0,Pendek
+39,10.4,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+37,11.7,88,Sangat Kurang,-3,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+40,12.3,91,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.9,1,Pendek
+52,10.8,89,Risiko Lebih,-2.3,-1.85,Gizi Baik,-1.87,0,Pendek
+35,11.6,92,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.88,1,Pendek
+53,12.2,90,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+46,11.4,93,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+32,10.5,92,Risiko Lebih,-2,-1.9,Gizi Baik,-1.88,0,Pendek
+56,12.5,94,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.87,1,Pendek
+34,11.3,90,Sangat Kurang,-3.2,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+43,12.7,91,Berat Badan Normal,-1.5,-1.8,Gizi Baik,-1.88,1,Pendek
+49,10.4,89,Risiko Lebih,-2.2,-1.85,Gizi Baik,-1.87,0,Pendek
+55,11,88,Gizi Baik,-1.8,-1.8,Gizi Baik,-1.88,1,Pendek
+51,12.8,92,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+41,11.2,93,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.9,1,Pendek
+39,12.4,90,Risiko Lebih,-2.3,-1.9,Gizi Baik,-1.88,0,Pendek
+36,10.7,91,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+32,12.6,89,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2,0,Sangat Pendek
+38,11.5,88,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+48,12.2,93,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.88,0,Pendek
+54,11.4,92,Gizi Baik,-1.6,-1.8,Gizi Baik,-1.89,1,Pendek
+47,10.8,90,Sangat Kurang,-3,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+40,12.9,91,Berat Badan Normal,-1.5,-1.8,Gizi Baik,-1.87,1,Pendek
+30,10.5,89,Risiko Lebih,-2.1,-1.9,Gizi Baik,-1.88,0,Pendek
+52,12.3,92,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+34,11.2,90,Sangat Kurang,-3.2,-2.3,Gizi Kurang,-2.05,0,Sangat Pendek
+37,12.1,94,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.88,1,Pendek
+39,11.3,91,Risiko Lebih,-2.5,-1.85,Gizi Baik,-1.9,0,Pendek
+33,12.7,88,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.88,1,Pendek
+46,11.1,90,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+49,12.4,91,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.87,1,Pendek
+42,10.9,92,Risiko Lebih,-2.3,-1.85,Gizi Baik,-1.88,0,Pendek
+55,11.6,90,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+31,12.8,89,Sangat Kurang,-3.1,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+50,10.4,93,Berat Badan Normal,-1.7,-1.8,Gizi Baik,-1.88,1,Pendek
+35,12,92,Risiko Lebih,-2.2,-1.85,Gizi Baik,-1.9,0,Pendek
+45,11.9,90,Gizi Baik,-1.6,-1.8,Gizi Baik,-1.89,1,Pendek
+33,10.7,91,Sangat Kurang,-3.3,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.6,88,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.89,1,Pendek
+48,10.5,89,Risiko Lebih,-2.4,-1.9,Gizi Baik,-1.88,0,Pendek
+36,11.1,90,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.89,1,Pendek
+37,12.3,93,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+54,10.4,91,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.87,1,Pendek
+35,12.5,88,Risiko Lebih,-2,-1.9,Gizi Baik,-1.88,0,Pendek
+44,11.7,90,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+53,10.9,89,Sangat Kurang,-3.4,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.8,92,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.87,1,Pendek
+31,10.5,88,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+45,12.1,90,Gizi Baik,-1.5,-1.8,Gizi Baik,-1.89,1,Pendek
+38,11.4,93,Sangat Kurang,-3.2,-2.3,Gizi Kurang,-2,0,Sangat Pendek
+52,10.3,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+43,12.4,94,Risiko Lebih,-2.3,-1.9,Gizi Baik,-1.88,0,Pendek
+48,11.9,90,Gizi Baik,-1.9,-1.8,Gizi Baik,-1.87,1,Pendek
+54,10.8,93,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.2,91,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.88,1,Pendek
+50,11.5,90,Risiko Lebih,-2.4,-1.85,Gizi Baik,-1.89,0,Pendek
+37,12.7,89,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.88,1,Pendek
+39,10.4,88,Sangat Kurang,-3.2,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+45,12.9,93,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.87,1,Pendek
+32,11.8,94,Risiko Lebih,-2.5,-1.85,Gizi Baik,-1.88,0,Pendek
+56,12.5,90,Gizi Baik,-1.6,-1.8,Gizi Baik,-1.88,1,Pendek
+33,10.6,88,Sangat Kurang,-3.3,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.3,91,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.87,1,Pendek
+44,10.8,92,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+54,11.5,90,Gizi Baik,-1.8,-1.8,Gizi Baik,-1.89,1,Pendek
+39,12.6,89,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+37,10.4,90,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.87,1,Pendek
+30,12.2,91,Risiko Lebih,-2.5,-1.85,Gizi Baik,-1.88,0,Pendek
+36,11.7,93,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+52,10.9,94,Sangat Kurang,-3.2,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+49,12.1,90,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.87,1,Pendek
+34,11,91,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+51,10.5,92,Gizi Baik,-1.7,-1.8,Gizi Baik,-1.89,1,Pendek
+40,12.4,88,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+33,11.9,93,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+46,10.4,89,Risiko Lebih,-2.2,-1.9,Gizi Baik,-1.88,0,Pendek
+39,12.8,90,Gizi Baik,-1.9,-1.8,Gizi Baik,-1.87,1,Pendek
+50,11.2,91,Sangat Kurang,-3.4,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+48,10.7,88,Berat Badan Normal,-1.6,-1.8,Gizi Baik,-1.89,1,Pendek
+53,12.2,92,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+41,11.3,90,Gizi Baik,-1.8,-1.8,Gizi Baik,-1.89,1,Pendek
+52,12.9,89,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2,0,Sangat Pendek
+36,10.8,91,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.87,1,Pendek
+40,12.4,93,Risiko Lebih,-2.2,-1.85,Gizi Baik,-1.88,0,Pendek
+54,11,92,Gizi Baik,-1.6,-1.8,Gizi Baik,-1.89,1,Pendek
+49,12.5,88,Sangat Kurang,-3,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+38,10.2,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.87,1,Pendek
+41,12.6,89,Risiko Lebih,-2.1,-1.9,Gizi Baik,-1.88,0,Pendek
+50,11.5,91,Gizi Baik,-1.9,-1.8,Gizi Baik,-1.87,1,Pendek
+35,10.9,92,Sangat Kurang,-3.2,-2.3,Gizi Kurang,-2,0,Sangat Pendek
+34,12,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+32,11.3,93,Risiko Lebih,-2.3,-1.85,Gizi Baik,-1.88,0,Pendek
+46,12.1,91,Gizi Baik,-1.8,-1.8,Gizi Baik,-1.87,1,Pendek
+48,10.4,90,Sangat Kurang,-3.4,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.8,92,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+37,10.9,94,Risiko Lebih,-2.2,-1.85,Gizi Baik,-1.88,0,Pendek
+50,11.5,91,Gizi Baik,-1.8,-1.8,Gizi Baik,-1.87,1,Pendek
+45,12,88,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2,0,Sangat Pendek
+41,10.7,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+49,12.2,92,Risiko Lebih,-2.3,-1.85,Gizi Baik,-1.88,0,Pendek
+38,11.1,91,Gizi Baik,-1.9,-1.8,Gizi Baik,-1.87,1,Pendek
+55,10.5,90,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.4,93,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+30,11.6,89,Risiko Lebih,-2.1,-1.9,Gizi Baik,-1.88,0,Pendek
+44,12.8,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+38,11.5,92,Sangat Kurang,-3.3,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+36,10.9,88,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.88,1,Pendek
+39,12.3,89,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+48,10.2,90,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+37,11.7,91,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+50,12.5,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+30,10.8,88,Risiko Lebih,-2.1,-1.9,Gizi Baik,-1.88,0,Pendek
+42,11.6,93,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+34,12.9,90,Sangat Kurang,-3.4,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+35,10.9,92,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.89,1,Pendek
+30,12.5,89,Risiko Lebih,-2.2,-1.85,Gizi Baik,-1.88,0,Pendek
+36,11.3,91,Gizi Baik,-1.7,-1.8,Gizi Baik,-1.87,1,Pendek
+39,12.6,88,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+41,10.9,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+50,12.4,90,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.87,0,Pendek
+45,11.8,93,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+33,10.5,91,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.7,92,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+42,11.4,88,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.87,0,Pendek
+40,12.3,90,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+38,10.9,93,Sangat Kurang,-3.3,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+49,11.6,89,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+45,12.5,88,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.88,0,Pendek
+35,11,90,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+42,10.2,92,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.7,93,Berat Badan Normal,-1.8,-1.8,Gizi Baik,-1.87,1,Pendek
+35,11.5,90,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+36,12.6,89,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.87,1,Pendek
+39,10.8,91,Sangat Kurang,-3.3,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+43,11.9,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+41,12.4,94,Risiko Lebih,-2.3,-1.9,Gizi Baik,-1.88,0,Pendek
+34,11.6,90,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+32,12.7,91,Sangat Kurang,-3.2,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+43,10.5,89,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.88,1,Pendek
+38,12.2,93,Risiko Lebih,-2.4,-1.85,Gizi Baik,-1.87,0,Pendek
+44,11.4,88,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+41,10.8,90,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+50,12.5,92,Berat Badan Normal,-1.9,-1.8,Gizi Baik,-1.87,1,Pendek
+43,11.3,90,Risiko Lebih,-2.1,-1.85,Gizi Baik,-1.88,0,Pendek
+31,10.7,93,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+35,12.1,90,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+46,11.6,91,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+49,10.8,92,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.87,0,Pendek
+50,11,90,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+42,12.5,91,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+45,10.6,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+39,12.4,88,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+41,11.5,92,Gizi Baik,-1.9,-1.8,Gizi Baik,-1.87,1,Pendek
+38,12.6,90,Sangat Kurang,-3.3,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+45,10.9,91,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+41,12.5,89,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+34,11.3,93,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+36,12.1,90,Sangat Kurang,-3.2,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+33,10.8,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.87,1,Pendek
+30,12.4,88,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+44,11.1,89,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+38,12.2,91,Sangat Kurang,-3.4,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+34,11.5,92,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+45,12.6,90,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.88,0,Pendek
+50,11.3,89,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+31,10.4,91,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+46,12.5,93,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+40,11.2,90,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.87,0,Pendek
+39,12.4,89,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+35,11.5,92,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+31,10.7,91,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+41,12.3,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+38,10.5,91,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.87,1,Pendek
+32,12.9,93,Sangat Kurang,-3.3,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+35,10.9,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+40,12.5,88,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.88,0,Pendek
+33,11.5,92,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+38,12.4,90,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+42,10.7,88,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+45,12.3,91,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+40,11,89,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+44,12.6,90,Sangat Kurang,-3.4,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+41,11.5,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+43,12.4,89,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+30,11.2,90,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.5,92,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.7,90,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.87,1,Pendek
+35,11.5,91,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.88,0,Pendek
+41,12.5,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+30,10.6,89,Sangat Kurang,-3.2,-2.1,Gizi Kurang,-2.1,0,Sangat Pendek
+46,12.9,93,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+41,11.5,91,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+37,12.4,88,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+38,10.7,92,Sangat Kurang,-3.3,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+30,12.5,90,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+33,10.4,91,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.87,0,Pendek
+39,12.7,93,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+42,10.6,90,Sangat Kurang,-3,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+46,12.3,91,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+43,11,89,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+34,12.8,90,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+32,10.5,93,Sangat Kurang,-3.4,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.1,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+45,10.6,89,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+38,12.7,88,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+31,11.4,90,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+44,12.4,89,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.88,1,Pendek
+39,10.9,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.87,0,Pendek
+46,12.8,92,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+38,11.5,90,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+34,12.1,91,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+36,10.7,88,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.87,0,Pendek
+32,12.2,90,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.88,1,Pendek
+31,10.9,93,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+30,12.6,92,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+34,11.1,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.87,0,Pendek
+33,12.5,91,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+31,10.5,88,Sangat Kurang,-3,-2.1,Gizi Kurang,-2.1,0,Sangat Pendek
+45,12.4,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+33,11.2,88,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.88,0,Pendek
+41,12.9,90,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+37,10.8,92,Sangat Kurang,-3.5,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+31,11.5,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.88,1,Pendek
+44,12.7,89,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.88,0,Pendek
+39,10.5,91,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+38,12.4,90,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+36,10.7,89,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+31,12.3,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+35,11.5,91,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+31,10.5,93,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+41,12.5,90,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+30,10.9,88,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.87,0,Pendek
+38,12.1,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+41,11.2,91,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+33,12.4,92,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+44,10.8,89,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+36,12.2,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+31,11.5,90,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+33,10.5,89,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+30,12.1,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.87,0,Pendek
+38,11.1,93,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+34,12.6,92,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+32,10.4,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+36,12.3,88,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.88,0,Pendek
+34,11.5,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+38,12.8,91,Sangat Kurang,-3.5,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+31,10.5,89,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+35,11,90,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.87,0,Pendek
+38,12.5,92,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+39,11.3,90,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+44,12.7,88,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+34,11,91,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+36,12.4,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+41,10.5,89,Sangat Kurang,-3.4,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+34,12.1,90,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.9,91,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.88,0,Pendek
+31,12.3,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+35,11,90,Sangat Kurang,-3.5,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+40,12.5,93,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+31,10.5,90,Risiko Lebih,-2,-1.8,Gizi Baik,-1.88,0,Pendek
+42,12.4,90,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+38,11.2,89,Sangat Kurang,-3.4,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.6,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+41,11.5,91,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+36,12.3,90,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+38,10.7,88,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+35,12.8,92,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+32,11.5,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.87,0,Pendek
+36,12.7,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.4,92,Sangat Kurang,-3.3,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+35,12.5,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+32,10.9,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.87,0,Pendek
+31,12.2,92,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.6,88,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+34,12.4,90,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+36,11.3,90,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.88,0,Pendek
+34,12.2,90,Gizi Baik,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+40,10.7,91,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+31,12.5,90,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+38,11.5,91,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.87,0,Pendek
+39,10.5,88,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+30,12.2,90,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+32,11.2,89,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+39,12.6,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.87,0,Pendek
+33,10.5,88,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.88,1,Pendek
+31,12.9,92,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+38,10.8,89,Berat Badan Normal,-1.9,-1.85,Gizi Baik,-1.88,1,Pendek
+31,11.5,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.87,0,Pendek
+34,12.3,91,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.7,92,Sangat Kurang,-3.2,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+34,12.5,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+37,11,89,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+40,12.6,90,Gizi Baik,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+30,10.4,88,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+31,12.8,92,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+35,10.6,91,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.87,0,Pendek
+41,12.5,90,Gizi Baik,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+36,10.5,93,Sangat Kurang,-3,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+41,12.2,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+35,11.8,91,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+36,12.4,88,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+40,10.5,90,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+31,12.6,91,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+40,11.5,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.87,0,Pendek
+30,10.5,89,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+36,12.5,90,Sangat Kurang,-3.4,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+34,10.5,90,Sangat Kurang,-3.5,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.4,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+31,11.5,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+38,12.5,91,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.4,88,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.2,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+36,12.3,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+39,11,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+35,10.4,91,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.87,0,Pendek
+40,11.2,92,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.5,90,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.5,91,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+31,10.6,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+33,10.5,90,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+30,12.4,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+36,10.8,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+33,11.1,90,Gizi Baik,-1.9,-1.85,Gizi Baik,-1.89,1,Pendek
+34,12.7,90,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+38,11.5,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+35,10.9,91,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+34,11,90,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.5,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+40,11.8,91,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.87,0,Pendek
+30,10.5,88,Sangat Kurang,-3.3,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.6,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+35,10.7,91,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+38,10.5,89,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+33,11.8,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+31,12.4,90,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.87,0,Pendek
+36,12.4,90,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+35,12.8,91,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+31,10.5,88,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+31,10.5,90,Sangat Kurang,-3.3,-2.3,Gizi Kurang,-2.1,0,Sangat Pendek
+40,12.6,90,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+32,11.5,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+34,12.3,90,Gizi Baik,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+30,11.6,91,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.2,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+40,10.8,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.87,0,Pendek
+30,10.5,88,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+34,12.1,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+33,11.5,90,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.88,0,Pendek
+30,10.5,90,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+35,12.7,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+31,10.6,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+30,11.2,90,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.5,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.5,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+36,11.4,90,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+31,12.8,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+30,10.4,89,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.87,0,Pendek
+35,11.5,90,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.5,90,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+34,10.6,91,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+36,11.1,90,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+35,12.7,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+34,10.4,88,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+31,10.5,90,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+30,12.1,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.6,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.87,0,Pendek
+30,10.4,88,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.5,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+30,11.4,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+31,11.6,91,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.5,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.6,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+35,11.4,90,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.5,90,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.4,90,Risiko Lebih,-2.3,-1.8,Gizi Baik,-1.87,0,Pendek
+31,10.5,90,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+36,12.1,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+39,10.5,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+40,11.5,90,Sangat Kurang,-3.2,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,12.4,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+35,10.6,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+39,11.5,90,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+31,12.2,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+30,11.5,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+34,12.6,90,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,10.6,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+38,11.5,90,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+38,10.5,90,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+30,12.7,90,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+30,11,90,Risiko Lebih,-2.4,-1.8,Gizi Baik,-1.88,0,Pendek
+39,10.4,90,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+38,12.1,90,Berat Badan Normal,-1.5,-1.85,Gizi Baik,-1.89,1,Pendek
+34,11.3,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+39,10.5,90,Sangat Kurang,-3.4,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+30,12.3,90,Berat Badan Normal,-1.8,-1.85,Gizi Baik,-1.89,1,Pendek
+35,10.8,91,Risiko Lebih,-2.2,-1.8,Gizi Baik,-1.88,0,Pendek
+31,10.5,90,Sangat Kurang,-3.1,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+30,11,90,Berat Badan Normal,-1.6,-1.85,Gizi Baik,-1.89,1,Pendek
+36,10.6,90,Risiko Lebih,-2.5,-1.8,Gizi Baik,-1.88,0,Pendek
+39,11.2,90,Sangat Kurang,-3.3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,10.6,90,Berat Badan Normal,-1.7,-1.85,Gizi Baik,-1.89,1,Pendek
+40,12.5,90,Risiko Lebih,-2.1,-1.8,Gizi Baik,-1.88,0,Pendek
+34,12.1,90,Sangat Kurang,-3,-2.2,Gizi Kurang,-2.1,0,Sangat Pendek
+39,14,97,Berat Badan Normal,-0.45,-0.01,Gizi Baik,-0.6,0,Normal
+32,13.5,95,Risiko Lebih,-1.6,-1.2,Gizi Baik,-1.7,1,Pendek
+51,14.8,100,Gizi Baik,-0.2,0.1,Gizi Baik,-0.3,0,Normal
+40,14.2,99,Berat Badan Normal,-0.52,-0.03,Gizi Baik,-0.74,1,Normal
+56,12,92,Sangat Kurang,-3.5,-2.5,Gizi Kurang,-2.2,0,Sangat Pendek
+38,14.1,98,Risiko Lebih,-1.4,-0.1,Gizi Baik,-0.8,1,Normal
+50,12.3,95,Berat Badan Normal,-1.2,-0.2,Gizi Baik,-0.7,0,Normal
+34,15,101,Gizi Baik,0.1,0.15,Gizi Baik,-0.3,1,Normal
+46,13.2,94,Risiko Lebih,-2,-1.4,Gizi Baik,-1.8,0,Pendek
+37,14.5,99,Berat Badan Normal,-0.7,-0.05,Gizi Baik,-0.65,1,Normal
+49,12.6,93,Sangat Kurang,-3,-2.6,Gizi Kurang,-2.3,0,Sangat Pendek
+33,14.7,98,Gizi Baik,-0.3,0,Gizi Baik,-0.4,1,Normal
+55,15.1,100,Berat Badan Normal,0.2,0.05,Gizi Baik,-0.6,0,Normal
+35,13.9,97,Risiko Lebih,-1.3,-1.2,Gizi Baik,-1.7,1,Pendek
+48,14.3,99,Gizi Baik,-0.6,-0.1,Gizi Baik,-0.75,0,Normal
+52,12.9,95,Sangat Kurang,-3.1,-2.4,Gizi Kurang,-2,1,Sangat Pendek
+30,14.2,98,Berat Badan Normal,-0.5,-0.05,Gizi Baik,-0.6,0,Normal
+45,14,96,Risiko Lebih,-1.5,-1.3,Gizi Baik,-1.9,1,Pendek
+36,13.7,95,Gizi Baik,-0.7,-0.15,Gizi Baik,-0.7,0,Normal
+50,15.2,101,Berat Badan Normal,0.1,0.2,Gizi Baik,-0.3,1,Normal
+39,13.8,97,Sangat Kurang,-3.2,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+41,14.4,100,Gizi Baik,-0.4,0.05,Gizi Baik,-0.8,1,Normal
+54,12.8,92,Risiko Lebih,-1.9,-1.5,Gizi Baik,-1.6,0,Pendek
+32,14.6,98,Berat Badan Normal,-0.3,0.1,Gizi Baik,-0.4,1,Normal
+46,15.3,99,Gizi Baik,-0.2,0.15,Gizi Baik,-0.3,0,Normal
+38,14.9,98,Risiko Lebih,-1,-1.2,Gizi Baik,-1.5,1,Pendek
+37,13.3,94,Sangat Kurang,-3.1,-2.7,Gizi Kurang,-2.2,0,Sangat Pendek
+40,14.5,97,Gizi Baik,-0.6,0.1,Gizi Baik,-0.75,1,Normal
+43,15,99,Berat Badan Normal,-0.4,-0.05,Gizi Baik,-0.8,0,Normal
+30,13.4,92,Risiko Lebih,-1.3,-1.2,Gizi Baik,-1.7,1,Pendek
+52,14.1,96,Gizi Baik,-0.5,-0.2,Gizi Baik,-0.7,0,Normal
+49,12.5,95,Sangat Kurang,-3.5,-2.6,Gizi Kurang,-2.3,1,Sangat Pendek
+36,14.4,97,Berat Badan Normal,-0.1,0,Gizi Baik,-0.5,0,Normal
+55,14.8,99,Risiko Lebih,-1.7,-1.8,Gizi Baik,-1.9,1,Pendek
+31,13,92,Gizi Baik,-0.5,0.05,Gizi Baik,-0.7,0,Normal
+45,14.9,98,Berat Badan Normal,-0.2,-0.1,Gizi Baik,-0.3,1,Normal
+38,12.1,93,Risiko Lebih,-2.2,-1.5,Gizi Baik,-1.7,0,Pendek
+39,14.6,99,Gizi Baik,-0.1,0,Gizi Baik,-0.3,1,Normal
+32,13.8,97,Sangat Kurang,-3,-2.4,Gizi Kurang,-2,0,Sangat Pendek
+50,14.3,95,Risiko Lebih,-1,-1.1,Gizi Baik,-1.3,1,Pendek
+41,15.2,100,Berat Badan Normal,0.2,0.1,Gizi Baik,-0.6,0,Normal
+44,14,98,Gizi Baik,-0.5,-0.1,Gizi Baik,-0.4,1,Normal
+48,13.6,95,Risiko Lebih,-1.8,-1.5,Gizi Baik,-1.8,0,Pendek
+53,14.5,99,Sangat Kurang,-3,-2.3,Gizi Kurang,-2.1,1,Sangat Pendek
+33,12.9,97,Berat Badan Normal,-0.7,-0.2,Gizi Baik,-0.5,0,Normal
+56,15.1,98,Risiko Lebih,-1.2,-1.3,Gizi Baik,-1.9,1,Pendek
+34,14.7,94,Gizi Baik,-0.2,0.05,Gizi Baik,-0.8,0,Normal
+40,12.4,95,Sangat Kurang,-3.5,-2.5,Gizi Kurang,-2.3,1,Sangat Pendek
+45,14,96,Berat Badan Normal,-0.1,0,Gizi Baik,-0.3,0,Normal
+30,12.7,99,Risiko Lebih,-1.8,-1.5,Gizi Baik,-1.7,1,Pendek
+53,14.2,100,Gizi Baik,-0.4,-0.1,Gizi Baik,-0.8,0,Normal
+36,15,99,Berat Badan Normal,-0.2,0.1,Gizi Baik,-0.7,1,Normal
+39,13.2,95,Sangat Kurang,-2.9,-2.4,Gizi Kurang,-2.1,0,Sangat Pendek
+52,14.5,97,Risiko Lebih,-1.1,-1.2,Gizi Baik,-1.3,1,Pendek
+30,14.3,98,Gizi Baik,-0.4,0.05,Gizi Baik,-0.3,0,Normal
+50,12.2,93,Berat Badan Normal,-0.8,-0.15,Gizi Baik,-0.5,1,Normal
+38,14.9,100,Risiko Lebih,-1.5,-1.7,Gizi Baik,-1.8,0,Pendek
+32,13.1,95,Gizi Baik,-0.3,-0.1,Gizi Baik,-0.6,1,Normal
+47,14.6,98,Sangat Kurang,-2.9,-2.6,Gizi Kurang,-2.3,0,Sangat Pendek
+33,12.5,94,Berat Badan Normal,-0.5,-0.1,Gizi Baik,-0.7,1,Normal
+36,15.2,99,Risiko Lebih,-1,-1.3,Gizi Baik,-1.8,0,Pendek
+49,14.1,95,Gizi Baik,-0.5,0,Gizi Baik,-0.5,1,Normal
+54,12.9,92,Berat Badan Normal,-0.2,0.1,Gizi Baik,-0.7,0,Normal
+34,14.5,99,Sangat Kurang,-2.5,-2.4,Gizi Kurang,-2.1,1,Sangat Pendek
+40,14.8,96,Risiko Lebih,-1.3,-1.6,Gizi Baik,-1.9,0,Pendek
+41,13.3,95,Gizi Baik,-0.2,0,Gizi Baik,-0.6,1,Normal
+48,14,98,Berat Badan Normal,-0.7,0.05,Gizi Baik,-0.8,0,Normal
+30,15.4,97,Sangat Kurang,-3.1,-2.3,Gizi Kurang,-2,1,Sangat Pendek
+32,12.8,92,Risiko Lebih,-1.8,-1.2,Gizi Baik,-1.5,0,Pendek
+37,14.5,96,Gizi Baik,-0.4,-0.1,Gizi Baik,-0.3,1,Normal
+55,12,93,Berat Badan Normal,-0.6,-0.2,Gizi Baik,-0.5,0,Normal
+50,14.4,99,Risiko Lebih,-1.7,-1.5,Gizi Baik,-1.8,1,Pendek
+39,13.7,98,Gizi Baik,-0.1,0,Gizi Baik,-0.3,0,Normal
+41,15,100,Berat Badan Normal,0.2,0.1,Gizi Baik,-0.6,1,Normal
+34,12.6,92,Sangat Kurang,-3.3,-2.5,Gizi Kurang,-2.3,0,Sangat Pendek
+46,14.1,97,Risiko Lebih,-1,-1.5,Gizi Baik,-1.7,1,Pendek
+35,13.9,95,Gizi Baik,-0.6,-0.1,Gizi Baik,-0.4,0,Normal
+50,14.3,99,Berat Badan Normal,-0.2,0,Gizi Baik,-0.3,1,Normal
+30,12.4,93,Risiko Lebih,-1.2,-1.3,Gizi Baik,-1.8,0,Pendek
+56,14.5,96,Gizi Baik,-0.5,-0.1,Gizi Baik,-0.5,1,Normal
+31,15.2,97,Berat Badan Normal,-0.6,-0.2,Gizi Baik,-0.7,0,Normal
+49,14,98,Risiko Lebih,-1.5,-1.2,Gizi Baik,-1.6,1,Pendek
+45,12.5,95,Gizi Baik,-0.2,0,Gizi Baik,-0.3,0,Normal
+36,15.1,100,Sangat Kurang,-2.9,-2.5,Gizi Kurang,-2.2,1,Sangat Pendek
+30,13.4,94,Risiko Lebih,-1,-1.2,Gizi Baik,-1.7,0,Pendek
+54,14.7,97,Gizi Baik,-0.3,-0.1,Gizi Baik,-0.4,1,Normal
+56,12.3,96,Berat Badan Normal,-0.5,-0.2,Gizi Baik,-0.5,0,Normal
+53,12.5,92,Berat Badan Normal,-1.2,-0.02,Gizi Baik,-0.8,0,Normal
+47,11.8,95,Risiko Lebih,-2,-1.5,Gizi Baik,-1.6,1,Pendek
+36,10.7,89,Gizi Kurang,-2.3,-2.05,Gizi Kurang,-1.9,0,Pendek
+50,12.2,94,Berat Badan Normal,-1.6,-0.03,Gizi Baik,-0.78,1,Normal
+39,13.5,90,Gizi Baik,-0.6,-0.01,Gizi Baik,-0.7,0,Normal
+48,11,92,Sangat Kurang,-2.7,-2.3,Gizi Kurang,-2,1,Sangat Pendek
+41,12.9,91,Risiko Lebih,-1.9,-0.02,Gizi Baik,-0.9,0,Normal
+44,10.4,93,Berat Badan Normal,-0.5,-0.01,Gizi Baik,-0.85,1,Normal
+35,12.6,88,Gizi Baik,-0.8,-1.8,Gizi Baik,-0.75,0,Pendek
+54,13,90,Risiko Lebih,-1.5,-0.02,Gizi Baik,-0.8,1,Normal
+40,11.6,95,Sangat Kurang,-2.9,-2.5,Gizi Kurang,-2.1,0,Sangat Pendek
+32,12.7,89,Berat Badan Normal,-0.9,-0.01,Gizi Baik,-0.7,1,Normal
+38,10.3,94,Gizi Kurang,-2.5,-2.2,Gizi Kurang,-1.95,0,Pendek
+52,12.1,92,Gizi Baik,-0.7,-0.02,Gizi Baik,-0.85,1,Normal
+45,11.5,90,Risiko Lebih,-1.4,-0.01,Gizi Baik,-0.75,0,Normal
+33,10.9,91,Sangat Kurang,-2.8,-2.4,Gizi Kurang,-2.05,1,Sangat Pendek
+37,12.4,90,Berat Badan Normal,-1,-0.02,Gizi Baik,-0.78,0,Normal
+49,10.6,92,Gizi Baik,-0.4,-0.01,Gizi Baik,-0.8,1,Normal
+55,13.2,90,Risiko Lebih,-1.5,-0.02,Gizi Baik,-0.9,0,Normal
+51,11.8,95,Sangat Kurang,-2.6,-2.1,Gizi Kurang,-2,1,Sangat Pendek
+42,12.5,89,Berat Badan Normal,-0.8,-0.01,Gizi Baik,-0.85,0,Normal
+34,10.2,93,Gizi Kurang,-2.9,-2.4,Gizi Kurang,-1.95,1,Pendek
+36,12.3,90,Gizi Baik,-0.3,-0.02,Gizi Baik,-0.7,0,Normal
+30,11.7,91,Risiko Lebih,-1.2,-0.01,Gizi Baik,-0.75,1,Normal
+39,10.8,92,Sangat Kurang,-2.3,-2.2,Gizi Kurang,-2.05,0,Sangat Pendek
+45,12,89,Berat Badan Normal,-0.9,-0.01,Gizi Baik,-0.78,1,Normal
+48,13.4,90,Risiko Lebih,-1.1,-0.02,Gizi Baik,-0.85,0,Normal
+33,11.9,91,Gizi Baik,-0.7,-0.01,Gizi Baik,-0.75,1,Normal
+38,10.4,93,Gizi Kurang,-2.5,-2.1,Gizi Kurang,-1.9,0,Pendek
+54,12.7,92,Berat Badan Normal,-1.5,-0.02,Gizi Baik,-0.7,1,Normal
+46,10.5,90,Risiko Lebih,-2,-0.01,Gizi Baik,-0.8,0,Normal
+32,11.4,91,Gizi Kurang,-2.8,-2.3,Gizi Kurang,-2.1,1,Pendek
+43,12.1,88,Sangat Kurang,-3,-2.5,Gizi Kurang,-2.05,0,Sangat Pendek
+40,10.6,92,Berat Badan Normal,-0.4,-0.02,Gizi Baik,-0.7,1,Normal
+38,11.2,90,Risiko Lebih,-1.8,-0.01,Gizi Baik,-0.85,0,Normal
+49,10.3,91,Gizi Baik,-0.5,-0.01,Gizi Baik,-0.8,1,Normal
+45,12.4,94,Sangat Kurang,-2.2,-2.4,Gizi Kurang,-2,0,Sangat Pendek
+34,11.8,90,Berat Badan Normal,-1.1,-0.02,Gizi Baik,-0.75,1,Normal
+36,13.1,88,Risiko Lebih,-1.3,-0.01,Gizi Baik,-0.8,0,Normal
+37,10.9,92,Gizi Kurang,-2.4,-2.1,Gizi Kurang,-1.95,1,Pendek
+52,12.5,90,Gizi Baik,-0.9,-0.01,Gizi Baik,-0.7,0,Normal
+44,11,91,Berat Badan Normal,-1.6,-0.02,Gizi Baik,-0.8,1,Normal
+35,10.4,92,Risiko Lebih,-2,-0.01,Gizi Baik,-0.75,0,Normal
+51,12.8,90,Sangat Kurang,-2.6,-2.3,Gizi Kurang,-2,1,Sangat Pendek
+39,11.3,88,Berat Badan Normal,-1.2,-0.02,Gizi Baik,-0.85,0,Normal
+30,12.2,93,Gizi Baik,-0.8,-0.01,Gizi Baik,-0.8,1,Normal
+45,10.7,92,Risiko Lebih,-1.9,-0.01,Gizi Baik,-0.7,0,Normal
+38,11.9,91,Gizi Kurang,-2.5,-2.1,Gizi Kurang,-1.95,1,Pendek
+36,12,90,Berat Badan Normal,-0.4,-0.02,Gizi Baik,-0.75,0,Normal
+49,11.5,88,Gizi Baik,-0.9,-0.01,Gizi Baik,-0.8,1,Normal
+42,10.1,90,Risiko Lebih,-1.1,-0.01,Gizi Baik,-0.7,0,Normal
+54,12.6,91,Gizi Kurang,-2.3,-2,Gizi Kurang,-1.85,1,Pendek
+37,10.8,92,Berat Badan Normal,-0.6,-0.02,Gizi Baik,-0.8,0,Normal
+48,12.3,90,Risiko Lebih,-1.3,-0.01,Gizi Baik,-0.75,1,Normal
+50,10.5,91,Gizi Kurang,-2.1,-2.1,Gizi Kurang,-1.9,0,Pendek
+35,12.4,93,Gizi Baik,-0.9,-0.01,Gizi Baik,-0.75,1,Normal
+39,11.7,92,Berat Badan Normal,-0.5,-0.02,Gizi Baik,-0.8,0,Normal
+36,10.9,90,Risiko Lebih,-1.4,-0.01,Gizi Baik,-0.75,1,Normal
+33,12.2,93,Sangat Kurang,-2.8,-2.5,Gizi Kurang,-2.05,0,Sangat Pendek
+47,10.6,91,Gizi Baik,-0.4,-0.01,Gizi Baik,-0.8,1,Normal
+50,12.8,88,Risiko Lebih,-1.5,-0.02,Gizi Baik,-0.75,0,Normal
+41,11.2,90,Gizi Kurang,-2.3,-2.1,Gizi Kurang,-1.95,1,Pendek
+30,10.7,92,Berat Badan Normal,-0.6,-0.02,Gizi Baik,-0.7,0,Normal
+35,12.4,93,Risiko Lebih,-1.8,-0.01,Gizi Baik,-0.85,1,Normal
+53,10.3,90,Gizi Baik,-0.9,-0.01,Gizi Baik,-0.8,0,Normal
+48,11.8,91,Sangat Kurang,-2.7,-2.5,Gizi Kurang,-2.1,1,Sangat Pendek
+46,12,88,Berat Badan Normal,-0.4,-0.02,Gizi Baik,-0.7,0,Normal
+50,10.9,90,Risiko Lebih,-1.1,-0.01,Gizi Baik,-0.8,1,Normal
+33,12.2,91,Gizi Baik,-0.7,-0.01,Gizi Baik,-0.75,0,Normal
+34,11.6,92,Gizi Kurang,-2.2,-2.1,Gizi Kurang,-1.9,1,Pendek
+36,12.9,93,Berat Badan Normal,-0.8,-0.01,Gizi Baik,-0.8,0,Normal
+35,10.5,90,Risiko Lebih,-1.2,-0.01,Gizi Baik,-0.75,1,Normal
+45,12.4,92,Gizi Baik,-0.6,-0.01,Gizi Baik,-0.7,0,Normal
+40,11.7,91,Sangat Kurang,-2.5,-2.3,Gizi Kurang,-2.1,1,Sangat Pendek
