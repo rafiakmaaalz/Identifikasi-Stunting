@@ -2,6 +2,7 @@ numpy
 pandas
 streamlit
 pip
-sklearn
+scikit-learn
 matplotlib.pyplot
 seaborn
+pickle
